@@ -1,0 +1,16 @@
+channels:
+ - conda-forge
+ - bioconda
+dependencies:
+ - r-base=4.1
+ - r-dplyr=1.0.9
+ - r-tidyr=1.2.0
+ - r-readxl=1.4.0
+ - r-ggplot2=3.3.6
+ - r-venn=1.11
+ - r-ontologyindex=2.9
+ - r-ggpolypath=0.1.0
+ - bioconductor-topgo=2.46.0
+ - bioconductor-rrvgo=1.6.0
+ - bioconductor-org.hs.eg.db=3.14.0
+ - bioconductor-viseago=1.8.0

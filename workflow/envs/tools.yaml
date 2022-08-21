@@ -1,0 +1,6 @@
+channels:
+ - conda-forge
+ - anaconda
+dependencies:
+ - wget
+ - csvkit=1.0.7
