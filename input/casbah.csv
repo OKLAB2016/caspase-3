@@ -1,0 +1,399 @@
+Name,UniProt,Synonyms,Consequences of caspase dependant proteolysis (proposed),Site(s) of caspase mediated cleavage,References
+Acinus,ACINU_HUMAN,Apoptotic chromatin condensation inducer in the nucleus,Putative: involved in oligonuclosomal DNA fragmentation but not in chromatin condensation,DELD (1093),"1, 2"
+a Actin,ACTC_HUMAN,"Actin, a cardiac","Unknown, possibly myofibrillar damage",Unknown,3
+a Actinin,ACTN1_HUMAN,"a-actinin 1, a-actinin cytoskeletal isoform, Non-muscle a-actinin 1, F-actin cross linking protein",Putative: myofibrillar damage,Unknown,4
+Ad12E1A,E1A_ADE12,Early E1A 29.5 kDa protein,Unknown,Unknown,5
+a Adducin ,ADDA_HUMAN,"a adducin, Erythrocyte adducin a subunit",Putative: reduction of adducin from adherens junctions and possibly cell detachment,DDSD (633),6
+AHNAK,AHNK_HUMAN,"Neuroblast differentiation-associated protein AHNAK, Desmoyokin, PM227",Unknown,Unknown,7
+AKT,AKT1_HUMAN,RAC-a serine/threonine-protein kinase,"Loss of kinase activity, Putative: loss of survival signalling","ECVD (462), TVAD (108), EEMD (119)","8,9"
+Androgen receptor,ANDR_HUMAN,Dihydrotestosterone receptor,Putative: neurodegeneration,Unknown,10
+AP-1 b1,AP1B1_HUMAN,"Adapter-related protein complex 1 b-1 subunit, b-adaptin 1,  Golgi adaptor HA1/AP1 adaptin b subunit, Clathrin assembly protein complex 1 b large chain","AP-1 still assembles, Putative: regulation of endosomal trafficking",Unknown,11
+AP-1 g,AP1G1_HUMAN,"Adapter-related protein complex 1 g-1 subunit, g-adaptin,  Golgi adaptor HA1/AP1 adaptin subunit g-1, Clathrin assembly protein complex 1 g-1 large chain","AP-1 still assembles, Putative: regulation of endosomal trafficking",Unknown,11
+AP-2 a,AP2A_HUMAN,"Transcription factor AP-2 a, AP2-a, Activating enhancer- binding protein 2 a, AP-2 transcription factor, Activator protein-2, AP-2","Putative: oss of DNA binding capability, reduction in endocytosis",DRHD (19),12
+Apaf-1,APAF_HUMAN,Apoptotic protease activating factor 1,Associated with inactive 1.4 MDa Apoptosome complex,SVTD (271) + Unknown site,"13,14"
+APC,APC_HUMAN,"Adenomatous polyposis coli protein, APC protein",Separates b-catenin binding region and armadillo repeat,DVID (777),"15,16"
+APLP1,APLP1_HUMAN,"Amyloid-like protein 1 precursor, APLP",Proapoptotic upon overexpression of C- and N-terminal fragment,VEVD (620),17
+APP,A4_HUMAN,"Amyloid b A4 protein precursor, APP, ABPP, Alzheimer's disease amyloid protein, Cerebral vascular amyloid peptide, CVAP, Protease nexin-II, PN-II, APPI, PreA4",Proapoptotic upon overexpression of C-terminal fragment,VEVD (739),"18, 17"
+Arachidonate 5-lipoxygenase,LOX5_HUMAN,"5-LO, ALOX5, LOG5",Unknown,IQFD (170),19
+Ataxin-3,ATX3_HUMAN,"Machado-Joseph disease protein 1, Spinocerebellar ataxia type 3 protein",Putative: aggregation of fragment may lead to neurodegeneration,Unknown,10
+ATM,ATM_HUMAN,Serine-protein kinase ATM,"Loss of kinase activity. Fragment still binds DNA, oligomerises with itself and acts as a dominant negative inhibitor",DYPD (863),20
+ATP-dependent RNA helicase A,DHX9_HUMAN,"Nuclear DNA helicase II, NDH II, DEAH- box protein 9, RHA",Putative reduction of transcription,EEVD (167),21
+Atrophin-1,ATN1_HUMAN,"Atrophin-1, Dentatorubral-pallidoluysian atrophy protein",Putative: aggregation of fragment may lead to neurodegeneration,DSLD (109),"10, 22"
+Bad,"BAD_HUMAN, BAD_MOUSE","Bcl2-antagonist of cell death, Bcl-2 binding component 6, Bcl- XL/Bcl-2 associated death promoter, Bcl-2-like 8 protein","Reduced 14-3-3 binding, more efficient CytC release when overexpressed, proapoptotic",Human: EQED (14),23
+,,,,"Murine: EQED (56), SATD (61)",
+BAP31,BAP31_HUMAN,"B-cell receptor-associated protein 31, p28 Bap31, CDM protein, 6C6-AG tumour-associated antigen, DXS1357E",Overexpressed fragment downregulates surface CD9 and possibly CD80 and reduces cell attachment to fibronectin. Overexpression is proapoptotic,AAVD (163),"24,25"
+BAT3,BAT3_HUMAN,"Large proline-rich protein BAT3, HLA-B-associated transcript 3, Protein G3",Overexpressed C-terminal fragment leads to morphological changes similar to apoptosis,DEQD (1001),26
+Bax,BAXA_HUMAN,Apoptosis regulator BAX membrane isoform a,Unknown,FIQD (33),27
+BCAR1,BCAR1_HUMAN,"Breast cancer anti-oestrogen resistance protein 1, CRK-associated substrate, p130cas",Overexpressed C-terminal fragment binds E2A and inhibits E2A mediated p21WAF1/Cip transcription,DSPD (650),"28,29"
+,BCAR1_MOUSE,,,,
+Bcl-2,B2L12_HUMAN,Bcl-2-like 12 protein,C-terminal fragment is proapoptotic when overexpressed. Overexpression of noncleavable slightly inhibits apoptosis,DAGD (34),30
+Bcl-XL,BCLX_HUMAN,"Apoptosis regulator Bcl-X, Bcl-2-like 1 protein",C-terminal fragment is proapoptotic when overexpressed,"HLAD (61), SSLD (76)","31,32"
+b  Actin ,ACTB_HUMAN,"Actin, cytoplasmatic 1, b-actin",Unknown,ELPD (244),33
+Bid,BID_HUMAN,BH3 interacting domain death agonist,Translocates to mitochondria and induces apoptosis through MOMP,"LQTD (59), IEAD (74)",34-37 
+Bim,BIM_HUMAN,"Bcl-2-like protein 11, Bcl2-interacting mediator of cell death, BimEL",More efficient binding to Bcl2. N-terminal fragment is proapoptotic upon overexpression,SECD (13),38
+BLM,BLM_HUMAN,Bloom's syndrome protein,Interaction with topoisomerase 3 a is impaired but the C-terminal fragment retains helicase activity. Putative: released form the nuclear matrix,TEVD (415),39
+BMX,BMX_HUMAN,"Cytoplasmic tyrosine-protein kinase BMX, ETK, NTK38",Increased kinase activity and proapoptotic upon overexpression of cleaved fragment,DFPD (242),40
+BRCA-1,BRCA1_HUMAN,Breast cancer type 1 susceptibility protein,Overexpression of C-term BRCA-1 leads to accumulation of the fragment and is proapoptotic. Overexpression of noncleavable mutant shows reduced UV induced apoptosis,DLLD (1154),41
+BTF3,BTF3_HUMAN,"Transcription factor BTF3, RNA polymerase B transcription factor 3",Unknown,Unknown,42
+Bub1,BUB1_HUMAN,"hBUB1, BUB1A, BUBL, Mitotic checkpoint serine/threonine-protein kinase BUB1",Unknown,Unknown,43
+BUB1 b,BUB1B_HUMAN,"Mitotic checkpoint serine/threonine-protein kinase BUB1 b, hBUBR1, MAD3/BUB1-related protein kinase, SSK1, MAD3L",Overexpression of noncleavable form leads to delayed mitotic cell cycle,DTCD (610),44
+C9orf78,Q6GVN4_HUMAN,Heptocellular carcinoma-associated antigen 59,Unknown,Unknown,45
+c-Abl,ABL1_HUMAN,Proto-oncogene tyrosine-protein kinase ABL1,Putative: suppression of erythropoiesis,Unknown,46
+CAD,NP_004332,"carbamoylphosphate synthetase 2/aspartate transcarbamylase/dihydroorotase, CPS-II",Putative: loss of CAD activity,Unknown,47
+cadherin 2,CADH2_HUMAN,"Neural-cadherin precursor, N-cadherin",Putative: loss of cell adhesion,Unknown,48
+CALM,Q6GMQ6_HUMAN,"Phosphatidylinositol binding Clathrin assembly protein, PICALM",Unknown,Unknown,49
+Calnexin precursor,CALX_MOUSE ,Canx,Attenuates ER stress induced apoptosis,DEED (568),50
+Calpain,CAN1_Human,"Calpain-1 catalytic subunit, Calpain-1 large subunit, Calpain mu-type",Unknown,Unknown,51
+Calpastatin,ICAL_HUMAN,"Calpain inhibitor, Calpastatin, Sperm BS-17 component",Decreased inhibition of calpain,"ALDD (137), LSSD (203), ALAD (404)",52
+Calsenilin,CSEN_HUMAN,"DRE-antagonist modulator, DREAM, Kv channel-interacting protein 3, A-type potassium channel modulatory protein 3, KChIP3",Separates the calcium responsive domain from a novel domain. Putative: involved in Alzheimer's disease,DSSD (64),53
+CaMKII a,KCC2A_RAT ,Calcium/calmodulin-dependent protein kinase type II a chain,Unknown,Unknown,54
+CaMKIV,KCC4_MOUSE ,"Calcium/calmodulin-dependent protein kinase type IV catalytic chain, ",Loss of kinase activity,PAPD (176),54
+CaMKK,KKCC1_HUMAN,"CAMKK a protein, Calcium/calmodulin-dependent protein kinase 1 a, isoform a",Unknown,Unknown,54
+CaMKLK,"MP2K1_HUMAN, M3K1_MOUSE MST4_HUMAN","Mitogen-activated protein kinase kinase kinase 1, ","N-terminal fragment is proapoptotic, C-terminal fragment loses kinase activity",DEND (62),55
+Cas,"BCAR1_HUMAN, BCAR1_MOUSE ","CRK-associated substrate, p130Cas, Breast cancer anti-oestrogen resistance 1 protein",Contributes to disassembly of focal adhesion complexes,"DVPD (416), DSPD (748)",56
+b Catenin ,CTNB1_HUMAN,"b-catenin, PRO2286",Reduced a-catenin binding. Putative: loss of cell adhesion,"SYLD (32), ADID (83), TQFD (115), YQDD (145), NDED (164), YPVD (751)","57,58"
+g-Catenin,Q86W21_HUMAN,g-catenin,"Inactivated, involved in cell dismantling. Putative: loss of cell adhesion",Unknown,"56,58"
+Cbl,CBL_HUMAN,CBL E3 ubiquitin protein ligase,Unknown,Unknown,8
+Cbl-b,CBLB_HUMAN,"Signal transduction protein CBL-B, SH3-binding protein CBL-B, Proto-oncogene c-CBL, Casitas B-lineage lymphoma proto-oncogene, RING finger protein 55",Unknown,Unknown,8
+CBX1,CBX1_HUMAN,"Chromobox protein homolog 1, heterochromatin protein 1 homolog b, HP1 b, Modifier 1 protein M31, Heterochromatin protein p25",Unknown,HETD (78),45
+CDB3,B3AT_HUMAN,"Band 3 anion transport protein , Anion exchange protein 1, AE 1, Solute carrier family 4 member 1, CD233 antigen, SLC4A1, AE1, EPB3",Decreased binding to protein 4.2,"TATD (45), EQGD (205)",59
+CCT a,PCY1A_HUMAN,Choline-phosphate cytidylyl transferase A,Putative: relocalisation to cytoplasm,TEED (28),60
+CDC27,CDC27_HUMAN,"Cell division cycle protein 27 homolog, CDC27Hs, H-NUC",Decrease of ubiquitin ligase activity,Unknown,61
+Cdc42,CDC42_HUMAN,"Cell division control protein 42 homolog, G25K GTP-binding protein",Overexpression of non-cleavable mutant is antiapoptotic,DLRD (121),62
+Cdc6,CDC6_HUMAN,"Cell division control protein 6 homolog, CDC6-related protein, HsCDC6, HsCDC18",Impaired binding to chromatin. Overexpression of non-cleavable mutant delays apoptosis,"LVRD (99), SEVD (422)","63,64"
+CD-IC,DC1I1_HUMAN,"Dynein intermediate chain 1, cytosolic, DH IC-1, Cytoplasmic dynein intermediate chain 1, DYNC1I1",Destroys the cytoplasmatic dynein complex and stops dynein dependent membrane motility,DSGD (116),65
+c-FLIP,CFLAR_HUMAN,"CASP8 and FADD-like apoptosis regulator precursor, Cellular FLICE-like inhibitory protein, Caspase-8-related protein, Casper, Caspase-like apoptosis regulatory protein, CLARP, MACH-related inducer of toxicity",Unknown,LEVD (376),66
+c-IAP1,BIRC2_HUMAN,"Baculoviral IAP repeat-containing protein 2, Inhibitor of apoptosis protein 2, HIAP2, HIAP-2, C-IAP1, TNFR2-TRAF signalling complex protein 2, IAP homolog B",Low level inhibition of activated caspases,ENAD (372),67
+Claspin,CLSPN_HUMAN,HClaspin,"C-terminal fragment doesn't bind Chk1 anymore, and inhibits Chk1 phosphorylation and checkpoint signalling",DEYD (1072),68
+Coatomer b,COPB2_HUMAN,"Beta-coat protein, b-COP, p102",Unknown,Unknown,4
+Connexin 45.6,CXA7_HUMAN,"Gap junction a-7 protein, Connexin 45, Cx45",Unknown,DEVD (367),69
+Cortactin,Q96H99_HUMAN,CTTN,Putative: disruption of cytoskeletal reorganisation,Unknown,70
+cPLA2a,PA24A_HUMAN,"Cytosolic phospholipase A2, Phospholipase A2 group IVA",Loss of phospholipase activity and constitutively associated with membranes. Putative: immunosuppressive,DELD (522),71
+CREB-binding protein,CBP_HUMAN,"CREBBP, CBP",Unknown,Unknown,72
+CREB,CREB1_HUMAN,cAMP response element binding protein,Putative: abolishes antiapoptotic effect,Unknown,73
+c-Rel,REL_HUMAN,C-Rel proto-oncogene protein,Loss of transcriptional activity,Unknown,74
+CrmA,M2_IAANN ,Matrix protein M2,Inhibition of caspases,LVAD (303),75
+CSDA,DBPA_HUMAN,"DNA-binding protein A, Cold shock domain-containing protein A, Single-strand DNA-binding protein NF-GMB",Unknown,EMKD (269),45
+cten,TENS4_HUMAN,C-terminal tensin-like protein,Overexpressed C-terminal fragment is proapoptotic,DSTD (570),76
+Cyclin A1 / A2,CCNA1_XENLA ,,Unknown,DEPD (90) not conserved in human,77
+Cyclin-dependent kinase inhibitor 1,CDN1A_HUMAN,"p21, CDK-interacting protein 1, Melanoma differentiation associated protein 6, MDA-6",Reduced association with cyclin-cdk2 complexes and increased cdk2 activity,DHVD (112),78
+Cyclin E,CCNE1_HUMAN,G1/S-specific cyclin E1,Loss of Cdk2 binding. C-terminal fragment is proapoptotic when overexpressed,LDVD (275),79
+Cytokeratin 14,K1C14_HUMAN,"Keratin, type I cytoskeletal 14, K14, CK 14",Unknown,Unknown,80
+Cytokeratin 15,K1C15_HUMAN,"Keratin, type I cytoskeletal 15, K15, CK 15",Unknown,VEMD (264),81
+Cytokeratin 17,K1C17_HUMAN,"Keratin, type I cytoskeletal 17, K17, CK 17",Unknown,"VEMD (241), EVQD (416)",81
+Cytokeratin 18,K1C18_HUMAN,"Keratin, type I cytoskeletal 18, K18, CK 18",Unknown,VEVD (237),80
+Cytokeratin 19,K1C19_HUMAN,"Keratin, type I cytoskeletal 19, K19, CK 19",Unknown,Unknown,80
+DCC,DCC_HUMAN,"Tumour suppressor protein DCC precursor, Colorectal cancer suppressor",N-terminal fragment is proapoptotic upon overexpression,"D (1185), D (1290), ",82
+DDX1,DDX1_HUMAN,"ATP-dependent helicase DDX1, DEAD box protein 1",Unknown,DEFD (685),45
+Desmocollin-3,DSC3_HUMAN,"Desmocollin 3 precursor, Desmocollin 4, HT-CP",Putative: loss of cell cell contact,Unknown,83
+Desmoglein-1,DSG1_HUMAN,"Desmosomal glycoprotein 1, DG1, Pemphigus foliaceus antigen, DSG1",Decreased cell surface expression of desmoglein 1,DLRD (888),84
+Desmoglein-3,DSG3_HUMAN,"Desmoglein 3 precursor, 130 kDa pemphigus vulgaris antigen, PVA",Putative: loss of cytoskeleton structure and cell cell contact,DYAD (781),83
+Desmoplakin,DESP_HUMAN,"Desmoplakin, DP, 250/210 kDa paraneoplastic pemphigus antigen",Putative: loss of cytoskeleton structure and cell cell contact,Unknown,"83,84"
+dIAP1,IAP1_DROME ,Inhibitor of apoptosis 1,Ubiquitinates processed DRONC,DQVD (20),85
+DLG1,DLG1_HUMAN,"Disks large homolog 1, hDLG, Synapse-associated protein 97, SAP-97",Putative: disruption of cell-cell contact,QSVD (427),86
+DNA-PKCs,PRKDC_HUMAN,DNA-dependent protein kinase catalytic subunit,Loss of catalytic protein kinase activity,DEVD (2713),87
+Dynactin-1,DYNA_HUMAN,"150 kDa dynein-associated polypeptide, DP-150, DAP-150, p150-glued, p135",Destroys the cytoplasmatic dynein complex and stops dynein dependent membrane motility,Unknown,65
+Dynamin-2,DYN2_HUMAN,Dynamin 2,Unknown,DQVD (352),45
+EAAT2,"EAA2_HUMAN, EAA2_MOUSE , EAA2_RAT","Excitatory amino acid transporter 2, Sodium-dependent glutamate/aspartate transporter 2, SLC1A2, GLT1",Impairment of glutamate transport activity,DTID (505),88
+E-cadherin,CADH1_HUMAN,"Epithelial-cadherin precursor, Uvomorulin, Cadherin-1, CAM 120/80",Release of intracellular fragment,"DTRD (human 750, mouse 752, rat 754)","89,90"
+EGF-R,EGFR_HUMAN,Epidermal growth factor receptor precursor,Impaired tyrosine phosphorylaion of PLC-g 1 and hence impaired passing on survival signals,Unknown,91
+eIF2a,IF2A_HUMAN,"Eukaryotic translation initiation factor 2 a subunit, eIF-2-a,",Putative: N-terminal fragment might not be phosphorylated by PKR,"AEVD (301), DGDD (304)",92
+eIF3,IF3A_HUMAN,"Eukaryotic translation initiation factor 3, eIF-3 theta, p167, p180, p185",Unknown,"DLAD (242), DYED (256)",93
+eIF3S1,IF31_HUMAN,"Eukaryotic translation initiation factor 3 subunit 1, eIF-3 a, eIF3 p35",Unknown,DSWD (15),45
+eIF4B,IF4B_HUMAN,Eukaryotic translation initiation factor 4B ,Loss of poly(A)-binding and translation,DETD (45),93
+eIF4E type 3,IF4E3_HUMAN,"Eukaryotic translation initiation factor 4E type 3, mRNA cap-binding protein type 3, eIF4E-like protein 4E-LP",Unknown,TQKD (27),45
+eIF4E-BP1,4EBP1_HUMAN,"Eukaryotic translation initiation factor 4E-binding protein 1, Phosphorylated heat- and acid-stable protein regulated by insulin 1, PHAS-I, EIF4EBP1",Dominant-negative inhibitor of CAP-dependant translation,VLGD (25),93
+eIF4G 1,IF4G1_HUMAN,"Eukaryotic translation initiation factor 4g1, p220",Inhibition of translation,"DLLD (492), DRLD (1136)",94
+eIF4G 2,IF4G2_HUMAN,"Eukaryotic translation initiation factor 4 g 2, eIF-4-g 2, eIF-4G 2, p97, Death associated protein 5, DAP5, NAT1","DAP5 still binds to eIF4A and eIF3 and has an increased translation from the IRES sites of c-Myc, Apaf-1, DAP5 and XIAP",DETD (790),95
+eIF4G 3,IF4G3_HUMAN,"Eukaryotic translation initiation factor 4 g 3, eIF-4-g 3, eIF-4G 3, eIF-4-g II, eIF4GII",Dominant-negative inhibitor of CAP-dependant translation,Unknown,93
+eIF4H,IF4H_HUMAN,"Eukaryotic translation initiation factor 4H, Williams-Beuren syndrome chromosome region 1 protein",Unknown,DEVD (92),45
+Emerin,EMD_HUMAN,Emerin,Putative: involved in nuclear envelope breakdown,Unknown,96
+Endoplasmin,ENPL_HUMAN,"Heat shock protein 90 kDa b member 1, 94 kDa glucose-regulated protein, GRP94, gp96 homolog",Unknown,VDVD (28),45
+ErbB-2,ERBB2_HUMAN,"Receptor tyrosine-protein kinase erbB-2 precursor, p185erbB2, NEU proto-oncogene, MLN 19, HER2",Overexpression of  a noncleavable mutantprotects from apoptosis. ,"SETD (1125), DVFD (1087)","97, 98"
+,,,Putative: loss of kinase activity,,
+F1A  a,NP_056137,Mammalian homologue of FEM-1,Loss of apoptosis inducing ability,DNID (342),99
+FAK,FAK1_HUMAN,"Focal adhesion kinase 1, FADK 1, pp125FAK, Protein-tyrosine kinase 2, PTK2",Contributes to disassembly of focal adhesion complexes,DQTD (772),100
+FEM-1,FEM1_CAEEL ,"Sex-determining protein fem-1, Feminization of XX and XO animals protein 1, isx-1",Induces apoptosis through interaction with Ced-4,ELLD (320),101
+FHOD1,FHOD1_HUMAN,"FH1/FH2 domain-containing protein, Formin homolog overexpressed in spleen, FHOS",Overexpressed C-terminal fragment translocates to nucleus and inhibits transcription,SVPD (615),102
+Filamin-A,FLNA_HUMAN,"a-filamin, Filamin 1, Endothelial actin-binding protein, ABP-280, Nonmuscle filamin",Putative: disruption of cytoskeletal reorganisation,Unknown,103
+FKBP46,FKBP4_SPOFR ,"46 kDa FK506-binding nuclear protein, ",Unknown,Unknown,104
+FLI-1,FLI1_MOUSE ,"Friend leukaemia integration 1 transcription factor, Retroviral integration site protein Fli-1, FLI1",Putative: loss of transcription factor function to ensure apoptosis,"SLFD (20), MEID (155), SHTD (209)",105
+FTase,PFTA_HUMAN,"Protein farnesyltransferase / geranylgeranyltransferase type I a subunit, CAAX farnesyltransferase a subunit, Ras proteins prenyltransferase a, GGTase-I-a",Loss of Ftase and GGTaseI activity. The overexpressed fragment is slightly proapoptotic,VSLD (59),106
+,PFTA_MOUSE ,,,,
+FUSE-binding protein 2,FUBP2_HUMAN,"Far upstream element-binding protein 2, KHSRP, KH type splicing regulatory protein, KSRP, p75",Unknown,Unknown,42
+Fyn,FYN_HUMAN,"Proto-oncogene tyrosine-protein kinase FYN, p59-Fyn, SLK",Relocalisation and increased kinase activity,EERD (19),107
+GAL4,GAL4_YEAST ,Regulatory protein GAL4,Loss of transcriptional activity,Unknown,108
+Gas2,GAS2_HUMAN,Growth-arrest-specific protein 2,Regulation of microfilament and cell shape changes,SRVD (37),109
+GATA-1,GATA1_HUMAN,"Erythroid transcription factor, Eryf1, GF-1, NF-E1",Loss of transcriptional activity which leads to impaired erythropoiesis,EDLD (125),110
+GCL,GSH1_HUMAN,"Glutamate-cysteine ligase catalytic subunit, g-ECS, GCS heavy chain, g-glutamylcysteine synthetase",Loss of the antioxidant glutathione,AVVD (449),111
+Gelsolin,GELS_HUMAN,"Gelsolin precursor, Actin-depolymerizing factor, ADF, Brevin, AGEL","Loss of binding to monomeric actin and triggering of F-actin depolimerisation, membrane blebbing",DQTD (403),"112,113"
+GFAP,GFAP_HUMAN,Glial fibrillary acidic protein,Unknown,Unknown,114
+Giantin,Q63714_RAT ,"Golgin subfamily B member 1, Macrogolgin, 372 kDa Golgi complex-associated protein, GCP372, GOLGB1",Putative: blocks protein-exit from the ER,DVTD (1882). DAGD (1083),115
+Glutamate receptor 1,GRIA1_HUMAN,"GluR-1, GluR-A, GluR-K1, Glutamate receptor ionotropic AMPA 1, AMPA-selective glutamate receptor 1",Unknown,Unknown,116
+Glutamate receptor 2,GRIA2_HUMAN,"GluR-2, GluR-B, GluR-K2, Glutamate receptor ionotropic AMPA 2, AMPA-selective glutamate receptor 2",Unknown,Unknown,116
+Glutamate receptor 3,GRIA3_HUMAN,"GluR-3, GluR-C, GluR-K3, Glutamate receptor ionotropic AMPA 3, AMPA-selective glutamate receptor 3",Unknown,Unknown,116
+Glutamate receptor 4,GRIA4_HUMAN,"GluR-4, GluR4, GluR-D, Glutamate receptor ionotropic AMPA 4, AMPA-selective glutamate receptor 4",Unknown,Unknown,116
+Glycyl-tRNA synthetase,SYG_HUMAN,"GARS, GlyRS",Unknown,VDVD (92),45
+GM130,GOGA2_HUMAN,"Golgin subfamily A member 2, Cis-Golgi matrix protein GM130, Gm130 autoantigen, Golgin-95",Unknown,Unknown,"115,117"
+Golgin-160,GOGA3_HUMAN,"Golgi autoantigen, golgin subfamily A member 3, Golgin-160, Golgi complex-associated protein of 170 kDa, GCP170",Breakdown of Golgi complex,"ESPD (59), CSTD (139), SEVT (311)",118
+Gpatch domain and KOW motifs,GPKOW_HUMAN,"Gpatch domain and KOW motifs, Protein T54",Unknown,"GLAD (97), DRQD (339)",45
+GRASP-1,GRAP1_HUMAN,"GRIP1-associated protein 1, GRIPAP1, KIAA1167 ",Unknown,DTVD (594),119
+GRASP65,GR65_HUMAN,"Golgi perepheral membrane protein, p65",Breakdown of Golgi complex,"SSLD (320), SFPD (375), FLPD (393)",120
+GrpL/Gads,GRAP2_HUMAN,"GRB2-related adaptor protein 2, GADS protein, Growth factor receptor binding protein, Grf40 adaptor protein, Grf-40, GRB-2-like protein, GRB2L, GRBX, P38, Haematopoietic cell-associated adaptor protein GrpL",Desensitization of antigen receptor signalling,DIND (235),121
+Guanine nucleotide binding protein like 1,Q96CT5_HUMAN,"GTP-binding protein HSR1, GNL1 ",Unknown,DTSD (52),45
+H/ACA ribonucleoprotein complex subunit 4,DKC1_HUMAN,"Dyskerin, snoRNP protein DKC1, Nopp140-associated protein of 57 kDa, Nucleolar protein NAP57, CBF5 homolog",Unknown,EYVD (417),45
+HEF1,CASL_HUMAN,"Enhancer of filamentation 1, CRK-associated substrate-related protein, CAS-L, CasL, p105, Neural precursor cell expressed developmentally down-regulated 9, NEDD9",Putative: disrupts antiapoptotic integrin signalling,"DLVD (363), DDYD (630)","122,123"
+Helicard,IFIH1_MOUSE ,"Interferon induced with helicase C domain protein 1, Helicase with 2 CARD domains, Melanoma differentiation-associated protein 5, MDA-5",Overexpressed C-terminal fragment translocates to the nucleus and accelerated DNA degradation. Putative: Involved in chromatin remodelling,"DNTD (208), SCTD (251), SHRD (216) + Unknown site between 260 and 280",124
+HERV-K10gag,GAK10_HUMAN,"HERV-K_5q33.3 provirus ancestral Gag polyprotein, Gag polyprotein, HERV-K10 Gag protein",Unknown,Unknown,125
+HIP-55,DBNL_HUMAN,"SH3 domain-containing protein 7, Drebrin F, Cervical SH3P7, HPK1-interacting protein of 55 kDa, Cervical mucin-associated protein","Dissociates the actin binding from the SH3 domain, Putative: cytoskeletal reorganisation",EHID (361),70
+HIPK2,HIPK2_HUMAN,Homeodomain-interacting protein kinase 2,Unknown,Unknown,126
+hnRNP A0,ROA0_HUMAN,Heterogeneous nuclear ribonucleoprotein A0,Reduced RNA processing,HAVD (73),"42,127"
+hnRNP A1,ROA1_HUMAN,Heterogeneous nuclear ribonucleoprotein A1,Unknown,Unknown,42
+hnRNP A2 / B1,ROA2_HUMAN,Heterogeneous nuclear ribonucleoproteins A2/B1,Reduced RNA processing,Unknown,127
+hnRNP A3,ROA3_HUMAN,Heterogeneous nuclear ribonucleoprotein A3,Reduced RNA processing,Unknown,127
+hnRNP C1 / C2,HNRPC_HUMAN,Heterogeneous nuclear ribonucleoproteins C1/C2,Unknown,Unknown,128
+hnRNP F,HNRPF_HUMAN,"Heterogeneous nuclear ribonucleoprotein F, Nucleolin-like protein mcs94-1",Unknown,Unknown,4
+hnRNP G,HNRPG_HUMAN,"Heterogeneous nuclear ribonucleoprotein G, RBMXP1, RBMX, X chromosome Glycoprotein p43 ",Unknown,Unknown,4
+hnRNP I,PTBP1_HUMAN,"Polypyrimidine tract-binding protein 2, PTB, Heterogeneous nuclear ribonucleoprotein I, hnRNP I, 57 kDa RNA-binding protein PPTB-1",Reduced RNA processing,"IVPD (7), AAVD (172)","4, 129"
+hnRNP K,HNRPK_HUMAN,"Heterogeneous nuclear ribonucleoprotein K, Transformation up-regulated nuclear protein, TUNP",Reduced RNA processing,Unknown,127
+hnRNP R,HNRPR_HUMAN,Heterogeneous nuclear ribonucleoprotein R,Reduced RNA processing,Unknown,127
+hnRNP U,HNRPU_HUMAN,"Heterogeneous nuclear ribonucleoprotein U, Scaffold attachment factor A, SAF-A, pp120, HNRPU ",loss of DNA binding and translocation to cytoplasm,Unknown,130
+HPK-1,,Hematopoietic progentor kinase,Increased kinase activity,DDVD (385),131
+HS1,HCLS1_HUMAN,Haematopoietic lineage cell- specific LYN substrate 1,Putative: cytoskeletal reorganisation,Unknown,70
+HSF,HSF1_HUMAN,"Heat shock factor protein 1, HSF 1, Heat shock transcription factor 1, HSTF 1",Putative: loss of protective heat shock response,Unknown,132
+Hsp90 a,HS90A_HUMAN,"Heat shock protein HSP 90a, HSP 86",Unknown,DEED (259),133
+Hsp90 b,HS90B_HUMAN,"Heat shock protein HSP 90b, HSP 84, HSP 90",Unknown,DEED (259),133
+Huntingtin,HD_HUMAN,"Huntingtin, Huntington's disease protein, HD protein",N-terminal fragment is cytotoxic and activates proapoptotic caspases,"DSVD (513), DEED (530), IVLD (586)","10,134"
+ICAD,DFFA_MOUSE ,"DNA fragmentation factor a subunit, DNA fragmentation factor 45 kDa subunit, DFF-45, Inhibitor of CAD",Release of active CAD endonuclease,"DETD (117), DAVD (224)",135-137
+IkBa,IKBA_HUMAN,"NF-kB inhibitor a, Major histocompatibility complex enhancer- binding protein MAD3, I-kappa-B-a, IkappaBa, IKB-a",Constitutive inhibitor,DRHD (32),138
+IL-33,IL33_HUMAN,"Interleukin-33, Interleukin-1 family member 11, IL-1F11, Nuclear factor from high endothelial venules, NF-HEV",Putative: activation of IL-33 which activates a TH2 response,Unknown,139
+Integrin b4,ITB4_HUMAN,"Integrin beta-4 precursor, GP150, CD104 antigen",N-terminal fragment shows reduced incorporation into hemidemosome like structures. Putative: loss of adherance,DELD (1109),140
+IP3receptor-1,"ITPR1_HUMAN, ITPR1_MOUSE, ITPR1_RAT","Inositol 1,4,5-trisphosphate receptor type 1, Type 1 InsP3 receptor, IP3 receptor isoform 1, InsP3R1, Purkinje cell protein 1",Inhibition of IP(3)-gated Ca2+ channel activity,"DEVD (human 1838, mouse / rat 1891)",141
+IP3receptor-2,ITPR2_MOUSE,"Inositol 1,4,5-trisphosphate receptor type 2, Type 2 InsP3 receptor, IP3 receptor isoform 2, InsP3R2, Inositol 1,4,5-trisphosphate type V receptor",Decrease in IP(3)-gated Ca2+ channel activity,Unknown,"141,142"
+iPLA2,PA2G6_HUMAN,85 kDa calcium-independent phospholipase A2,"Increased phospholipid turnover, release of lysophosphatidylcholine (LPC) which attracts monocytic cells ",DVTD (183),"143,144"
+IRS-1,IRS1_HUMAN,"Insulin receptor substrate 1, IRS1",Putative: suppresses IGF-mediated survival signalling,Unknown,"145,146"
+IRS-2,IRS2_HUMAN,"Insulin receptor substrate 2, IRS2",Putative: suppresses IGF-mediated survival signalling,Unknown,145
+KIAA0174,K0174_HUMAN,"KIAA0174 protein, Putative MAPK-activating protein PM28",Unknown,DLID (197),45
+KIAA0553 protein,,KIAA0553 protein,Unknown,DYVD ,45
+Kinectin,KTN1_HUMAN,"Kinectin, Kinesin receptor, CG-1 antigen",Putative: disruption of the membrane trafficking pathway,Unknown,147
+Ku86,KU86_HUMAN,"ATP-dependent DNA helicase 2 subunit 2, ATP-dependent DNA helicase II 80 kDa subunit, Lupus Ku autoantigen protein p86, Ku80, CTC box-binding factor 85 kDa subunit, CTCBF, Nuclear factor IV, DNA-repair protein XRCC5",Translocates form nucleus to cytoplasm,DLLD (729),148
+La,LA_HUMAN,"Lupus La protein, Sjogren syndrome type B antigen, SS-B, La ribonucleoprotein, La autoantigen",Putative: accumulation in nucleus and reduction of Pol III transcription,DEHD (374),149
+Lamin A /C,LMNA_HUMAN,"Lamin A/C, 70 kDa lamin",breakdown of nuclear envelope,VEID (230),"150,151"
+Lamin B1,LMNB1_HUMAN,Lamin B1,Nuclear lamina disassembly,VEID (231),150
+Lamin B2,LMNB2_HUMAN,"Lamin-B2, LMNB2, LMN2",Putative: Nuclear lamina disassembly,Unknown,42
+Lamina-associated polypeptide 1B,TOIP1_HUMAN,Torsin-1A-interacting protein 1,Unknown,DDQD (226),45
+LAP2-a,LAP2A_HUMAN,"Lamina-associated polypeptide 2 isoform a, Thymopoietin isoform a, TPRP isoform a",Loss of chromatin association. Putative: detachment of chromatin from the nuclear lamina,Unknown,152
+LBR,LBR_HUMAN,"Lamin B receptor, Integral nuclear envelope inner membrane protein, LMN2R",N-terminal fragment relocalises to cytosol. Putative: nuclear lamina disassembly,Unknown,153
+LEDGF,PSIP1_HUMAN,"Lens epithelium-derived growth factor p75, CLL-associated antigen KW- 7",Loss of antiapoptotic function under conditions of serum starvation,"EVPD (30), WEID (85), DAQD (486)",138
+LIM and SH3 domain protein 1,LASP1_HUMAN,"LASP-1, MLN 50, MLN50",Unkown,Unknown,4
+LIM domain and actin-binding protein 1,LIMA1_HUMAN,"Epithelial protein lost in neoplasm, SREBP3, EPLIN",Unknown,ENTD (182),45
+LSM3,LSM3_HUMAN,"U6 snRNA-associated Sm-like protein LSm3, MDS017",Unknown,DDVD (5),45
+Lyn,LYN_HUMAN,Tyrosine-protein kinase LYN,Relocalisation and increased kinase activity,DGVD (18),154
+Lysyl-tRNA synthetase,SYK_HUMAN,"KARS, LysRS",Unknown,VKVD (12),45
+M2,NCAP_IAANA,Nucleoprotein of Influenza A virus,Putative: attenuates Virus production,DVDD (88),155
+MASK,MST4_HUMAN,Serine/threonine-protein kinase 4,Proapoptotic upon overexpression of cleaved fragment,Unkown,156
+Matrin-3,MATR3_HUMAN,Matrin 3,Unknown,ENAD (752),45
+Max,MAX_HUMAN,"Max protein, Myc-associated factor X",Higher DNA binding affinity,"IEVE (10), SAFD (135)",157
+MCL-1,MCL1_HUMAN,"Induced myeloid leukaemia cell differentiation protein Mcl-1, Bcl-2-related protein EAT/mcl1",Conflicting reports: loss of binding to BH3-only proteins or overexpressed C-terminal fragment localises to mitochondria and has increased association with Bim EL,"EELD (127), TSTD (157)","158,159"
+MCM2,MCM2_HUMAN,"DNA replication licensing factor MCM2, Minichromosome maintenance protein 2 homolog, Nuclear protein BM28",Putative: inhibition of replication,Unknown,160
+MCM3,MCM3_HUMAN,"DNA replication licensing factor MCM3, DNA polymerase a holoenzyme-associated protein P1, RLF b subunit",Putative: inhibition of replication,Unknown,160
+MCM4,MCM4_HUMAN,"DNA replication licensing factor MCM4, CDC21 homolog",Putative: inhibition of replication,Unknown,160
+MDM2,MDM2_RAT,Ubiquitin-protein ligase E3,Putative: break of negative feedback loop to p53,DVPD (359),161
+MDMX,MDM4_MOUSE,"Mdm4 protein, p53-binding protein Mdm4",Overexpressed noncleavable MDMX impairs the inhibitory effect of MDMX on p53,DVPD (361),162
+MEF2A,MEF2A_HUMAN,"Myocyte-specific enhancer factor 2A, Serum response factor-like protein 1","Putative: reduced transcriptional activity, proapoptotic","SSYD (466), STTD (215), TLTD (176)",163
+MEF2C,MEF2C_HUMAN,Myocyte-specific enhancer factor 2C ,"Putative: reduced transcriptional activity, proapoptotic",SSYD (442),163
+MEF2D,MEF2D_HUMAN,Myocyte-specific enhancer factor 2D,"Retains DNA binding capability but lacks the transactivation domain. Putative: reduced transcriptional activity, proapoptotic","LTED (288), DHLD (291)",163
+MEK,MP2K1_MOUSE,Map kinase kinase,Reduced Erk1/2 phosphorylation,Unknown,164
+MEKK1,M3K1_MOUSE,"MAPK/ERK kinase kinase 1, MEK kinase 1, MEKK 1",Increased kinase activity,"DTVD (874) mouse only, not conserved in human",165
+MITF,MITF_HUMAN,microphtahalmia associated transcription factor,Overexpression of non-cleavable mutant is antiapoptotic. Overexpressed C-terminal fragment is proapoptotic,DLTD (345),166
+MLH1,MLH1_HUMAN,"DNA mismatch repair protein Mlh1, MutL protein homolog 1, COCA2",Overexpressed C-terminal fragment is cytoplasmatic compared to the nuclear full length. The C-terminal fragment is slightly proapoptotic and a noncleavable mutant is anti-apoptotic,DKTD (418),167
+Mst1,STK4_HUMAN,"STE20-like kinase MST1, Mammalian STE20-like protein kinase 1, Serine/threonine-protein kinase Krs-2",Kinase constitutive active. Overexpression of N-terminal fragment induces apoptotic morphology,DEMD (326),"168,169"
+Mst2,STK3_HUMAN,"STE20-like kinase MST2, Mammalian STE20-like protein kinase 2, Serine/threonine-protein kinase Krs-1",Kinase constitutive active,DELD (322),169
+Mst3,STK24_HUMAN,"STE20-like kinase MST3, Mammalian STE20-like protein kinase 3",Kinase constitutive active. Overexpressed fragment translocates to the nucleus and induces nuclear condensation,AETD (313),170
+Multidrug resistance protein 1,MDR1_HUMAN,"P-glycoprotein 1, CD243 antigen, 170kDa P-glycoprotein, P-gp",Unknown,Unknown,171
+Myosin heavy chain,MYH2_HUMAN,"MyHC-Iia, ",Unknown,Unknown,172
+Myosin-14,MYH14_HUMAN,Non muscle myosin heavy chain-A,Unknown,Unknown,173
+Myosin-9,MYH9_HUMAN,Non muscle myosin heavy chain II a,Unknown,DTLD (1152),45
+NAC a,NACA_HUMAN,"Nascent polypeptide associated complex a subunit, a NAC",Unknown,Unknown,42
+NAP1L1,NP1L1_HUMAN,"nucleosome assembly protein 1 like 1, NAP-1-related protein",Unknown,ERLD (57),"4,45"
+NASP,NASP_HUMAN,Nuclear autoantigenic sperm protein,Unknown,DMLD (523),45
+NDUFS1,NUAM_HUMAN,"p75 subunit of complex I, Complex I-75Kd","Disruption of electron transport (complex I), DYm, leading to production of ROS, loss of ATP production and mitochondrial damage",DVMD (255),174
+Nedd4,NEDD4_MOUSE,E3 ubiquitin-protein ligase Nedd-4,Putative: keeps substrate recognition and enzymatic activity,DQPD (237),175
+NFATc1,NFAC1_HUMAN,"Nuclear factor of activated T-cells cytoplasmic 1, NFAT transcription complex cytosolic component, NF-ATc",Unknown,Unknown,176
+NFATc2,NFAC2_HUMAN,"Nuclear factor of activated T-cells cytoplasmic 2, T cell transcription factor NFAT1, NF-ATp",Overexpressed noncleavable mutant lead to increased NFAT dependant transcription,"DELD (29), DVLD (66)",176
+NF-kBp50,RELB_HUMAN,,Loss of DNA binding,Unknown,177
+NF-kBp65,TF65_HUMAN,"Transcription factor p65, Nuclear factor NF-kappa-B p65 subunit, RELA","Dominant-negative fragment, proapoptotic",,"177,178"
+NONO,NONO_HUMAN,"Non-POU domain-containing octamer-binding protein, NonO protein 54 kDa nuclear RNA- and DNA-binding protein, p54(nrb)",Unknown,Unknown,42
+Notch1,Q6IAD4_HUMAN,,Unknown,Unknown,179
+NP,,Nucleocapsid protein of influenza A and B,Putative: attenuates Virus production,"METD (16), MDID (7), SEAD (61)",180
+NRF2,NF2L2_HUMAN,"Nuclear factor erythroid 2 related factor 2, NFE2-related factor 2, HEBP1",Overexpressed C-terminal fragment is proapoptotic,"TEVD (208), EELD (366)",181
+NS1,NS1_IAAIC,"Non-structural protein 1, NS1, NS1A",Unknown,Unknown,42
+NS5A,Q5L485_9HEPC,nonstructural 5A protein of the hepatitis C virus,translocates to nucleus,SGVD (396),"182,183, 184"
+NUCKS1,NUCKS_HUMAN,Nuclear ubiquitous casein and cyclin-dependent kinases substrate,Unknown,YGRD (29),45
+"Nucleolar protein family A, member 2",NOLA2_HUMAN,"H/ACA ribonucleoprotein complex subunit 2, snoRNP protein NHP2",Unknown,ADPD (9),45
+Nucleolin,NUCL_HUMAN,"Nucleolin, Protein C23",Unknown,Unknown,"42,127"
+Nucleophosmin,NPM_HUMAN,"NPM, Nucleolar phosphoprotein B23, Numatrin, Nucleolar protein NO38, TGEV N-Protein",Unknown,Unknown,4
+Nucleoporin,,Viral nucleocapsid protein,Putative: attenuates Virus production,VVPD (359),185
+NuMA,NUMA1_HUMAN,"Nuclear mitotic apparatus protein 1, SP-H antigen",Unknown,DSLD (1726),"186,187"
+Nup153,NU153_HUMAN,Nuclear pore complex protein Nup153,Putative: impaired nuclear transport,Unknown,"188,189"
+Nup214,NU214_HUMAN,"Nuclear pore complex protein Nup214, CAN protein",Putative: impaired nuclear transport,Unknown,"188,189"
+Nup50,NUP50_HUMAN,"Nucleoporin 50 kDa, Nuclear pore-associated protein 60 kDa-like, NPA60L, PRO1146",Putative: impaired nuclear transport,Unknown,190
+NUP93,NUP93_HUMAN,Nuclear pore complex protein Nup93,Putative: impaired nuclear transport,Unknown,190
+NUP98,NUP98_HUMAN,"Nuclear pore complex protein Nup98,Nup96 precursor",Putative: impaired nuclear transport,Unknown,190
+NVL,NVL_HUMAN,"Nuclear valosin-containing protein like, Nuclear VCP-like protein, NVLp",Unknown,QEVD (239),45
+O-GlcNAase,,b-O-linked N-acetylglucosaminidiase,No effect on enzymatic activity,Unknown,191
+p115,VDP_HUMAN,"General vesicular transport factor p115,  Transcytosis-associated protein, TAP, Vesicle docking protein",C-terminal fragment induces Golgi fragmentation when overexpressed,TEKD (757),90
+p27Kip1,CDN1B_HUMAN,"Cyclin-dependent kinase inhibitor 1B, Cyclin-dependent kinase inhibitor p27",Reduced binding to cyclin cdk2 and increased cdk2 activity,"DPSD (139), ESQD (108)",117
+p35,VP35_NPVAC,Baculovirus pancaspase inhibitor,Inhibition of caspase activity,DQMD (87),192
+P49,Q9DS04_NPVST,Apoptic suppressor protein p49,"Inhibits Sf caspase-1, human caspase 3 and 9 and blocks apoptosis",TVTD (94),193
+p53,P53_HUMAN,Tumour suppressor p53,Overexpression of some fragments causes loss of mitochondrial membrane potential,"TFSD (21), SDSD (186)",194
+p70S6K,KS6B1_HUMAN,"Ribosomal protein S6 kinase, ",Unknown,Unknown,195
+PA28-g,PSME3_HUMAN,"Proteasome activator complex subunit 3, Activator of multicatalytic protease subunit 3, 11S regulator complex g subunit, REG-g, Ki nuclear autoantigen",Unknown,DGLD (80),"196,197"
+PABII,PABP2_HUMAN,"PolyA binding protein 2, Polyadenylate-binding nuclear protein 1, Nuclear poly(A)-binding protein 1",Unknown,VEGD (107),45
+PABP4,PABP4_HUMAN,"PolyA-binding protein 4, iPABP, Activated-platelet protein-1, APP-1",Unknown,Unknown,42
+PAI-2,PAI2_HUMAN,"Plasminogen activator inhibitor-2 precursor, Placental plasminogen activator inhibitor, Monocyte Arg-serpin, Urokinase inhibitor",Putative: loss of cytoprotective protease,Unknown,198
+PAK2,PAK2_HUMAN,"Serine/threonine-protein kinase PAK 2, PAK65, PAKg, p21 activated kinase 2",Kinase constitutive active and activates c-Jun N-terminal kinase pathway. Overexpression of cleaved fragment leads to apoptotic morphology (shrinkage and rounding up),SHVD (212),199
+PARG ,PARG_HUMAN,Poly(ADP-ribose) glycohydrolase,Keeps enzymatic activity,"DEID (256), MDVD (307)",200
+Parkin,PRKN2_HUMAN,,Loss of antiapoptotic effect,LHTD (126),201
+PARP-1,PARP1_HUMAN,Poly [ADP-ribose] polymerase-1,Loss of catalytic activity and prevention of ATP depletion,DEVD (214),202
+PARP-2,PARP2_HUMAN,Poly [ADP-ribose] polymerase-2,Separates DNA binding and catalytic domain,LQMD (186),203
+Paxillin,PAXI_HUMAN,Paxillin,Contributes to disassembly of focal adhesion complexes and detachment,"NPQD (102), SQLD (301), DDLD (5), SELD (222)",204
+P-cadherin,CADH3_HUMAN,"Cadherin-3 precursor, Placental-cadherin",Possibly disruption of cell to cell contact,Unknown,90
+PDC-E2,ODP2_HUMAN,Dihydrolipoyllysine-residue acetyltransferase,Unknown,Unknown,205
+PDE10A2,"Q9ULW9_HUMAN, Q9QYJ6_RAT","3',5'-cyclic nucleotide phosphodiesterase 10A2",Unknown,Unknown,206
+PDE4A5,PDE4A_MOUSE,"CAMP-dependent 3',5'-cyclic phosphodiesterase 4A",Altered Lyn kinase interaction,DAVD (72),207
+PDE5A1,PDE5A_HUMAN,"CGMP-specific 3',5'-cyclic phosphodiesterase, ",Unknown,Unknown,206
+PDE6,PDE6A_HUMAN,"Rod cGMP-specific 3',5'-cyclic phosphodiesterase a-subunit",Reduced cGMP-hydrolyzing activity,Unknown,206
+Phosphorylase b kinase ,KPB1_HUMAN,"PhK, PHKA1",Putative: slight increased phoshphorylase activity,DWMD (646),208
+Piccolo protein,PCLO_HUMAN,Aczonin,Unknown,GNQD (4834),45
+PIP5K-I a,PI51A_HUMAN,68 kDa type I phosphatidylinositol-4-phosphate 5-kinase a,Progression of apoptosis,DIPD (279),209
+PITSLRE,CD2L1_HUMAN,PITSLRE serine/threonine-protein kinase CDC2L1,Possibly proapoptotic,YVPD (409),210
+PKC d,KPCD_HUMAN,Protein kinase C delta type,Kinase constitutive active. Proapoptotic upon overexpression of fragment,DMQD (329),211
+PKC e,"KPCE_HUMAN, KPCE_MOUSE",Protein kinase C epsilon type,Kinase constitutive active,Human: SSPD (383),212
+,,,,Murine SATD (383),
+PKC h,KPCL_HUMAN,Protein kinase C eta type,Kinase constitutive active. Proapoptotic upon overexpression of fragment,Unknown,213
+PKC m,KPCD1_HUMAN,"Protein kinase C mu type, PKC-D1, Protein kinase D",Increased sensitivity to genotoxic stress,CQND (378),"214,215"
+PKC q,KPCT_HUMAN,Protein kinase C theta type,Kinase constitutive active. Proapoptotic upon overexpression of C-terminal fragment,Human: DEVD (354),216
+,,,,"Mouse: DDND (355), DQED (397)",
+PKC z,KPCZ_HUMAN,Protein kinase C zeta type,Kinase constitutive active,"EETD (210), DGVD (239)",217
+PKR,E2AK2_HUMAN,"Interferon-induced, double-stranded RNA-activated protein kinase","Kinase constitutive active, phosphorylates eIF2a which leads to translational inhibition",DLPD (251),218
+Plakophilin-1,PKP1_HUMAN,"Plakophilin 1, Band-6-protein, B6P",Putative: loss of cytoskeleton structure and cell cell contact,Unknown,83
+PLC g1,PLCG1_HUMAN,"1-phosphatidylinositol-4,5-bisphosphate phosphodiesterase g1",Facilitates apoptosis ,AEPD (770),91
+Plectin,PLEC1_HUMAN,"PLTN, PCN, Hemidesmosomal protein 1, HD1",Putative: reorganisation of microfilament system,ILRD (2395),219
+PMCA2,AT2B2_HUMAN,Plasma membrane calcium-transporting ATPase 2,Unknown,Unknown,220
+PMCA4,AT2B4_HUMAN,Plasma membrane Ca2+ ATPase isoform 4,Conflicting reports. Enzyme activity is lost or kept,Unknown,220-222
+PML-RARa,Q15156_HUMAN,PML-RAR protein,PML translocates to nuclear bodies,PHLD (523),223
+Pol epsilon,DPOE1_HUMAN,"DNA polymerase epsilon catalytic subunit A, POLE",Catalytic subunit can no longer bind,"DQLD (216), DEMD (1214)",224
+PP2A,2AAA_HUMAN,"Serine/threonine-protein phosphatase 2A 65 kDa regulatory subunit A a isoform, PR65-a isoform, R1-a isoform, Medium tumour antigen-associated 61 kDa protein",Increased phosphatase activity,DEQD (218),225
+PPP3CA,PP2BA_HUMAN,"Calmodulin-dependent calcineurin A subunit a isoform, CAM-PRP catalytic subunit",Constitutively active phosphatase which triggers NF-AT activation and IL-2 release,DFGD (386),226
+Presenilin-1,PSN1_HUMAN,"PS-1, S182 protein",Loss of b-catenin interaction and antiapoptotic function,AQRD (345),227
+Presenilin-2,PSN2_HUMAN,"PS-2, STM-2, E5-1, AD3LP, AD5",Loss of b-catenin interaction and antiapoptotic function,DSYD (329),227
+PRK1,PKN1_HUMAN,Protein kinase C-like 1,Kinase constitutive active,Unknown,228
+PRK2,PKN2_HUMAN,Protein kinase C-like 2,C-terminal fragment inhibits AKT and PDK-1. Proapoptotic,DITD (117),229
+pro-Caspase-1,"CASP1_HUMAN, CASP1_MOUSE CASP1_RAT ","CASP-1, Interleukin-1 b convertase, ICE, Interleukin-1 b-converting enzyme",Activates protease activity,"AVQD (119), WFKD (297), FEDD (317)","230,231"
+pro-Caspase-10,CASPA_HUMAN,"CASP-10, ICE-like apoptotic protease 4, Apoptotic protease Mch-4, FAS-associated death domain protein interleukin-1B-converting enzyme 2, FLICE2",Activates protease activity,"SQTD (219), IEAD (415)",232
+pro-Caspase-11,CASP4_MOUSE ,"CASP-11, ICH-3 protease",Activates protease activity,MEAD (285),233
+pro-Caspase-12,CASPC_MOUSE ,CASP-12,Activates protease activity,ATAD (318),234
+pro-Caspase-14,"CASPE_HUMAN, CASPE_MOUSE ",CASP-14,Activates protease activity,VGGD (147),235
+pro-Caspase-2,"CASP2_HUMAN, CASP2_MOUSE CASP2_RAT ","CASP-2, ICH-1 protease, ICH-1L/1S, NEDD2",Activates protease activity,"DNKD (169), DQQD (333), EESD (346)",236
+pro-Caspase-3,"CASP3_HUMAN, CASP3_MOUSE CASP3_RAT ","CASP-3, Apopain, Yama protein, CPP-32, SCA-1",Activates protease activity,"ESMD (28), IETD (175)","232,237"
+pro-Caspase-4,CASP4_HUMAN,"CASP-4, ICH-2 protease, TX protease, ICE(rel)-II",Activates protease activity,"WVRD (270), LEED (289)",238
+pro-Caspase-5,CASP5_HUMAN,"CASP-5, ICH-3 protease, TY protease, ICE(rel)-III",Activates protease activity,"WVRD (311), LEAD (330)",238
+pro-Caspase-6,"CASP6_HUMAN, CASP6_MOUSE CASP6_RAT ","CASP-6, Mch-2",Activates protease activity,"TETD (23), DVVD (179), TEVD (194), ",239
+pro-Caspase-7,"CASP7_HUMAN, CASP7_MOUSE CASP7_RAT ","CASP-7, ICE-like apoptotic protease 3, ICE-LAP3, Apoptotic protease Mch-3, CMH-1",Activates protease activity,"DSVD (23), IQAD (198)","232,240"
+pro-Caspase-8,"CASP8_HUMAN, CASP8_MOUSE CASP8_RAT ","CASP-8, ICE-like apoptotic protease 5, MORT1-associated CED-3 homolog, MACH, FADD-homologous ICE/CED-3-like protease, FADD-like ICE, FLICE, Mch5",Activates protease activity,"REQD (216), VETD (374), LEMD (384)",241
+pro-Caspase-9,"CASP9_HUMAN, CASP9_MOUSE CASP9_RAT ","CASP-9, ICE-like apoptotic protease 6, ICE-LAP6, Apoptotic protease Mch-6, Apoptotic protease-activating factor 3, APAF-3",Activates protease activity,"PEPD (315), DQLD (330)",242
+pro-EMAP-II,MCA1_MOUSE,Multisynthetase complex auxiliary component p43 ,Unknown,"ASTD (114), not conserved in human",229
+pro-IL-16,IL16_HUMAN,"Interleukin-16 precursor, Lymphocyte chemoattractant factor, LCF",Induces T-cell chemotaxis,SSTD (510),243
+pro-IL-18,IL18_HUMAN,"Interleukin-18 precursor, IL-18, Interferon-g inducing factor, IFN-g-inducing factor, Interleukin-1g, IL-1g",Induces IFN-g production,LESD (36),244
+pro-IL-1b,IL1B_HUMAN,"Interleukin-1b precursor, IL-1b, Catabolin",Induces inflammatory response,YVHD (116),230
+Prostaglandin E synthase 3,TEBP_HUMAN,"Cytosolic prostaglandin E2 synthase, cPGES, Telomerase-binding protein p23, Hsp90 co-chaperone, Progesterone receptor complex p23",Reduction of anti-aggregating activity of p23,PEVD (142),245
+Prothymosin a,PTMA_HUMAN,Prothymosin a,"Non nuclear localisation, abolishes proliferation inducing ability",Multiple sites in DDEDDDVD (100),246
+PSD1,PSD1_HUMAN,"26S proteasome non-ATPase regulatory subunit 1/ subunit RPN2 / subunit p112, PSMD1",Impairment of proteasome degradation of ubiquitinated proteins,MEVD (857),"197,247"
+PSD2,PSD2_HUMAN,"26S proteasome non-ATPase regulatory subunit 2 / subunit RPN1 / subunit S2 /subunit p97, Tumour necrosis factor type 1 receptor-associated protein 2, 55.11 protein, PSMD2, TRAP2",Unknown,Unknown,4
+PSD3,PSD3_HUMAN,"26S proteasome non-ATPase regulatory subunit 3, PSMD3, Proteasome subunit p58",Unknown,GEAD (52),45
+PSD4,PSD4_HUMAN,"26S proteasome non-ATPase regulatory subunit 4, / subunit S5A, Rpn10, Multiubiquitin chain-binding protein, Antisecretory factor 1, AF, ASF",Impairment of proteasome degradation of ubiquitinated proteins,Unknown,"197,247"
+Rabaptin-5,RABE1_HUMAN,"Rab GTPase binding effector protein 1, Rabaptin-5, Rabaptin-5a, Rabaptin-4, neurocrescin",Block of endosome fusion,DESD (438),"248, 249"
+Rac,RAC1_HUMAN,Ras-related C3 botulinum toxin substrate 1 (p21-Rac1) (Ras-like protein TC25,Unknown,DLRD (121),62
+RAD21,RAD21_HUMAN,"Double-strand-break repair protein rad21 homolog, hHR21, Nuclear matrix protein 1, NXP-1, SCC1 homolog",Overexpressed C-terminal fragment is proapoptotic. Processing by caspases does not alter cell cycle progression,DSPD (279),250
+RAD51,RAD51_HUMAN,"DNA repair protein RAD51 homolog 1, hRAD51, HsRAD51",Putative: loss of recombinase activity,DVLD (187),251
+Rad9,RAD9A_HUMAN,"Cell cycle checkpoint control protein RAD9A, DNA repair exonuclease rad9 homolog A, hRAD9",Translocation form nucleus to cytoplasm,"EEAD (187), SDTD (269), DDID (304), + unknown",252
+Raf-1,RAF1_HUMAN,"RAF proto-oncogene serine/threonine-protein kinase, C-RAF, cRaf",Overexpressed C-terminal fragment translocates to mitochondrial fraction and has a higher enzymatic activity,Unknown,"8,253"
+RanBP2,RBP2_HUMAN,"Ran-binding protein 2, RanBP2, Nuclear pore complex protein Nup358, Nucleoporin Nup358, 358 kDa nucleoporin, P270",Putative: impaired nuclear transport,Unknown,189
+Ran-GAP1,RGP1_HUMAN,Ran GTPase-activating protein 1,Putative: altered nuclear pore transport,"DEGD (157), DTVD (459)","188,189"
+RAR a,RARA_HUMAN,"Retinoic acid receptor a, RAR-a",Loss of transcriptional activity,Unknown,254
+Ras-GAP,RASA1_HUMAN,"Ras GTPase-activating protein 1, GTPase-activating protein, GAP, Ras p21 protein activator, p120GAP, RasGAP",Two step process: 1. Low caspase activity generates the N-terminal fragment which is antiapoptotic by activating the PI3K pathway. 2. High caspase activity further cleaves the fragment in two proapoptotic fragments,"DTVD (455), DEGD (157)","8,255"
+Rb,RB_HUMAN,"Retinoblastoma-associated protein, PP110, P105-RB, RB",N-terminal fragment still binds cyclin D3 but fails to bind MDM2,DEAD (886),256
+Rbx1,RBX1_HUMAN,"RING-box protein 1, Rbx1, Regulator of cullins 1, RING finger protein 75, ZYP protein",Unknown,MDVD (8),45
+RCC2,RCC2_HUMAN,"Telophase disk protein of 60 kDa, RCC1-like protein TD-60, KIAA1470, TD60",Unknown,Unknown,4
+Relish,NFKB1_DROME,"Nuclear factor NF-kappa-B p110 subunit, Relish protein, Rel-p110",Putative: loss of transcriptional activity,Unknown,257
+RFC140,RFC1_HUMAN,"Replication factor C large subunit, A1 140 kDa subunit, Activator 1 large subunit, DNA-binding protein PO-GA, RFC140",Overexpression of N-terminal fragment (1-555) impairs RF-C dependant DNA replication and putatively leads to cell cycle arrest,"DEVD(722), DLVD (922), IETD (1117)",258
+RET,RET_HUMAN,"Proto-oncogene tyrosine-protein kinase receptor ret precursor, C-ret",Proapoptotic,"VSVD (707), DYLD (1017)",259
+Rho GDI 2,GDIS_HUMAN,"Rho GDP-dissociation inhibitor 2, D4-GDI, Rho-GDI b, Ly-GDI",Translocation to nucleus. Loss of Rho GTPase signalling,DELD (19),"260,261"
+RIP-1,RIPK1_HUMAN,Receptor-interacting serine/threonine-protein kinase 2,Inhibits NF-kB activation,LQLD (324),262
+RNA-binding protein FUS,FUS_HUMAN,"Oncogene FUS / TLS, Translocated in liposarcoma protein, POMp75, 75 kDa DNA-pairing protein",Unknown,DWFD (355),45
+ROCK-1,ROCK1_HUMAN,"Rho-associated (coiled-coil-containing) protein kinase 1, p160 ROCK-1, NY-REN-35 antigen",Constitutively activates kinase activity and drives cell contraction and blebbing. Phosphorylates PTEN which then inhibits Akt,DETD (1113),263-265
+RPB1,RPB1_HUMAN,"DNA-directed RNA polymerase II largest subunit, RNAP II-LS, POLR2A",Unknown,LETD (1339),266
+RPP0,RLA0_HUMAN,"60S acidic ribosomal protein P0, L10E",Unknown,Unknown,42
+RPT5,PRS6A_HUMAN,"26S protease regulatory subunit 6A, Proteasome 26S subunit ATPase 3, TAT-binding protein 1, TBP-1, Proteasome subunit P50",Impairment of proteasome degradation of ubiquitinated proteins,AEQD (27),"197,247"
+SATB1,SATB1_HUMAN,"DNA-binding protein SATB1, Special AT-rich sequence binding protein 1",Putative: loss of transcriptional activity,Unknown,267
+Septin 6,SEPT6_HUMAN,"Septin-6, SEPT6, KIAA0128, SEP2",Unknown,Unknown,4
+Serpin 2,SPI2_CWPXB,"Serine proteinase inhibitor 2, Serp-2, Haemorrhage-inducing 38 kDa protein, Cytokine response modifier protein",Unknown,DCVD (31),32
+Serum response factor,SRF_HUMAN,SRF,Putative:Loss of DNA binding and loss of survival signalling pathways,Unknown,268
+SET,SET_HUMAN,"SET protein, Phosphatase 2A inhibitor I2PP2A, Template-activating factor I, TAF-I, HLA-DR-associated protein II, PHAPII, Inhibitor of granzyme A-activated Dnase, IGAAD",Unknown,SNHD (18),"45, 269"
+SFRS9,SLK_HUMAN,"Splicing factor, arginine/serine-rich 9, Pre-mRNA splicing factor SRp30C",Unknown,Unknown,42
+SGG46,SGG_DROME,"GSK 3 beta, Protein kinase shaggy, Protein zeste-white 3, sgg",Activates kinase which is involved in neural precursor developement,DEVD (300),270
+Sir2a,Q53Z05_MOUSE,"Silent Information Regulator 2 alpha, Sir2alpha, Sirt1",Overexpressed N-terminal translocates from nucleus to cytosol,Unknown,271
+snRNP70,RU17_HUMAN,"U1 small nuclear ribonucleoprotein 70 kDa, U1 snRNP 70 kDa",Reduced RNA processing,DGPD (341),272
+SNW1,SNW1_HUMAN,"SNW domain-containing protein 1, Nuclear protein SkiP, Ski-interacting protein, Nuclear receptor coactivator NCoA-62",Unknown,DDPD (131),45
+SP1,SP1_HUMAN,Transcription factor SP1,Loss of DNA binding,NSPD (590),273
+SPAK,"STK39_HUMAN, STK39_MOUSE, STK39_RAT",STE20/SPS1-related proline-alanine rich protein kinase,Removal of substrate binding domain. Downregulation sensitises to apoptosis,"Murine: ANED (455), DTAD (491)","274, 275"
+Spectrin a chain,SPTA2_HUMAN,"a-II-fodrin, non-erythroid a chain, a-II spectrin, Fodrin a chain","Disrupts cytoskeleton, possibly involved in membrane blebbing",DETD (1185),276
+b Spectrin erythroid,SPTB1_HUMAN,"Spectrin b chain, erythrocyte b-I spectrin","Disruption of cortical cytoskeleton, possibly involved in membrane blebbing","DSLD (1478), DEVD (1457), ETVD (2146)",277
+b Spectrin non-erythroid,SPTB2_HUMAN,"non-erythroid b chain 1, b-II spectrin, Fodrin b chain, b-II-fodrin","Disrupts cytoskeleton, possibly involved in membrane blebbing",DEVD (1457),278
+Splicing factor 3B subunit 2,SF3B2_HUMAN,"Spliceosome-associated protein 145, SAP 145, SF3b150, Pre-mRNA splicing factor SF3b 145 kDa subunit, SF3B2",Unknown,TEED (291),45
+Splicing factor 45,SPF45_HUMAN,"45 kDa splicing factor, RNA-binding motif protein 17",Unknown,TEKD (286),45
+"Splicing factor, arginine/serine-rich 1",SFRS1_HUMAN,"pre-mRNA splicing factor SF2 P33 subunit, Alternative splicing factor ASF-1, SFRS1",Unknown,Unknown,42
+Src,SRC_HUMAN,"Proto-oncogene tyrosine-protein kinase Src, p60-Src, c-Src, pp60c-src",Putative: loss of antiapoptotic signalling downstream of EGFR,Unknown,279
+SREBP-1,SRBP1_HUMAN,Sterol regulatory element binding protein-1 / transcription factor 1,Unknown,SEPD (460),280
+SREBP-2,SRBP2_HUMAN,Sterol regulatory element binding protein-2 /  transcription factor 2,Unknown,DEPD (486),280
+SRP72,SRP72_HUMAN,"Signal recognition particle 72 kDa protein, SRP72",No effect,SELD (614),281
+,SRP72_RAT,,,,
+,SRP72_MOUSE,,,,
+SRPK1,SRPK1_HUMAN,"Serine/threonine-protein kinase SRPK1, Serine/arginine-rich protein-specific kinase 1, SR-protein-specific kinase 1, SFRS protein kinase 1",Decreased kinase activity,Unknown,282
+SRPK2,SRPK2_HUMAN,"Serine/threonine-protein kinase SRPK2, Serine/arginine-rich protein-specific kinase 2, SR-protein-specific kinase 2, SFRS protein kinase 2",Decreased kinase activity,Unknown,282
+SSF-1,SSF1_HUMAN,"Suppressor of SWI4 1 homolog, Peter Pan homolog, PPAN",Unknown,AEPD (245),45
+SSRP1,SSRP1_HUMAN,"Structure-specific recognition protein, Recombination signal sequence recognition protein, T160, Chromatin-specific transcription elongation factor 80 kDa subunit, FACT 80 kDa subunit",C-terminal fragment does not bind chromatin anymore. Putative: impairment of transcription and replication processes,DQHD (450),283
+STAT1,STAT1_HUMAN,"Signal transducer and activator of transcription 1-a/b, Transcription factor ISGF-3 components p91/p84",Blocks interferon and cytokine signalling,MELD (694),284
+STAT3,STAT3_HUMAN,"Signal transducer and activator of transcription 3, Acute-phase response factor, APRF",Reduced DNA binding and hence reduction in transcription factor activity,Unknown,285
+SLK,SFRS9_HUMAN,"STE20-related (serine/threonine-protein) kinase, mSLK, Serine/threonine-protein kinase 2, STE20-related kinase SMAK, Etk4",N-terminal fragment: kinase promotes apoptosis and cytoskeletal rearrangement. C-terminal fragment: disassembles actin fibres,Unknown,286
+synphilin 1,SNCAP_HUMAN,"a-synuclein-interacting protein, SYNCAIP",Unknown,Unknown,287
+Syntaxin 12,STX12_HUMAN,Syntaxin 12,Unknown,DLID (217),45
+Syntaxin 5,STX5_RAT,"STX5, STX5a, Syntaxin-5",Putative: blocks protein-exit from the ER,DEQD (263),115
+TAF6,TAF6_HUMAN,"Transcription initiation factor TFIID subunit 6, Transcription initiation factor TFIID 70 kDa subunit, TAFII-70, TAFII80)",Alteration of transcription of gadd45 and p21,Unknown,288
+Tau,TAU_HUMAN,"Microtubule-associated protein tau, Neurofibrillary tangle protein, Paired helical filament-tau, PHF-tau",Fragment is proapoptotic,DMVD (421),289-291
+TCR zeta,CD3Z_HUMAN,"T-cell surface glycoprotein CD3 zeta chain precursor, T-cell receptor T3 zeta chain",Putative: degradation of protein,GLLD (28) or YLLD (36) and DTYD (153),292
+TDP-43,TADBP_HUMAN,TAR DNA binding protein-43,Unknown,DETD (89),45
+TIAM1,TIAM1_HUMAN,"T-lymphoma invasion and metastasis inducing protein 1, TIAM1 protein","Inactivated, can no longer induce GDP loading of Rac",DETD (993),293
+Tissue Transglutaminase,TGM2_HUMAN,"Protein-glutamine g-glutamyltransferase 2, Tissue transglutaminase, TGase C, TGC, Transglutaminase-2",Loss of crosslinking activity,Unknown,294
+TNF-R1,TNR1A_HUMAN,"Tumour necrosis factor receptor superfamily member 1A precursor, p60, TNF-R1, TNF-RI, p55, CD120a",Unknown,GELE,295
+Topo I,TOP1_HUMAN,DNA topoisomerase I,No effect on enzyme,"PEDD (123), DDVD (146), EEED (170)",296
+Topo II-a,TOP2A_HUMAN,"DNA topoisomerase II, a isozyme",Unknown,Unknown,297
+TPR,TPR_HUMAN,Nucleoprotein TPR,Putative: impaired nuclear transport,Unknown,"188,189"
+TRAF1,TRAF1_HUMAN,"TNF receptor associated factor 1, Epstein-Barr virus-induced protein 6","Inhibits NF-kB activation, proapoptotic",LEVD (163),298
+TRAF3,TRAF3_HUMAN,"TNF receptor associated factor 3, CD40 receptor associated factor 1, CRAF1, CD40 binding protein, CD40BP, LMP1 associated protein, LAP1, CAP-1",Altered cellular distribution,"EEAD (348), ESVD (368)",299
+Transcription intermediary factor 1-b,TIF1B_HUMAN,"TIF1-b, Tripartite motif protein 28, Nuclear corepressor KAP-1, KRAB-associated protein 1, KAP-1, KRAB-interacting protein 1, KRIP-1, RING finger protein 96, KAP1, RNF96, TIF1B, TRIM28",Unknown,"LSLD (684), DGAD (687)",45
+TroponinT,TNNT2_HUMAN,"Troponin T, cardiac muscle isoforms, TnTC, cTnT",Involvement in myofibrillar damage and contractile dysfunction,VDFD (96),3
+Tubulin a-1 chain,TBA1_HUMAN,a-tubulin 1,Unknown,Unknown,172
+Twist,TWST1_MOUSE,"Twist-related protein 1, M-twist",Overexpression of non-cleavable mutant is antiapoptotic,DELD (173),300
+TXBP151,TAXB1_HUMAN,"Tax1-binding protein TXBP151, TRAF6-binding protein",Loss of antiapoptotic effect,Unknown,301
+U2AF2,U2AF2_HUMAN,"Splicing factor U2AF 65 kDa subunit, U2 auxiliary factor 65 kDa subunit, U2 snRNP auxiliary factor large subunit, hU2AF(65), U2AF65",Unknown,MTPD (128),"4,45"
+UFD2,UBE4B_HUMAN,"Ubiquitin conjugation factor E4 B, Ubiquitin-fusion degradation protein 2, Homozygously deleted in neuroblastoma-1",Loss of E3 activity,"MDID (109), VDVD (123)",302
+URP2,URP2_HUMAN,"Unc-112 related protein 2, Kindlin-3, MIG2-like, KIND3, MIG2B",Unknown,DVLD (344),45
+Vav-1,VAV_HUMAN,Vav proto-oncogene,"Reduced activation of AP-1, NF-kB, NF-AT, p38 but not JNK","DQID (150), DLYP (161)",303
+Vimentin,VIME_HUMAN,Vimentin,"Disrupts intermediate filaments, proapoptotic","DSVD (85), IDVD (259), TNLD (429)","304,305"
+Vinculin,VINC_HUMAN,"Metavinculin, VCL",Putative: disruption of cytoskeletal assembly,Unknown,306
+vMLC1,MYL3_HUMAN,"Myosin light polypeptide 3, Myosin light chain 1, slow-twitch muscle B/ventricular isoform, ventricular essential myosin light chain, Cardiac myosin light chain-1, CMLC1",Reduced myocyte contractile performance,DFVE (135),307
+Wee1,WEE1_HUMAN,Wee1-like protein kinase,>20 fold reduction of kinase activity,Unknown,61
+XIAP,BIRC4_HUMAN,"X-linked inhibitor of apoptosis protein, Baculoviral IAP repeat-containing protein 4, Inhibitor of apoptosis protein 3",N-terminal fragments inhibit Caspase-3 and -7 activity. C-terminal fragment inhibit Caspase-9 activity,SESD (242),"308,309"
+XRCC4,XRCC4_HUMAN,"DNA-repair protein XRCC4, X-ray repair cross-complementing protein 4",Inhibition of DNA repair,Unknown,310

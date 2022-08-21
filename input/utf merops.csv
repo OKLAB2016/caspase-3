@@ -1,0 +1,653 @@
+﻿Substrate,Uniprot,Residue range,Cleavage Site,position,Cleavage type,Evidence,P4,P3,P2,P1,P1',P2',P3',P4',Reference,CutDB,motif
+"1-phosphatidylinositol-4,5-bisphosphate phosphodiesterase gamma 1",P19174,1-1290,peptide-Asp770+Tyr-peptide,770,P,,Ala,Glu,Pro,Asp,Tyr,Gly,Ala,Leu,"Bae et al., 2000",22705,AEPDYGAL
+14-3-3 protein epsilon,P62258,1-255,peptide-Asp238+Gly-peptide,238,P,,Met,Gln,Gly,Asp,Gly,Glu,Glu,Gln,"Won et al., 2003",19805,MQGDGEEQ
+14-3-3 protein theta,P27348,1-245,peptide-Asp238+Ala-peptide,238,P,,Glu,Glu,Cys,Asp,Ala,Ala,Glu,Gly,"Nomura et al., 2003",19280,EECDAAEG
+26S protease regulatory subunit 8,P62196,2-406,Ala-Leu-Asp4+Gly-Peptide,4,N,MS,-,Ala,Leu,Asp,Gly,Pro,Glu,Gln,"Demon et al., 2009",,XALDGPEQ
+26S proteasome non-ATPase regulatory subunit 12,O00232,2-456,peptide-Asp19+Tyr-peptide,19,P,MS,Met,Glu,Val,Asp,Tyr,Ser,Ala,Thr,"Impens et al., 2010",,MEVDYSAT
+28 kDa heat- and acid-stable phosphoprotein,Q13442,1-181,peptide-Asp24+Ala-peptide,24,P,MS,Glu,Glu,Ile,Asp,Ala,Gln,Leu,Gln,"Impens et al., 2010",,EEIDAQLQ
+"3,5-cyclic nucleotide phosphodiesterase 10A2, Isoform PDE10A2",Q9Y233-2,1-789,peptide-Asp315+Ile-peptide,315,P,,Asp,Leu,Phe,Asp,Ile,Gly,Glu,Glu,"Frame et al., 2001",18976,DLFDIGEE
+30S ribosomal protein S1,P0AG67,1-557,peptide-Asp69+Val-peptide,69,N,MS,Asp,Glu,Val,Asp,Val,Ala,Leu,Asp,"Timmer et al., 2009",,DEVDVALD
+30S ribosomal protein S1,P0AG67,1-557,peptide-Asp462+Ala-peptide,462,N,MS,Thr,Ala,Val,Asp,Ala,Lys,Gly,Ala,"Timmer et al., 2009",,TAVDAKGA
+30S ribosomal protein S1,P0AG67,1-557,peptide-Asp39+Ala-peptide,39,N,MS,Val,Leu,Val,Asp,Ala,Gly,Leu,Lys,"Timmer et al., 2009",,VLVDAGLK
+30S ribosomal protein S18,P0A7T7,Feb-75,peptide-Asp22+Tyr-peptide,22,N,MS,Gln,Glu,Ile,Asp,Tyr,Lys,Asp,Ile,"Timmer et al., 2009",,QEIDYKDI
+30S ribosomal protein S18,P0A7T7,Feb-75,peptide-Asp25+Ile-peptide,25,N,MS,Asp,Tyr,Lys,Asp,Ile,Ala,Thr,Leu,"Timmer et al., 2009",,DYKDIATL
+30S ribosomal protein S2,P0A7V0,2-241,peptide-Asp197+Phe-peptide,197,N,MS,Asp,Gly,Val,Asp,Phe,Val,Ile,Pro,"Timmer et al., 2009",,DGVDFVIP
+30S ribosomal protein S4,P0A7V8,2-206,peptide-Asp174+Ala-peptide,174,N,MS,Leu,Glu,Val,Asp,Ala,Gly,Lys,Met,"Timmer et al., 2009",,LEVDAGKM
+30S ribosomal protein S5,P0A7W1,2-167,peptide-Asp142+Gly-peptide,142,N,MS,Ala,Thr,Ile,Asp,Gly,Leu,Glu,Asn,"Timmer et al., 2009",,ATIDGLEN
+30S ribosomal protein S7,P02359,2-179,peptide-Asp33+Gly-peptide,33,N,MS,Leu,Met,Val,Asp,Gly,Lys,Lys,Ser,"Timmer et al., 2009",,LMVDGKKS
+50S ribosomal protein L2,P60422,2-273,peptide-Asp121+Ala-peptide,121,N,MS,Ser,Gly,Val,Asp,Ala,Ala,Ile,Lys,"Timmer et al., 2009",,SGVDAAIK
+50S ribosomal protein L21,P0AG48,1-103,peptide-Asp55+Gly-peptide,55,N,MS,Pro,Phe,Val,Asp,Gly,Gly,Val,Ile,"Timmer et al., 2009",,PFVDGGVI
+50S ribosomal protein L22,P61175,1-110,peptide-Asp62+Gly-peptide,62,N,MS,Glu,His,Asn,Asp,Gly,Ala,Asp,Ile,"Timmer et al., 2009",,EHNDGADI
+50S ribosomal protein L9,P0A7R1,1-149,peptide-Asp101+Ala-peptide,101,N,MS,Asp,Ile,Ala,Asp,Ala,Val,Thr,Ala,"Timmer et al., 2009",,DIADAVTA
+60 kDa chaperonin,P0A6F5,2-548,peptide-Asp531+Leu-peptide,531,N,MS,Asp,Ala,Ala,Asp,Leu,Gly,Ala,Ala,"Timmer et al., 2009",,DAADLGAA
+"60 kDa heat shock protein, mitochondrial",P63038,27-573,Peptide-Asp531+Ala-Peptide,531,N,MS,Ala,Leu,Leu,Asp,Ala,Ala,Gly,Val,"Demon et al., 2009",,ALLDAAGV
+"60 kDa heat shock protein, mitochondrial",P63038,27-573,Peptide-Asp203+Gly-Peptide,203,N,MS,Thr,Val,Lys,Asp,Gly,Lys,Thr,Leu,"Demon et al., 2009",,TVKDGKTL
+"60 kDa heat shock protein, mitochondrial",P63038,27-573,Peptide-Asp279+Gly-Peptide,279,N,MS,Glu,Asp,Val,Asp,Gly,Glu,Ala,Leu,"Demon et al., 2009",,EDVDGEAL
+60S ribosomal protein L17,P18621,105-124,GLDVD+SLVIEHIQVNKAPK,#VALUE!,N,MS,Leu,Asp,Val,Asp,Ser,Leu,Val,Ile,"Schilling & Overall, 2008",,LDVDSLVI
+60S ribosomal protein L5,P47962,2-297,Peptide-Asp136+Gly-Peptide,136,N,MS,Glu,Ser,Ile,Asp,Gly,Gln,Pro,Gly,"Demon et al., 2009",,ESIDGQPG
+85 kDa calcium-independent phospholipase A2 (EC 3.1.1.4),O60733,1-806,peptide-Asp183+Tyr-peptide,183,P,,Asp,Val,Thr,Asp,Tyr,Lys,Gly,Glu,"Atsumi et al., 1998",19989,DVTDYKGE
+Ac-Asp-Glu-Val-Asp-NHMec,,,Ac-Asp-Glu-Val-Asp+NHMec,#NAME?,S,,Asp,Glu,Val,Asp,AMC,-,-,-,"Nicholson & Thornberry, 2004",,DEVDXXXX
+"aconitate hydratase, mitochondrial precursor",Q99798,573-587,WD+GKDLEDLQILIK,#VALUE!,N,MS,-,-,Trp,Asp,Gly,Lys,Asp,Leu,"Schilling & Overall, 2008",,XXWDGKDL
+ACTA2 protein,Q13707,243-256,LPD+GQVITIGNER,#VALUE!,N,MS,-,Leu,Pro,Asp,Gly,Gln,Val,Ile,"Schilling & Overall, 2008",,XLPDGQVI
+"actin, alpha cardiac muscle 1",P68032,243-256,LPD+GQVITIGNER,#VALUE!,N,MS,-,Leu,Pro,Asp,Gly,Gln,Val,Ile,"Schilling & Overall, 2008",,XLPDGQVI
+"Actin, alpha cardiac muscle 1",P68032,3-377,peptide-Asp53+Ser-peptide,53,P,MS,Gly,Gln,Lys,Asp,Ser,Tyr,Val,Gly,"Demon et al., 2009",,GQKDSYVG
+"Actin, alpha cardiac muscle 1",P68033,3-377,peptide-Asp246+Gly-peptide,246,P,MS,Glu,Leu,Pro,Asp,Gly,Gln,Val,Ile,"Demon et al., 2009",,ELPDGQVI
+"actin, alpha skeletal muscle",P68133,243-256,LPD+GQVITIGNER,#VALUE!,N,MS,-,Leu,Pro,Asp,Gly,Gln,Val,Ile,"Schilling & Overall, 2008",,XLPDGQVI
+"Actin, alpha skeletal muscle",P68133,3-377,peptide-Asp53+Ser-peptide,53,P,MS,Gly,Gln,Lys,Asp,Ser,Tyr,Val,Gly,"Demon et al., 2009",,GQKDSYVG
+"Actin, alpha skeletal muscle",P68134,3-377,peptide-Asp246+Gly-peptide,246,P,MS,Glu,Leu,Pro,Asp,Gly,Gln,Val,Ile,"Demon et al., 2009",,ELPDGQVI
+"actin, aortic smooth muscle",P62736,243-256,LPD+GQVITIGNER,#VALUE!,N,MS,-,Leu,Pro,Asp,Gly,Gln,Val,Ile,"Schilling & Overall, 2008",,XLPDGQVI
+"Actin, aortic smooth muscle",P62737,3-377,Peptide-Asp246+Gly-Peptide,246,N,MS,Glu,Leu,Pro,Asp,Gly,Gln,Val,Ile,"Demon et al., 2009",,ELPDGQVI
+"Actin, aortic smooth muscle",P62736,3-377,peptide-Asp53+Ser-peptide,53,P,MS,Gly,Gln,Lys,Asp,Ser,Tyr,Val,Gly,"Demon et al., 2009",,GQKDSYVG
+"actin, cytoplasmic 1",P60709,2-375,peptide-Asp244+Gly-peptide,244,P,,Glu,Leu,Pro,Asp,Gly,Gln,Val,Ile,"Mashima et al., 1997",19295,ELPDGQVI
+"Actin, cytoplasmic 1",P60710,1-375,Peptide-Asp11+Asn-Peptide,11,N,MS,Leu,Val,Val,Asp,Asn,Gly,Ser,Gly,"Demon et al., 2009",,LVVDNGSG
+"Actin, cytoplasmic 1",P60709,1-375,peptide-Asp11+Asn-peptide,11,P,MS,Leu,Val,Val,Asp,Asn,Gly,Ser,Gly,"Demon et al., 2009",,LVVDNGSG
+"Actin, cytoplasmic 1",P60709,1-375,peptide-Asp51+Ser-peptide,51,P,MS,Gly,Gln,Lys,Asp,Ser,Tyr,Val,Gly,"Demon et al., 2009",,GQKDSYVG
+"Actin, cytoplasmic 1",P60710,1-375,peptide-Asp244+Gly-peptide,244,P,MS,Glu,Leu,Pro,Asp,Gly,Gln,Val,Ile,"Demon et al., 2009",,ELPDGQVI
+"actin, cytoplasmic 2",P63261,241-254,LPD+GQVITIGNER,#VALUE!,N,MS,-,Leu,Pro,Asp,Gly,Gln,Val,Ile,"Schilling & Overall, 2008",,XLPDGQVI
+"Actin, cytoplasmic 2",P63261,1-375,peptide-Asp11+Asn-peptide,11,P,MS,Leu,Val,Ile,Asp,Asn,Gly,Ser,Gly,"Impens et al., 2010",,LVIDNGSG
+"Actin, cytoplasmic 2",P63261,1-375,peptide-Asp51+Ser-peptide,51,P,MS,Gly,Gln,Lys,Asp,Ser,Tyr,Val,Gly,"Impens et al., 2010",,GQKDSYVG
+"Actin, cytoplasmic 2",P63260,1-375,peptide-Asp11+Asn-peptide,11,P,MS,Leu,Val,Ile,Asp,Asn,Gly,Ser,Gly,"Demon et al., 2009",,LVIDNGSG
+"Actin, cytoplasmic 2",P63260,1-375,peptide-Asp244+Gly-peptide,244,P,MS,Glu,Leu,Pro,Asp,Gly,Gln,Val,Ile,"Demon et al., 2009",,ELPDGQVI
+"actin, gamma-enteric smooth muscle",P63267,242-255,LPD+GQVITIGNER,#VALUE!,N,MS,-,Leu,Pro,Asp,Gly,Gln,Val,Ile,"Schilling & Overall, 2008",,XLPDGQVI
+"Actin, gamma-enteric smooth muscle",P63267,3-376,peptide-Asp52+Ser-peptide,52,P,MS,Gly,Gln,Lys,Asp,Ser,Tyr,Val,Gly,"Demon et al., 2009",,GQKDSYVG
+"Actin, gamma-enteric smooth muscle",P63268,3-376,peptide-Asp245+Gly-peptide,245,P,MS,Glu,Leu,Pro,Asp,Gly,Gln,Val,Ile,"Demon et al., 2009",,ELPDGQVI
+Actin-like protein 6A,O96019,2-429,peptide-Asp57+Gly-peptide,57,P,MS,Met,Glu,Ile,Asp,Gly,Asp,Lys,Gly,"Impens et al., 2010",,MEIDGDKG
+Actin-related protein 2/3 complex subunit 5,O15511,2-151,peptide-Asp29+Gly-peptide,29,P,MS,Asp,Glu,Glu,Asp,Gly,Gly,Asp,Gly,"Impens et al., 2010",,DEEDGGDG
+Actin-related protein 2/3 complex subunit 5,Q9CPW4,2-151,Peptide-Asp29+Gly-Peptide,29,N,MS,Asp,Glu,Glu,Asp,Gly,Gly,Asp,Gly,"Demon et al., 2009",,DEEDGGDG
+activator 1 140 kDa subunit,P35251,1-1148,peptide-Asp723+Gly-peptide,723,P,,Asp,Glu,Val,Asp,Gly,Met,Ala,Gly,"Rheaume et al., 1997",3797,DEVDGMAG
+activator 1 140 kDa subunit,P35251,1-1148,peptide-Asp922+Ser-peptide,922,P,,Asp,Leu,Val,Asp,Ser,Gln,Ile,Arg,"Rheaume et al., 1997",3798,DLVDSQIR
+activator 1 140 kDa subunit,P35251,1-1148,peptide-Asp1117+Ala-peptide,1117,P,,Ile,Glu,Thr,Asp,Ala,Met,Ile,Lys,"Rheaume et al., 1997",3799,IETDAMIK
+adenomatous polyposis coli protein,P25054,Jan-43,peptide-Asp777+Ser-peptide,777,P,,Asp,Asn,Ile,Asp,Asn,Leu,Ser,Pro,"Webb et al., 1999",,DNIDNLSP
+adenylosuccinate lyase,P0AB89,1-456,peptide-Asp379+His-peptide,379,N,MS,Asp,Glu,Leu,Asp,His,Asn,Trp,Glu,"Timmer et al., 2009",,DELDHNWE
+aerobic respiration control protein arcA,P0A9Q1,1-238,peptide-Asp217+Thr-peptide,217,N,MS,Ser,Thr,Pro,Asp,Thr,Pro,Glu,Ile,"Timmer et al., 2009",,STPDTPEI
+AKAP1 A-kinase anchor protein 1 precursor,Q92667,30-903,peptide-Asp582+Ser-peptide,582,P,,Asp,Ser,Val,Asp,Ser,Cys,Cys,Ser,"Yoo et al., 2008",21688,DSVDSCCS
+alkyl hydroperoxide reductase subunit C,P0AE08,2-187,peptide-Asp126+Pro-peptide,126,N,MS,Phe,Val,Val,Asp,Pro,Gln,Gly,Ile,"Timmer et al., 2009",,FVVDPQGI
+alpha-adducin,P35611,1-737,peptide-Asp633+Ala-peptide,633,P,,Asp,Asp,Ser,Asp,Ala,Ala,Thr,Phe,"van de Water et al., 2000",19858,DDSDAATF
+alpha-adducin,P35611,1-737,peptide-Asp29+Glu-peptide,29,P,,Asp,Arg,Val,Asp,Glu,Asn,Asn,Pro,"van de Water et al., 2000",3801,DRVDENNP
+alpha-adducin,P35611,1-737,peptide-Asp208+Arg-peptide,208,P,,Asp,Ile,Val,Asp,Arg,Gly,Ser,Thr,"van de Water et al., 2000",3802,DIVDRGST
+amyloid beta A4 protein,P05067,18-770,peptide-Asp739+Ala-peptide,739,P,,Val,Glu,Val,Asp,Ala,Ala,Val,Thr,"Gervais et al., 1999",3750,VEVDAAVT
+amyloid-like protein 1 precursor,P51693,39-650,peptide-Asp620+Pro-peptide,620,P,,Val,Glu,Val,Asp,Pro,Met,Leu,Thr,"Galvan et al., 2002",20197,VEVDPMLT
+androgen receptor,P10275,1-919,peptide-Asp155+Ser-peptide,155,P,,Asp,Glu,Asp,Asp,Ser,Ala,Ala,Pro,"Ellerby et al., 1999",,DEDDSAAP
+AP-1 complex subunit beta-1,Q10567,1-949,peptide-Asp704+Leu-peptide,704,P,,Asp,Leu,Phe,Asp,Leu,Thr,Ser,Gly,"Santambrogio et al., 2005",,DLFDLTSG
+apoptosis regulator BAX,Q07812,1-192,peptide-Asp33+Arg-peptide,33,P,,Phe,Ile,Gln,Asp,Arg,Ala,Gly,Arg,"Yanase et al., 2000",,FIQDRAGR
+apoptosis regulator Bcl-2,Q9JJV8,1-236,peptide-Asp64+Met-peptide,64,N,,Val,His,Arg,Asp,Met,Ala,Ala,Arg,,16226,VHRDMAAR
+apoptosis regulator Bcl-2,P10415,1-239,peptide-Asp34+Val-peptide,34,N,,Asp,Ala,Gly,Asp,Val,Gly,Ala,Ala,"Cheng et al., 1997",3844,DAGDVGAA
+apoptotic chromatin condensation inducer in the nucleus,Q9UKV3,1-1341,peptide-Asp1093+Tyr-peptide,1093,N,,Asp,Glu,Leu,Asp,Tyr,His,Arg,Gly,"Sahara et al., 1999",3849,DELDYHRG
+apoptotic protease-activating factor 1,O14727,1-1248,peptide-Asp271+Ser-peptide,271,P,,Ser,Val,Thr,Asp,Ser,Val,Met,Gly,"Bratton et al., 2001",18970,SVTDSVMG
+apoptotic suppressor protein,Q9YQQ7,1-446,peptide-Asp94+Gly-peptide,94,P,,Thr,Val,Thr,Asp,Gly,Gly,Gly,Ala,"Jabbour et al., 2002",,TVTDGGGA
+asparaginyl-tRNA synthetase,P0A8M0,2-466,peptide-Asp315+Ala-peptide,315,N,MS,Asp,Tyr,Thr,Asp,Ala,Val,Thr,Ile,"Timmer et al., 2009",,DYTDAVTI
+"Aspartyl-tRNA synthetase, cytoplasmic",Q922B2,1-501,Peptide-Asp19+Ala-Peptide,19,N,MS,Glu,Ile,Val,Asp,Ala,Ala,Glu,Asp,"Demon et al., 2009",,EIVDAAED
+ataxin-3,P54252,1-376,peptide-Asp145+Thr-peptide,145,P,,Leu,Ile,Ser,Asp,Thr,Tyr,Leu,Ala,"Ellerby et al., 1999",,LISDTYLA
+ataxin-3,P54252,1-376,peptide-Asp171+Cys-peptide,171,P,,Asp,Leu,Pro,Asp,Cys,Glu,Ala,Asp,"Ellerby et al., 1999",,DLPDCEAD
+ataxin-3,P54252,1-376,peptide-Asp228+Leu-peptide,228,P,,Asp,Glu,Glu,Asp,Leu,Gln,Arg,Ala,"Ellerby et al., 1999",,DEEDLQRA
+"ATP synthase subunit alpha, mitochondrial",P25705,44-553,peptide-Asp159+Gly-peptide,159,P,MS,Asn,Ala,Ile,Asp,Gly,Lys,Gly,Pro,"Impens et al., 2010",,NAIDGKGP
+ATP-dependent Clp protease ATP-binding subunit clpX,P0A6H1,2-424,peptide-Asp404+Gly-peptide,404,N,MS,Ser,Val,Ile,Asp,Gly,Gln,Ser,Lys,"Timmer et al., 2009",,SVIDGQSK
+ATP-dependent DNA helicase 2 subunit 2,P13010,97-125,peptide-Asp109+Ala-peptide,109,N,MS,Asp,Phe,Leu,Asp,Ala,Leu,Ile,Val,"Schilling & Overall, 2008",,DFLDALIV
+ATP-dependent RNA helicase A,Q08211,1-1270,peptide-Asp167+Leu-peptide,167,P,,Glu,Glu,Val,Asp,Leu,Asn,Ala,Gly,"Myohanen et al., 2001",19876,EEVDLNAG
+ATP-dependent RNA helicase DDX1,Q92499,1-740,peptide-Asp685+Gly-peptide,685,P,MS,Asp,Glu,Phe,Asp,Gly,Lys,Val,Thr,"Impens et al., 2010",,DEFDGKVT
+ATP-dependent RNA helicase DDX1,Q91VR5,1-740,Peptide-Asp685+Gly-Peptide,685,N,MS,Asp,Glu,Phe,Asp,Gly,Lys,Val,Thr,"Demon et al., 2009",,DEFDGKVT
+ATP-dependent RNA helicase DDX1,Q91VR5,1-740,Peptide-Asp373+Gly-Peptide,373,N,MS,Asp,Glu,Ala,Asp,Gly,Leu,Leu,Ser,"Demon et al., 2009",,DEADGLLS
+atrophin-1,P54259,1-1185,peptide-Asp109+Gly-peptide,109,P,,Asp,Ser,Leu,Asp,Gly,Arg,Ser,Leu,"Ellerby et al., 1999",3743,DSLDGRSL
+B-cell receptor-associated protein 31,P51572,159-182,peptide-Asp164+Gly-peptide,164,N,MS,Ala,Ala,Val,Asp,Gly,Gly,Lys,Leu,"Schilling & Overall, 2008",,AAVDGGKL
+baculoviral IAP repeat-containing protein 4,P98170,1-497,peptide-Asp242+Ala-peptide,242,P,,Ser,Glu,Ser,Asp,Ala,Val,Ser,Ser,"Deveraux et al., 1999",20025,SESDAVSS
+baculoviral IAP repeat-containing protein 7,Q96CA5,1-298,peptide-Asp52+Gly-peptide,52,P,,Asp,His,Val,Asp,Gly,Gln,Ile,Leu,"Nachmias et al., 2003",,DHVDGQIL
+BBF2H7/FUS protein,Q70T18,81-98,AAIDWFD+GKEFSGNPIK,#VALUE!,N,MS,Asp,Trp,Phe,Asp,Gly,Lys,Glu,Phe,"Schilling & Overall, 2008",,DWFDGKEF
+Bcl-2-like protein 1,Q07817,1-233,peptide-Asp61+Ser-peptide,61,P,,His,Leu,Ala,Asp,Ser,Pro,Ala,Val,"Bellows et al., 2000",,HLADSPAV
+Bcl-2-like protein 1,Q07817,1-233,peptide-Asp76+Ala-peptide,76,P,,Ser,Ser,Leu,Asp,Ala,Arg,Glu,Val,"Bellows et al., 2000",,SSLDAREV
+Bcl-2-like protein 11,O43521,1-198,peptide-Asp13+Arg-peptide,13,P,,Ser,Glu,Cys,Asp,Arg,Glu,Gly,Arg,"Chen & Zhou, 2004",19951,SECDREGR
+Bcl2 antagonist of cell death (BAD),Q92934,1-168,peptide-Asp14+Ser-peptide,14,P,,Glu,Gln,Glu,Asp,Ser,Ser,Ser,Ala,"Condorelli et al., 2001",,EQEDSSSA
+Bcl2 antagonist of cell death (BAD),Q61337,1-204,peptide-Asp61+Arg-peptide,61,P,,Ser,Ala,Thr,Asp,Arg,Gly,Leu,Gly,"Condorelli et al., 2001",20659,SATDRGLG
+Bcl2 antagonist of cell death (BAD),Q61337,1-204,peptide-Asp56+Ala-peptide,56,P,,Glu,Gln,Glu,Asp,Ala,Ser,Ala,Thr,"Condorelli et al., 2001",20658,EQEDASAT
+Beta-actin-like protein 2,Q562R1,1-376,peptide-Asp245+Gly-peptide,245,P,MS,Glu,Leu,Pro,Asp,Gly,Gln,Val,Ile,"Demon et al., 2009",,ELPDGQVI
+Beta-actin-like protein 2,Q8BFZ3,1-376,peptide-Asp245+Gly-peptide,245,P,MS,Glu,Leu,Pro,Asp,Gly,Gln,Val,Ile,"Demon et al., 2009",,ELPDGQVI
+BH3-interacting domain death agonist,P55957,1-195,peptide-Asp50+Gly-peptide,50,P,,Leu,Gln,Thr,Asp,Gly,Asn,Arg,Ser,"Deqli Esposti et al., 2003",,LQTDGNRS
+BH3-interacting domain death agonist,P55957,1-195,peptide-Asp75+Ser-peptide,75,P,,Ile,Glu,Ala,Asp,Ser,Glu,Ser,Gln,"Deqli Esposti et al., 2003",,IEADSESQ
+"bifunctional methylenetetrahydrofolate dehydrogenase/cyclohydrolase, mitochondrial",P13995,119-142,peptide-Asp127+Gly-peptide,127,N,MS,Asp,Asn,Val,Asp,Gly,Leu,Leu,Val,"Schilling & Overall, 2008",,DNVDGLLV
+bifunctional protein folC,P08192,1-422,peptide-Asp175+Trp-peptide,175,N,MS,Asp,His,Thr,Asp,Trp,Leu,Gly,Pro,"Timmer et al., 2009",,DHTDWLGP
+bifunctional protein NCOAT,O60502,1-916,peptide-Asp413+Gly-peptide,413,P,,Ser,Val,Val,Asp,Gly,Thr,Pro,Leu,"Butkinaree et al., 2008",21161,SVVDGTPL
+blooms syndrome protein,P54132,1-1417,peptide-Asp415+Phe-peptide,415,P,,Thr,Glu,Val,Asp,Phe,Asn,Lys,Ser,Bischof et al. 2001,19875,TEVDFNKS
+blooms syndrome protein,P54132,1-1417,peptide-Asp436+Gly-peptide,436,P,,Asp,Ser,Leu,Asp,Gly,Pro,Met,Glu,"Freire et al., 2001",3742,DSLDGPME
+breast cancer anti-estrogen resistance protein 1,P56945,1-870,peptide-Asp318+Gly-peptide,318,P,,Asp,Val,Pro,Asp,Gly,Pro,Leu,Leu,"Kook et al., 2000",3859,DVPDGPLL
+breast cancer anti-estrogen resistance protein 1,P56945,1-870,peptide-Asp650+Gly-peptide,650,P,,Asp,Ser,Pro,Asp,Gly,Gln,Tyr,Glu,"Kook et al., 2000",3860,DSPDGQYE
+breast cancer type 1 susceptibility protein,P38398,1-1863,peptide-Asp1155+Asp-peptide,1155,P,,Asp,Leu,Leu,Asp,Asp,Gly,Glu,Ile,"Zhan et al., 2002",3779,DLLDDGEI
+breast cancer type 1 susceptibility protein,P38398,1-1863,peptide-Asp414+Val-peptide,414,P,,Asp,Val,Leu,Asp,Val,Leu,Asn,Glu,"Zhan et al., 2002",,DVLDVLNE
+C-Jun-amino-terminal kinase-interacting protein 1,Q9UQF2,1-711,peptide-Asp98+Ala-peptide,98,P,MU,Asp,Leu,Ile,Asp,Ala,Thr,Gly,Asp,"Vaishnav et al., 2011",,DLIDATGD
+C-Jun-amino-terminal kinase-interacting protein 1,Q9UQF2,1-711,peptide-Asp408+Ser-peptide,408,P,MU,Asp,Glu,Ser,Asp,Ser,Ala,Thr,Val,"Vaishnav et al., 2011",,DESDSATV
+C-Rel proto-oncogene protein,P16236,1-598,peptide-Asp85+Gly-peptide,85,P,,Asp,Cys,Arg,Asp,Gly,Tyr,Tyr,Glu,"Barkett et al., 2001",,DCRDGYYE
+C-Rel proto-oncogene protein,P16236,1-598,peptide-Asp432+Ser-peptide,432,P,,Asp,Glu,Lys,Asp,Ser,Ser,Phe,Tyr,"Barkett et al., 2001",,DEKDSSFY
+CAD protein,P27708,25-Feb,peptide-Asp1371+Gly-peptide,1371,P,,Glu,Ala,Val,Asp,Gly,Glu,Cys,Pro,"Adam-Klages et al., 1998",3826,EAVDGECP
+CAD protein,P27708,25-Feb,peptide-Asp1143+Gly-peptide,1143,P,,Val,Ala,Ser,Asp,Gly,Val,Val,Ala,"Adam-Klages et al., 1998",3825,VASDGVVA
+calcium/calmodulin-dependent protein kinase type IV,Q16566,1-473,peptide-Asp35+Gly-peptide,35,P,,Tyr,Trp,Ile,Asp,Gly,Ser,Asn,Arg,"McGinnis et al., 1998",,YWIDGSNR
+calcium/calmodulin-dependent protein kinase type IV,P08414,1-469,peptide-Asp174+Ala-peptide,174,P,,Pro,Ala,Pro,Asp,Ala,Pro,Leu,Lys,"McGinnis et al., 1998",19363,PAPDAPLK
+calcium/calmodulin-dependent protein kinase type IV,P08414,1-469,peptide-Asp31+Gly-peptide,31,P,,Tyr,Trp,Ile,Asp,Gly,Ser,Asn,Arg,"McGinnis et al., 1998",19362,YWIDGSNR
+calnexin,P35564,21-591,peptide-Asp568+Ser-peptide,568,P,,Asp,Glu,Glu,Asp,Ser,Lys,Pro,Lys,"Takizawa et al., 2004",19285,DEEDSKPK
+calpastatin,P20810,1-708,peptide-Asp238+Phe-peptide,238,P,,Leu,Ser,Ser,Asp,Phe,Thr,Cys,Gly,"Wang et al., 1998",,LSSDFTCG
+Calpastatin,P20810,1-708,peptide-Asp159+Leu-peptide,159,P,CS,Ala,Leu,Asp,Asp,Leu,Ile,Asp,Thr,"Ju et al., 2007",20656,ALDDLIDT
+Calpastatin,P20810,1-708,peptide-Asp233+Ala-peptide,233,P,CS,Asp,Ala,Ile,Asp,Ala,Leu,Ser,Ser,"Ju et al., 2007",,DAIDALSS
+Calponin-2,Q99439,2-309,peptide-Asp141+Ile-peptide,141,P,MS,Ser,Gly,Val,Asp,Ile,Gly,Val,Lys,"Impens et al., 2010",,SGVDIGVK
+calsenilin,Q9Y2W7,1-256,peptide-Asp64+Ser-peptide,64,P,,Asp,Ser,Ser,Asp,Ser,Glu,Leu,Glu,"Choi et al., 2001",20775,DSSDSELE
+cAMP-dependent protein kinase type II-alpha regulatory subunit,P12367,2-401,Peptide-Asp30+Phe-Peptide,30,N,MS,Asp,Leu,Val,Asp,Phe,Ala,Val,Glu,"Demon et al., 2009",,DLVDFAVE
+"cAMP-specific 3',5'-cyclic phosphodiesterase 4A",P54748,1-844,peptide-Asp72+Thr-peptide,72,P,,Asp,Ala,Val,Asp,Thr,Gly,Asp,Arg,"Huston et al., 2000",20013,DAVDTGDR
+carbamoyl-phosphate synthase small chain,P0A6F1,1-382,peptide-Asp139+Ala-peptide,139,N,MS,Asp,Asn,Pro,Asp,Ala,Ala,Leu,Ala,"Timmer et al., 2009",,DNPDAALA
+carcinoembryonic antigen-related cell adhesion molecule 1 isoform 1,P31809,35-521,peptide-Asp460+Leu-peptide,460,P,,Asp,Gln,Arg,Asp,Leu,Thr,Glu,His,"Houde et al., 2003",20741,DQRDLTEH
+caspase-3 precursor,P42574,1-277,peptide-Asp28+Ser-peptide,28,P,,Glu,Ser,Met,Asp,Ser,Gly,Ile,Ser,"Meergans et al., 2001",18055,ESMDSGIS
+caspase-3 precursor,P42574,1-277,peptide-Asp9+Ser-peptide,9,P,,Asn,Ser,Val,Asp,Ser,Lys,Ser,Ile,"Kamada et al., 1997",,NSVDSKSI
+caspase-3 precursor,P42574,1-277,peptide-Asp175+Ser-peptide,175,P,,Ile,Glu,Thr,Asp,Ser,Gly,Val,Asp,"Kamada et al., 1997",,IETDSGVD
+caspase-6 precursor,P55212,1-293,peptide-Asp23+Ala-peptide,23,P,,Thr,Glu,Thr,Asp,Ala,Phe,Tyr,Lys,"Srinivasula et al., 1996",3821,TETDAFYK
+caspase-6 precursor,P55212,1-293,peptide-Asp179+Ala-peptide,179,P,,Asp,Val,Val,Asp,Asn,Gln,Thr,Glu,"Srinivasula et al., 1996",3822,DVVDNQTE
+caspase-6 precursor,P55212,1-293,peptide-Asp179+Ala-peptide,179,P,,Thr,Glu,Val,Asp,Ala,Ala,Ser,Val,"Srinivasula et al., 1996",3823,TEVDAASV
+caspase-9 precursor,P55211,1-416,peptide-Asp330+Ala-peptide,330,P,,Asp,Gln,Leu,Asp,Ala,Ile,Ser,Ser,"Srinivasula et al., 1996",3755,DQLDAISS
+catenin beta-1 (Beta-catenin),P35222,1-781,peptide-Asp32+Ser-peptide,32,P,,Ser,Tyr,Leu,Asp,Ser,Gly,Ile,His,"Steinhusen et al., 2000",18887,SYLDSGIH
+catenin beta-1 (Beta-catenin),P35222,1-781,peptide-Asp83+Gly-peptide,83,P,,Ala,Asp,Ile,Asp,Gly,Gln,Tyr,Ala,"Steinhusen et al., 2000",18888,ADIDGQYA
+catenin beta-1 (Beta-catenin),P35222,1-781,peptide-Asp115+Ala-peptide,115,P,,Thr,Gln,Phe,Asp,Ala,Ala,His,Pro,"Steinhusen et al., 2000",18889,TQFDAAHP
+catenin beta-1 (Beta-catenin),P35222,1-781,peptide-Asp751+Gly-peptide,751,P,,Tyr,Pro,Val,Asp,Gly,Leu,Pro,Asp,"Steinhusen et al., 2000",18890,YPVDGLPD
+catenin beta-1 (Beta-catenin),P35222,1-781,peptide-Asp764+Gly-peptide,764,P,,Asp,Leu,Met,Asp,Gly,Leu,Pro,Pro,"Steinhusen et al., 2000",18891,DLMDGLPP
+CCNE1,P24864,1-410,peptide-Asp290+Cys-peptide,290,P,,Leu,Asp,Val,Asp,Cys,Leu,Glu,Phe,"Mazumder et al., 2002",19198,LDVDCLEF
+CDKN1B,Q6I9V6,1-198,peptide-Asp139+Ser-peptide,139,P,,Asp,Pro,Ser,Asp,Ser,Gln,Thr,Gly,"Frost et al., 2001",19304,DPSDSQTG
+CDKN1B,Q6I9V6,1-198,peptide-Asp108+Val-peptide,108,P,,Glu,Ser,Gln,Asp,Val,Ser,Gly,Ser,"Eymin et al., 1999",19305,ESQDVSGS
+"cDNA FLJ45706 fis, clone FEBRA2028457, highly similar to Nucleolin",Q6ZS99,520-541,peptide-Asp529+Gly-peptide,529,N,MS,Gly,Glu,Ile,Asp,Gly,Asn,Lys,Val,"Schilling & Overall, 2008",,GEIDGNKV
+"cDNA FLJ77456, highly similar to Homo sapiens interleukin enhancer binding factor 3, 90kDa",A8K590,419-451,peptide-Asp439+Gly-peptide,439,N,MS,Val,Glu,Val,Asp,Gly,Asn,Ser,Phe,"Schilling & Overall, 2008",,VEVDGNSF
+"cDNA FLJ77456, highly similar to Homo sapiens interleukin enhancer binding factor 3, 90kDa",A8K590,554-573,FVMEVEVD+GQKFQGAGSNK,#VALUE!,N,MS,Val,Glu,Val,Asp,Gly,Gln,Lys,Phe,"Schilling & Overall, 2008",,VEVDGQKF
+"cDNA, FLJ95457, highly similar to Homo sapiens tubulin, beta, 4",B2RBD5,103-122,GHYTEGAELVD+SVLDVVRK,#VALUE!,N,MS,Glu,Leu,Val,Asp,Ser,Val,Leu,Asp,"Schilling & Overall, 2008",,ELVDSVLD
+cell division control protein 42 homolog,P60953,1-188,peptide-Asp121+Asp-peptide,121,P,,Asp,Leu,Arg,Asp,Asp,Pro,Ser,Thr,"Danley et al., 1996",3862,DLRDDPST
+cell division control protein 6 homolog,Q99741,1-560,peptide-Asp99+Asn-peptide,99,P,,Leu,Val,Phe,Asp,Asn,Gln,Leu,Thr,"Pelizon et al., 2002",,LVFDNQLT
+cell division control protein 6 homolog,Q99741,1-560,peptide-Asp442+Gly-peptide,442,P,,Ser,Glu,Val,Asp,Gly,Asn,Arg,Met,"Pelizon et al., 2002",19464,SEVDGNRM
+cellular tumor antigen p53,P04637,1-393,peptide-Asp21+Leu-peptide,21,P,,Thr,Phe,Ser,Asp,Leu,Trp,Lys,Leu,"Sayan et al., 2006",19696,TFSDLWKL
+cellular tumor antigen p53,P04637,1-393,peptide-Asp186+Gly-peptide,186,P,,Ser,Asp,Ser,Asp,Gly,Leu,Ala,Pro,"Sayan et al., 2006",19697,SDSDGLAP
+chaperone protein dnaK,P0A6Y8,2-638,peptide-Asp628+Ala-peptide,628,N,MS,Asp,Val,Val,Asp,Ala,Glu,Phe,Glu,"Timmer et al., 2009",,DVVDAEFE
+chaperone protein dnaK,P0A6Y8,2-638,peptide-Asp211+Gly-peptide,211,N,MS,Asp,Glu,Val,Asp,Gly,Glu,Lys,Thr,"Timmer et al., 2009",,DEVDGEKT
+chaperone protein htpG,P0A6Z3,1-624,peptide-Asp498+Glu-peptide,498,N,MS,Asp,Glu,Val,Asp,Glu,Ser,Ala,Lys,"Timmer et al., 2009",,DEVDESAK
+chaperone surA,P0ABZ6,21-428,peptide-Asp43+Gly-peptide,43,N,MS,Ser,Asp,Val,Asp,Gly,Leu,Met,Gln,"Timmer et al., 2009",,SDVDGLMQ
+Cingulin,Q9P2M7,1-1197,peptide-Asp173+Ser-peptide,173,P,MS,Ser,Ser,Val,Asp,Ser,Leu,Ile,Asn,"Impens et al., 2010",,SSVDSLIN
+claspin,Q9HAW4,1-339,peptide-Asp25+Ser-peptide,25,P,,Glu,Glu,Ala,Asp,Ser,Pro,Ser,Asp,"Semple et al., 2007",19839,EEADSPSD
+Clathrin light chain A,P09496,1-248,peptide-Asp76+Gly-peptide,76,P,MS,Asp,Ala,Val,Asp,Gly,Val,Met,Asn,"Impens et al., 2010",,DAVDGVMN
+Clathrin light chain A,O08585,1-235,Peptide-Asp75+Gly-Peptide,75,N,MS,Asp,Ala,Val,Asp,Gly,Val,Met,Asn,"Demon et al., 2009",,DAVDGVMN
+cleavage and polyadenylation specificity factor subunit 2,Q9P2I0,105-130,peptide-Asp120+Ala-peptide,120,N,MS,Asp,Asp,Val,Asp,Ala,Ala,Phe,Asp,"Schilling & Overall, 2008",,DDVDAAFD
+CLiPS synthetic peptide,,,peptide-Asp+Gly-peptide,,S,,Asp,Glu,Val,Asp,Gly,Gly,Gln,Ser,"Boulware & Daugherty, 2006",,DEVDGGQS
+CLiPS synthetic peptide,,,peptide-Asp+Gly-peptide,,S,,Asp,Gly,Val,Asp,Gly,Trp,Gly,Gly,"Boulware & Daugherty, 2006",,DGVDGWGG
+CLiPS synthetic peptide,,,peptide-Asp+Gly-peptide,,S,,Asp,Val,Val,Asp,Gly,Trp,Gly,Gly,"Boulware & Daugherty, 2006",,DVVDGWGG
+CLiPS synthetic peptide,,,peptide-Asp+Gly-peptide,,S,,Asp,Gly,Val,Asp,Gly,Val,Gly,Gly,"Boulware & Daugherty, 2006",,DGVDGVGG
+CLiPS synthetic peptide,,,peptide-Asp+Thr-peptide,,S,,Gly,Ser,Leu,Asp,Thr,Trp,Thr,Ala,"Boulware & Daugherty, 2006",,GSLDTWTA
+CLiPS synthetic peptide,,,peptide-Asp+Arg-peptide,,S,,Asp,Thr,Val,Asp,Arg,Gly,Gly,Gln,"Boulware & Daugherty, 2006",,DTVDRGGQ
+CLiPS synthetic peptide,,,peptide-Asp+Ser-peptide,,S,,Asp,Ser,Thr,Asp,Ser,Gly,Gly,Gly,"Boulware & Daugherty, 2006",,DSTDSGGG
+CLiPS synthetic peptide,,,peptide-Asp+Gly-peptide,,S,,Ser,Gln,Val,Asp,Gly,Val,Gly,Gly,"Boulware & Daugherty, 2006",,SQVDGVGG
+CLiPS synthetic peptide,,,peptide-Asp+Gly-peptide,,S,,Ser,Glu,Val,Asp,Gly,Arg,His,Gly,"Boulware & Daugherty, 2006",,SEVDGRHG
+CLiPS synthetic peptide,,,peptide-Asp+Gly-peptide,,S,,Thr,Glu,Val,Asp,Gly,Pro,Gly,Gly,"Boulware & Daugherty, 2006",,TEVDGPGG
+CLiPS synthetic peptide,,,peptide-Asp+Gly-peptide,,S,,Ser,Glu,Val,Asp,Gly,Gly,Trp,Gly,"Boulware & Daugherty, 2006",,SEVDGGWG
+CLiPS synthetic peptide,,,peptide-Asp+Gly-peptide,,S,,Asp,Gly,Thr,Asp,Gly,Gly,Gly,Gln,"Boulware & Daugherty, 2006",,DGTDGGGQ
+CLiPS synthetic peptide,,,peptide-Asp+Thr-peptide,,S,,Asp,Gly,Val,Asp,Thr,Gly,Gly,Gln,"Boulware & Daugherty, 2006",,DGVDTGGQ
+CLiPS synthetic peptide,,,peptide-Asp+Gly-peptide,,S,,Ser,Glu,Val,Asp,Gly,Ser,Arg,Gly,"Boulware & Daugherty, 2006",,SEVDGSRG
+CLiPS synthetic peptide,,,peptide-Asp+Gly-peptide,,S,,Ser,Tyr,Val,Asp,Gly,Val,Val,Gly,"Boulware & Daugherty, 2006",,SYVDGVVG
+CLiPS synthetic peptide,,,peptide-Asp+Arg-peptide,,S,,Asp,Phe,Val,Asp,Arg,Val,Gly,Gly,"Boulware & Daugherty, 2006",,DFVDRVGG
+CLiPS synthetic peptide,,,peptide-Asp+Gly-peptide,,S,,Ser,Met,Val,Asp,Gly,Ala,Met,Gly,"Boulware & Daugherty, 2006",,SMVDGAMG
+Coiled-coil domain-containing protein 137,Q8R0K4,1-290,Peptide-Asp108+Ile-Peptide,108,N,MS,Glu,Glu,Pro,Asp,Ile,Ala,Val,Pro,"Demon et al., 2009",,EEPDIAVP
+consensus-aspartyl bond,,,peptide-Asp+peptide,,N,,Asp,Xaa,Xaa,Asp,CPe,-,-,-,"Nicholson & Thornberry, 2004",,DXXDXXXX
+COP9 signalosome complex subunit 6,Q7L5N1,1-327,peptide-Asp23+Ala-peptide,23,P,MU,Met,Glu,Val,Asp,Ala,Ala,Val,Val,"Hetfield et al., 2008",,MEVDAAVV
+"coproporphyrinogen III oxidase, mitochondrial precursor",P36551,332-352,GIGGIFFDDLD+SPSKEEVFR,#VALUE!,N,MS,Asp,Asp,Leu,Asp,Ser,Pro,Ser,Lys,"Schilling & Overall, 2008",,DDLDSPSK
+Craniofacial development protein 1,Q9UEE9,1-299,peptide-Asp40+Gly-peptide,40,P,MS,Asp,Glu,Val,Asp,Gly,Glu,Glu,Gln,"Impens et al., 2010",,DEVDGEEQ
+Craniofacial development protein 1,O88271,1-295,Peptide-Asp40+Gly-Peptide,40,N,MS,Asp,Glu,Val,Asp,Gly,Glu,Glu,Gln,"Demon et al., 2009",,DEVDGEEQ
+CtBP-interacting BTB zinc finger protein,Q3LR78,1-1197,peptide-Asp618+Gly-peptide,618,P,,Asp,Phe,Gln,Asp,Gly,Arg,Asn,Thr,"Oikawa et al., 2008",20703,DFQDGRNT
+CtBP-interacting BTB zinc finger protein,Q3LR78,1-1197,peptide-Asp910+Lys-peptide,910,P,,Asp,Ser,Thr,Asp,Lys,Pro,Trp,Arg,"Oikawa et al., 2008",20704,DSTDKPWR
+cyclin-dependent kinase inhibitor 1,P38936,2-164,peptide-Asp149+Phe-peptide,149,P,,Ser,Met,Thr,Asp,Phe,Tyr,His,Ser,"Park et al., 1998",3796,SMTDFYHS
+cyclin-dependent kinase inhibitor 1,P38936,2-164,peptide-Asp112+Leu-peptide,112,P,,Asp,His,Val,Asp,Leu,Ser,Leu,Ser,"Park et al., 1998",3763,DHVDLSLS
+cytoplasmic dynein intermediate chain,Q98SV2,1-607,peptide-Asp69+Gly-peptide,69,P,,Asp,Ser,Gly,Asp,Gly,Ala,Gly,Gly,"Lane et al., 2001",19434,DSGDGAGG
+cytoplasmic tyrosine-protein kinase BMX,P51813,1-675,peptide-Asp242+Trp-peptide,242,P,,Asp,Phe,Pro,Asp,Trp,Trp,Gln,Val,"Wu et al., 2001",18969,DFPDWWQV
+cytosolic phospholipase A2,P47712,1-749,peptide-Asp522+Ala-peptide,522,P,,Asp,Glu,Leu,Asp,Ala,Ala,Val,Ala,"Adam-Klages et al., 1998",21379,DELDAAVA
+Cytosolic phospholipase A2,P47713,1-748,Peptide-Asp521+Ala-Peptide,521,N,MS,Asp,Glu,Leu,Asp,Ala,Ala,Val,Ala,"Demon et al., 2009",18894,DELDAAVA
+"D-tagatose-1,6-bisphosphate aldolase subunit gatY",P0C8J6,1-284,peptide-Asp151+Ala-peptide,151,N,MS,Asn,Glu,Ala,Asp,Ala,Leu,Tyr,Thr,"Timmer et al., 2009",,NEADALYT
+DBN1 drebrin 1,Q16643,2-649,peptide-Asp167+Ala-peptide,167,P,MS,Gln,Lys,Thr,Asp,Ala,Ala,Val,Glu,"Impens et al., 2010",,QKTDAAVE
+Desmoglein-1,Q02413,50-1049,peptide-Asp888+Gly-peptide,888,P,,Asp,Leu,Arg,Asp,Gly,Ser,Asn,Val,"Dusek et al., 2006",19687,DLRDGSNV
+desmoglein-3,P32926,50-999,peptide-Asp781+Gly-peptide,781,P,,Asp,Tyr,Ala,Asp,Gly,Ala,Ile,Ser,"Weiske et al., 2001",3832,DYADGAIS
+DFFA,Q8C535,1-265,peptide-Asp224+Thr-peptide,224,P,,Asp,Ala,Val,Asp,Thr,Gly,Val,Gly,"Sakahira et al., 1998",19352,DAVDTGVG
+dihydrolipoyl dehydrogenase,P0A9P0,2-474,peptide-Asp394+Gly-peptide,394,N,MS,Asp,Cys,Ala,Asp,Gly,Met,Thr,Lys,"Timmer et al., 2009",,DCADGMTK
+dihydrolipoyl dehydrogenase,P0A9P0,2-474,peptide-Asp167+Ala-peptide,167,N,MS,Asp,Ser,Thr,Asp,Ala,Leu,Glu,Leu,"Timmer et al., 2009",,DSTDALEL
+"dihydrolipoyllysine-residue acetyltransferase component of pyruvate dehydrogenase complex, mitochondrial",P10515,87-647,peptide-Asp131+Lys-peptide,131,P,,Val,Glu,Thr,Asp,Lys,Ala,Thr,Val,"Matsumura et al., 2002",19911,VETDKATV
+"dihydrolipoyllysine-residue acetyltransferase component of pyruvate dehydrogenase complex, mitochondrial",P10515,87-647,peptide-Asp258+Lys-peptide,258,P,,Ile,Glu,Thr,Asp,Lys,Ala,Thr,Ile,"Matsumura et al., 2002",,IETDKATI
+dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex,P0AFG6,2-405,peptide-Asp128+Ala-peptide,128,N,MS,His,Asn,Leu,Asp,Ala,Ser,Ala,Ile,"Timmer et al., 2009",,HNLDASAI
+Diphthamide biosynthesis protein 2,Q9BQC3,1-489,peptide-Asp253+Thr-peptide,253,P,MS,Cys,Cys,Pro,Asp,Thr,Gly,Lys,Thr,"Impens et al., 2010",,CCPDTGKT
+Disco-interacting protein 2 homolog B,Q9P265,1-1576,peptide-Asp60+Ser-peptide,60,P,MS,Gln,Glu,Thr,Asp,Ser,Ala,Val,Gln,"Impens et al., 2010",,QETDSAVQ
+disks large homolog 1,Q12959,1-904,peptide-Asp428+Asn-peptide,428,P,,Gln,Pro,Val,Asp,Asn,His,Val,Ser,"Gregorc et al., 2005",19864,QPVDNHVS
+Disks large-associated protein 4,Q9Y2H0,1-992,peptide-Asp720+Ala-peptide,720,P,MS,Asp,Thr,Gln,Asp,Ala,Asn,Asp,Ser,"Impens et al., 2010",,DTQDANDS
+DNA fragmentation factor subunit alpha,O00273,1-331,peptide-Asp224+Thr-peptide,224,P,,Asp,Ala,Val,Asp,Thr,Gly,Ile,Ser,"Liu et al., 1997",17863,DAVDTGIS
+DNA fragmentation factor subunit alpha,O00273,1-331,peptide-Asp117+Ser-peptide,117,P,,Asp,Glu,Thr,Asp,Ser,Gly,Ala,Gly,"Liu et al., 1997",17862,DETDSGAG
+DNA fragmentation factor subunit alpha,O54786,1-331,peptide-Asp117+Ser-peptide,117,P,,Asp,Glu,Pro,Asp,Ser,Arg,Ala,Gly,"Sakahira et al., 1998",19353,DEPDSRAG
+DNA fragmentation factor subunit alpha,O54786,1-331,peptide-Asp224+Thr-peptide,224,P,,Asp,Ala,Val,Asp,Thr,Gly,Val,Gly,"Sakahira et al., 1998",19351,DAVDTGVG
+DNA mismatch repair protein Mlh1,P40692,1-756,peptide-Asp418+Ile-peptide,418,P,,Asp,Lys,Thr,Asp,Ile,Ser,Ser,Gly,"Chen et al., 2004",18963,DKTDISSG
+"DNA polymerase epsilon, catalytic subunit A",Q07864,Jan-86,peptide-Asp216+Asn-peptide,216,P,,Asp,Gln,Leu,Asp,Asn,Ile,Val,Asp,"Liu & Linn, 2000",19399,DQLDNIVD
+"DNA polymerase epsilon, catalytic subunit A",Q07864,Jan-86,peptide-Asp1214+Phe-peptide,1214,P,,Asp,Met,Glu,Asp,Phe,Gly,Leu,Val,"Liu & Linn, 2000",19400,DMEDFGLV
+DNA repair protein RAD51 homolog 1,Q06609,1-339,peptide-Asp187+Asn-peptide,187,P,,Asp,Val,Leu,Asp,Asn,Val,Ala,Tyr,"Huang et al., 1999",3762,DVLDNVAY
+DNA repair protein RAD51 homolog 1,Q06609,1-339,Peptide-Asp274+Gly-Peptide,274,P,MU,Ala,Gln,Val,Asp,Gly,Ala,Ala,Met,"Flygare et al., 2000",,AQVDGAAM
+DNA replication licensing factor MCM5,P33992,1-734,peptide-Asp13+Ser-peptide,13,P,MS,Phe,Tyr,Ser,Asp,Ser,Phe,Gly,Gly,"Impens et al., 2010",,FYSDSFGG
+DNA topoisomerase 1,P11387,1-765,peptide-Asp146+Tyr-peptide,146,P,,Asp,Asp,Ala,Asp,Tyr,Lys,Pro,Lys,"Samejima et al., 1999",3764,DDADYKPK
+DNA topoisomerase 1,P11387,1-765,peptide-Asp170+Gly-peptide,170,P,,Glu,Glu,Glu,Asp,Gly,Lys,Leu,Lys,"Samejima et al., 1999",,EEEDGKLK
+DNA topoisomerase 1,P11387,2-765,peptide-Asp123+Gly-peptide,123,P,CS,Pro,Glu,Asp,Asp,Gly,Tyr,Phe,Val,"Ju et al., 2007",,PEDDGYFV
+DNA-dependent protein kinase catalytic subunit,P78527,28-Jan,peptide-Asp2713+Asn-peptide,2713,P,,Asp,Glu,Val,Asp,Asn,Lys,Val,Lys,"Song et al., 1996",16230,DEVDNKVK
+DNA-dependent protein kinase catalytic subunit,P78527,28-Jan,peptide-Asp2020+Gly-peptide,2020,P,,Gly,Asp,Ser,Asp,Gly,Pro,Ser,Tyr,"Teraoka et al., 1996",3739,GDSDGPSY
+dNA-directed RNA polymerase subunit beta,P0A8T7,1-1407,peptide-Asp891+Phe-peptide,891,N,MS,Cys,Asp,Thr,Asp,Phe,Gly,Val,Cys,"Timmer et al., 2009",,CDTDFGVC
+DNA-repair protein XRCC4,Q13426,1-336,peptide-Asp265+Ile-peptide,265,P,,Asp,Val,Thr,Asp,Ile,Ala,Pro,Ser,"Lee et al., 2002",19467,DVTDIAPS
+double-strand-break repair protein rad21 homolog,O60216,1-631,peptide-Asp279+Ser-peptide,279,P,,Asp,Ser,Pro,Asp,Ser,Val,Asp,Pro,"Chen et al., 2002",16231,DSPDSVDP
+Double-strand-break repair protein rad21 homolog,O60216,1-631,peptide-Asp128+Val-peptide,128,P,MS,Asp,Asp,Ile,Asp,Val,Ala,Gln,Gln,"Impens et al., 2010",,DDIDVAQQ
+drebrin-like protein,Q9UJU6,1-430,peptide-Asp361+His-peptide,361,P,,Glu,His,Ile,Asp,His,His,Ile,Gln,"Chen et al., 2001",19437,EHIDHHIQ
+E3 SUMO-protein ligase RanBP2,P49792,24-Jan,peptide-Asp2797+Ser-peptide,2797,P,MS,Glu,Glu,Pro,Asp,Ser,Ile,Thr,Lys,"Impens et al., 2010",,EEPDSITK
+E3 ubiquitin-protein ligase Mdm2,P23804,1-489,peptide-Asp359+Gly-peptide,359,P,,Asp,Val,Pro,Asp,Gly,Lys,Lys,Leu,"Erhardt et al., 1997",20011,DVPDGKKL
+E3 ubiquitin-protein ligase NEDD4,P46934,1-1000,peptide-Asp526+Val-peptide,526,P,,Gly,Gln,Val,Asp,Val,Pro,Leu,Tyr,"Harvey et al., 1998",,GQVDVPLY
+"E3 ubiquitin-protein ligase NEDD4, Isoform 3",P46934-3,1-1247,peptide-Asp526+Ala-peptide,526,P,,Asp,Gln,Pro,Asp,Ala,Ala,Cys,His,"Harvey et al., 1998",3824,DQPDAACH
+E3 ubiquitin-protein ligase RBX1,P62877,2-108,peptide-Asp8+Thr-peptide,8,P,MS,Met,Asp,Val,Asp,Thr,Pro,Ser,Gly,"Impens et al., 2010",,MDVDTPSG
+E3 ubiquitin-protein ligase RNF213,Q63HN8,7-Jan,peptide-Asp273+Ala-peptide,273,P,MS,Met,Ala,Val,Asp,Ala,Val,Ala,Glu,"Demon et al., 2009",,MAVDAVAE
+E3 ubiquitin-protein ligase RNF34,Q969K3,1-372,peptide-Asp232+Asp-peptide,232,P,,Asp,Glu,Asp,Asp,Asp,Asp,Glu,Glu,"Sasaki et al., 2002",,DEDDDDEE
+Early 35 kDa protein,P08160,1-299,peptide-Asp87+Gly-peptide,87,N,,Asp,Gln,Met,Asp,Gly,Phe,His,Asp,"Bump et al., 1995",19974,DQMDGFHD
+elongation factor 1-beta,P24534,139-163,peptide-Asp154+Met-peptide,154,N,MS,Asp,Glu,Thr,Asp,Met,Ala,Lys,Leu,"Schilling & Overall, 2008",,DETDMAKL
+Elongation factor 2,P58252,2-858,Peptide-Asp37+Ser-Peptide,37,N,MS,Thr,Leu,Thr,Asp,Ser,Leu,Val,Cys,"Demon et al., 2009",,TLTDSLVC
+elongation factor G,P0A6M8,2-704,peptide-Asp45+Gly-peptide,45,N,MS,Glu,Val,His,Asp,Gly,Ala,Ala,Thr,"Timmer et al., 2009",,EVHDGAAT
+elongation factor G,P0A6M8,2-704,peptide-Asp401+Ala-peptide,401,N,MS,Cys,Asp,Pro,Asp,Ala,Pro,Ile,Ile,"Timmer et al., 2009",,CDPDAPII
+elongation factor Tu,P0A6N1,2-394,peptide-Asp100+Gly-peptide,100,N,MS,Ala,Gln,Met,Asp,Gly,Ala,Ile,Leu,"Timmer et al., 2009",,AQMDGAIL
+elongation factor Tu,P0A6N1,2-394,peptide-Asp51+Asn-peptide,51,N,MS,Asp,Gln,Ile,Asp,Asn,Ala,Pro,Glu,"Timmer et al., 2009",,DQIDNAPE
+elongation factor Tu,P0A6N1,2-394,peptide-Asp22+His-peptide,22,N,MS,Gly,His,Val,Asp,His,Gly,Lys,Thr,"Timmer et al., 2009",,GHVDHGKT
+elongation factor Tu,P0A6N1,2-394,peptide-Asp197+Ser-peptide,197,N,MS,Gly,Phe,Leu,Asp,Ser,Tyr,Ile,Pro,"Timmer et al., 2009",,GFLDSYIP
+elongation factor Tu,P0A6N1,2-394,peptide-Asp81+Cys-peptide,81,N,MS,Ala,His,Val,Asp,Cys,Pro,Gly,His,"Timmer et al., 2009",,AHVDCPGH
+Endoplasmin,P08113,22-802,Peptide-Asp28+Gly-Peptide,28,N,MS,Val,Asp,Val,Asp,Gly,Thr,Val,Glu,"Demon et al., 2009",,VDVDGTVE
+Endoplasmin,P08113,22-802,Peptide-Asp59+Gly-Peptide,59,N,MS,Ile,Gln,Leu,Asp,Gly,Leu,Asn,Ala,"Demon et al., 2009",,IQLDGLNA
+Endoplasmin,P08113,22-802,Peptide-Asp26+Val-Peptide,26,N,MS,Asp,Glu,Val,Asp,Val,Asp,Gly,Thr,"Demon et al., 2009",,DEVDVDGT
+enolase,P0A6P9,2-432,peptide-Asp382+Leu-peptide,382,N,MS,Thr,Ile,Ala,Asp,Leu,Ala,Val,Gly,"Timmer et al., 2009",,TIADLAVG
+enolase,P0A6P9,2-432,peptide-Asp297+Trp-peptide,297,N,MS,Asp,Glu,Ser,Asp,Trp,Asp,Gly,Phe,"Timmer et al., 2009",,DESDWDGF
+entericidin B,P0ADB7,22-48,peptide-Asp34+Gly-peptide,34,N,MS,Asp,Ile,Ser,Asp,Gly,Gly,Asn,Ala,"Timmer et al., 2009",,DISDGGNA
+epidermal growth factor receptor precursor,P00533,25-1210,peptide-Asp1006+Met-peptide,1006,P,,Asp,Glu,Glu,Asp,Met,Asp,Asp,Val,"Bae et al., 2001",,DEEDMDDV
+epidermal growth factor receptor precursor,P00533,25-1210,peptide-Asp1009+Val-peptide,1009,P,,Asp,Met,Asp,Asp,Val,Val,Asp,Ala,"Bae et al., 2001",,DMDDVVDA
+epithelial-cadherin precursor,P09803,23-884,peptide-Asp752+Asn-peptide,752,P,,Asp,Thr,Arg,Asp,Asn,Val,Tyr,Tyr,"Steinhusen et al., 2001",3778,DTRDNVYY
+erythroid transcription factor,P15976,1-413,peptide-Asp125+Gly-peptide,125,P,,Glu,Asp,Leu,Asp,Gly,Lys,Gly,Ser,"Maria et al., 1999",19892,EDLDGKGS
+eukaryotic translation initiation factor 2 subunit 1,P05198,2-315,peptide-Asp300+Gly-peptide,300,P,,Ala,Glu,Val,Asp,Gly,Asp,Asp,Asp,"Satoh et al., 1999",3830,AEVDGDDD
+eukaryotic translation initiation factor 2 subunit 1,P05198,2-315,peptide-Asp303+Asp-peptide,303,P,,Asp,Gly,Asp,Asp,Asp,Ala,Glu,Glu,"Satoh et al., 1999",19877,DGDDDAEE
+eukaryotic translation initiation factor 3 subunit J,O75822,2-258,peptide-Asp242+Tyr-peptide,242,P,,Asp,Leu,Ala,Asp,Tyr,Gly,Gly,Tyr,"Bushell et al., 2000",3833,DLADYGGY
+eukaryotic translation initiation factor 3 subunit J,O75822,2-258,peptide-Asp256+Phe-peptide,256,P,,Asp,Tyr,Glu,Asp,Phe,Met,-,-,"Bushell et al., 2000",,DYEDFMXX
+eukaryotic translation initiation factor 4 gamma 1,Q04637,1-1599,peptide-Asp532+Ala-peptide,532,P,,Asp,Leu,Leu,Asp,Ala,Phe,Lys,Glu,"Bushell et al., 2000",19412,DLLDAFKE
+eukaryotic translation initiation factor 4 gamma 1,Q04637,1-1599,peptide-Asp1175+Arg-peptide,1175,P,,Asp,Arg,Leu,Asp,Arg,Ala,Arg,Thr,"Bushell et al., 2000",19411,DRLDRART
+eukaryotic translation initiation factor 4 gamma 2,P78344,1-907,peptide-Asp792+Ser-peptide,792,P,,Asp,Glu,Thr,Asp,Ser,Ser,Ser,Ala,"Henis-Korenblit et al., 2000",,DETDSSSA
+eukaryotic translation initiation factor 4B,P23588,1-611,peptide-Asp45+Asp-peptide,45,P,,Asp,Glu,Thr,Asp,Asp,Leu,Glu,Gly,"Bushell et al., 2000",3835,DETDDLEG
+Eukaryotic translation initiation factor 4B,P23588,1-611,peptide-Asp531+Gly-peptide,531,P,MS,Asn,Lys,Val,Asp,Gly,Met,Asn,Ala,"Impens et al., 2010",,NKVDGMNA
+eukaryotic translation initiation factor 4E-binding protein 1,Q13541,2-118,peptide-Asp24+Gly-peptide,24,P,,Val,Leu,Gly,Asp,Gly,Val,Gln,Leu,"Tee et al., 2002",,VLGDGVQL
+Eukaryotic translation initiation factor 4H,Q15056,2-248,peptide-Asp93+Ser-peptide,93,P,MS,Asp,Glu,Val,Asp,Ser,Leu,Lys,Glu,"Impens et al., 2010",,DEVDSLKE
+Eukaryotic translation initiation factor 4H,Q9WUK2,2-248,Peptide-Asp93+Ser-Peptide,93,N,MS,Asp,Glu,Val,Asp,Ser,Leu,Lys,Glu,"Demon et al., 2009",,DEVDSLKE
+Excitatory amino acid transporter 2 (SLC1A2),P43004,1-574,peptide-Asp505+Ser-peptide,505,P,MU,Asp,Thr,Ile,Asp,Ser,Gln,His,Arg,"Boston-Howes et al., 2006",18964,DTIDSQHR
+FACT complex subunit SSRP1,Q08945,2-709,peptide-Asp450+Ala-peptide,450,P,,Asp,Gln,His,Asp,Ala,Tyr,Leu,Glu,"Landais et al., 2006",20023,DQHDAYLE
+Far upstream element-binding protein 2,Q92945,1-711,Peptide-Asp72+Ala-Peptide,72,P,CS,Ile,Arg,Lys,Asp,Ala,Phe,Ala,Asp,"Thiede et al., 2001",,IRKDAFAD
+Far upstream element-binding protein 2,Q92945,1-711,Peptide-Asp76+Ala-Peptide,76,P,CS,Ala,Phe,Ala,Asp,Ala,Val,Gln,Arg,"Thiede et al., 2001",,AFADAVQR
+Far upstream element-binding protein 2,Q92945,1-711,Peptide-Asp91+Ala-Peptide,91,P,CS,Ile,Gly,Gly,Asp,Ala,Ala,Thr,Thr,"Thiede et al., 2001",,IGGDAATT
+Far upstream element-binding protein 2,Q92945,1-711,Peptide-Asp102+Phe-Peptide,102,P,CS,Ser,Thr,Pro,Asp,Phe,Gly,Phe,Gly,"Thiede et al., 2001",,STPDFGFG
+Far upstream element-binding protein 2,Q92945,1-711,Peptide-Asp114+Gly-Peptide,114,P,CS,Gln,Leu,Glu,Asp,Gly,Asp,Gln,Pro,"Thiede et al., 2001",,QLEDGDQP
+Far upstream element-binding protein 2,Q92945,1-711,Peptide-Asp116+Gln-Peptide,116,P,CS,Glu,Asp,Gly,Asp,Gln,Pro,Glu,Ser,"Thiede et al., 2001",,EDGDQPES
+Far upstream element-binding protein 2,Q92945,1-711,Peptide-Asp128+Ser-Peptide,128,P,CS,Ser,Gln,Gly,Asp,Ser,Ile,Ser,Ser,"Thiede et al., 2001",,SQGDSISS
+FH1/FH2 domain-containing protein 1,Q9Y613,2-1164,peptide-Asp616+Ser-peptide,616,P,,Ser,Val,Pro,Asp,Ser,Ser,Ala,Leu,"Menard et al., 2006",19880,SVPDSSAL
+flavin reductase,P30043,187-206,CLTTDEYD+GHSTYPSHQYQ,#VALUE!,N,MS,Asp,Glu,Tyr,Asp,Gly,His,Ser,Thr,"Schilling & Overall, 2008",,DEYDGHST
+flavoprotein wrbA,P0A8G6,2-198,peptide-Asp30+Gly-peptide,30,N,MS,Ser,Lys,Val,Asp,Gly,Ala,Glu,Val,"Timmer et al., 2009",,SKVDGAEV
+FLJ00279 protein,Q6ZNL4,540-563,peptide-Asp551+Gly-peptide,551,N,MS,Glu,Glu,Val,Asp,Gly,Lys,Ala,Asp,"Schilling & Overall, 2008",,EEVDGKAD
+focal adhesion kinase 1,Q05397,2-1052,peptide-Asp772+Ser-peptide,772,P,,Asp,Gln,Thr,Asp,Ser,Trp,Asn,His,"Gervais et al., 1998",18755,DQTDSWNH
+friend leukemia integration 1,Q544B3,1-452,peptide-Asp20+Ser-peptide,20,P,,Ser,Leu,Phe,Asp,Ser,Ala,Tyr,Gly,"Sarrazin et al., 2002",19881,SLFDSAYG
+friend leukemia integration 1,Q544B3,1-452,peptide-Asp155+Thr-peptide,155,P,,Met,Glu,Ile,Asp,Thr,Ser,Phe,Phe,"Sarrazin et al., 2002",19882,MEIDTSFF
+friend leukemia integration 1,Q544B3,1-452,peptide-Asp209+Gln-peptide,209,P,,Ser,His,Thr,Asp,Gln,Ser,Ser,Arg,"Sarrazin et al., 2002",19883,SHTDQSSR
+fructose-bisphosphate aldolase class 2,P0AB71,2-359,peptide-Asp187+Asn-peptide,187,N,MS,Asp,Gly,Val,Asp,Asn,Ser,His,Met,"Timmer et al., 2009",,DGVDNSHM
+fusion,Q59H57,122-139,AAIDWFD+GKEFSGNPIK,#VALUE!,N,MS,Asp,Trp,Phe,Asp,Gly,Lys,Glu,Phe,"Schilling & Overall, 2008",,DWFDGKEF
+GAS2,O43903,1-313,peptide-Asp278+Gly-peptide,278,P,,Ser,Arg,Val,Asp,Gly,Lys,Thr,Ser,"Sgorbissa et al., 2000",3759,SRVDGKTS
+GCP360,Q63714,Jan-87,peptide-Asp1083+Gly-peptide,1083,P,MU,Asp,Ala,Gly,Asp,Gly,Asp,Ser,Ala,"Lowe et al., 2004",20735,DAGDGDSA
+GCP360,Q63714,Jan-87,peptide-Asp1882+Ala-peptide,1882,P,MU,Asp,Val,Thr,Asp,Ala,Gln,Ile,Lys,"Lowe et al., 2004",,DVTDAQIK
+gelsolin precursor,P13020,26-780,peptide-Asp403+Gly-peptide,403,P,,Asp,Gln,Thr,Asp,Gly,Pro,Gly,Leu,"Kothakota et al., 1997",3839,DQTDGPGL
+GEM-interacting protein,Q9P107,1-970,peptide-Asp842+Gly-peptide,842,P,MS,Asp,Thr,Lys,Asp,Gly,Gly,Gly,Glu,"Impens et al., 2010",,DTKDGGGE
+geminin,O75496,1-209,peptide-Asp204+Ala-peptide,204,P,MS,Ser,Ser,Thr,Asp,Ala,Lys,Pro,Cys,"Roukos et al., 2007",19977,SSTDAKPC
+geminin,O75496,1-209,peptide-Asp170+Asn-peptide,170,P,MS,Glu,Ser,Leu,Asp,Asn,Gln,Glu,Phe,"Roukos et al., 2007",19978,ESLDNQEF
+general vesicular transport factor p115,O60763,1-962,peptide-Asp757+Ser-peptide,757,P,,Thr,Glu,Lys,Asp,Ser,Met,Ile,Glu,"Chiu et al., 2002",19473,TEKDSMIE
+glial fibrillary acidic protein,P14136,1-432,peptide-Asp266+Ala-peptide,266,P,CS,Asp,Leu,Thr,Asp,Ala,Ala,Ala,Arg,"Mouser et al., 2006",19979,DLTDAAAR
+glucose-6-phosphate isomerase,P06744,524-550,peptide-Asp539+Ala-peptide,539,N,MS,Thr,Ser,His,Asp,Ala,Ser,Thr,Asn,"Schilling & Overall, 2008",,TSHDASTN
+glucose-6-phosphate isomerase,P06744,524-550,peptide-Asp530+Gly-peptide,530,N,MS,Pro,Glu,Leu,Asp,Gly,Ser,Ala,Gln,"Schilling & Overall, 2008",,PELDGSAQ
+glutamate--cysteine ligase catalytic subunit,P48506,2-637,peptide-Asp498+Gly-peptide,498,P,,Ala,Val,Val,Asp,Gly,Cys,Gly,Lys,"Franklin et al., 2002",19976,AVVDGCGK
+glutaredoxin-3,O76003,99-110,LD+GAHAPELTK,#VALUE!,N,MS,-,-,Leu,Asp,Gly,Ala,His,Ala,"Schilling & Overall, 2008",,XXLDGAHA
+Glutathione S-transferase P 1,P19157,2-210,Peptide-Asp91+Met-Peptide,91,N,MS,Ala,Gln,Met,Asp,Met,Val,Asn,Asp,"Demon et al., 2009",,AQMDMVND
+Glutathione S-transferase P 2,P46425,2-210,peptide-Asp91+Met-peptide,91,P,MS,Ala,Gln,Val,Asp,Met,Val,Asn,Asp,"Demon et al., 2009",,AQVDMVND
+glycylpeptide N-tetradecanoyltransferase 1,P30419,1-496,peptide-Asp72+Ser-peptide,72,P,MS,Ser,Glu,Thr,Asp,Ser,Ala,Gln,Asp,"Impens et al., 2010",,SETDSAQD
+golgi reassembly stacking protein 1,O35254,2-451,peptide-Asp320+Ser-peptide,320,P,,Ser,Leu,Leu,Asp,Ser,Asn,Asn,Thr,"Lane et al., 2002",,SLLDSNNT
+golgi reassembly stacking protein 1,O35254,2-451,peptide-Asp375+Ser-peptide,375,P,,Ser,Phe,Pro,Asp,Ser,Pro,Gly,Ser,"Lane et al., 2002",,SFPDSPGS
+golgi reassembly stacking protein 1,O35254,2-451,peptide-Asp393+Gly-peptide,393,P,,Thr,Leu,Pro,Asp,Gly,Leu,Thr,Ser,"Lane et al., 2002",,TLPDGLTS
+golgin subfamily A member 3,Q08378,1-1498,peptide-Asp139+Ser-peptide,139,N,,Cys,Ser,Thr,Asp,Ser,Pro,Leu,Pro,"Mancini et al., 2000",3842,CSTDSPLP
+golgin subfamily B member 1,Q14789,1943-1959,VTD+AQIKNELLESEMK,#VALUE!,N,MS,-,Val,Thr,Asp,Ala,Gln,Ile,Lys,"Schilling & Overall, 2008",20738,XVTDAQIK
+GRB2-related adapter protein 2,O75791,1-330,peptide-Asp241+Gly-peptide,241,P,,Asp,Ile,Asn,Asp,Gly,His,Cys,Gly,"Yankee et al., 2001",19980,DINDGHCG
+H/ACA ribonucleoprotein complex subunit 2,Q9NX24,1-153,peptide-Asp9+Gly-peptide,9,P,MS,Ala,Asp,Pro,Asp,Gly,Pro,Glu,Ala,"Impens et al., 2010",,ADPDGPEA
+HAX1 HCLS1 associated protein X-1 isoform a,O00165,2-279,peptide-Asp127+Ser-peptide,127,P,,Thr,Leu,Arg,Asp,Ser,Met,Leu,Lys,"Lee et al., 2008",21062,TLRDSMLK
+HCLS1-binding protein 3,Q3TC93,1-395,Peptide-Asp274+Leu-Peptide,274,N,MS,Asp,Asp,Pro,Asp,Leu,Gly,Gly,Ala,"Demon et al., 2009",,DDPDLGGA
+heat shock 70 kDa protein 1,P08107,159-171,D+AGVIAGLNVLR,#VALUE!,N,MS,-,-,-,Asp,Ala,Gly,Val,Ile,"Schilling & Overall, 2008",,XXXDAGVI
+heat shock 70 kDa protein 1L,P34931,161-173,D+AGVIAGLNVLR,#VALUE!,N,MS,-,-,-,Asp,Ala,Gly,Val,Ile,"Schilling & Overall, 2008",,XXXDAGVI
+Heat shock protein HSP 90-beta,P08238,2-724,peptide-Asp259+Asp-peptide,259,P,CS,Asp,Glu,Glu,Asp,Asp,Ser,Gly,Lys,"Ju et al., 2007",,DEEDDSGK
+Hematopoietic lineage cell-specific protein,P14317,1-486,peptide-Asp115+Ala-peptide,115,P,MS,Ser,Gln,Thr,Asp,Ala,Ala,Lys,Gly,"Impens et al., 2010",,SQTDAAKG
+Hematopoietic lineage cell-specific protein,P14317,1-486,peptide-Asp189+Tyr-peptide,189,P,MS,Ser,Gln,Arg,Asp,Tyr,Ala,Lys,Gly,"Impens et al., 2010",,SQRDYAKG
+Hematopoietic lineage cell-specific protein,P49710,1-486,Peptide-Asp189+Tyr-Peptide,189,N,MS,Ser,Gln,Arg,Asp,Tyr,Ala,Lys,Gly,"Demon et al., 2009",,SQRDYAKG
+hepatocyte growth factor receptor,P16056,25-1379,peptide-Asp1000+Tyr-peptide,1000,P,,Glu,Ser,Val,Asp,Tyr,Arg,Ala,Thr,"Tulasne et al., 2004",19515,ESVDYRAT
+Hepatoma-derived growth factor,P51859,1-237,Peptide-Asp205+Ser-Peptide,205,N,MS,Ser,Glu,Pro,Asp,Ser,Gly,Gln,Gly,"Demon et al., 2009",,SEPDSGQG
+heterogeneous nuclear ribonucleoprotein A1,P09651,2-372,peptide-Asp288+Ser-peptide,288,P,,Gly,Ser,Tyr,Asp,Ser,Tyr,Asn,Asn,"Thiede et al., 2001",,GSYDSYNN
+heterogeneous nuclear ribonucleoprotein A1,P09651,2-372,peptide-Asp313+Phe-peptide,313,P,,Ser,Tyr,Asn,Asp,Phe,Gly,Asn,Tyr,"Thiede et al., 2001",,SYNDFGNY
+heterogeneous nuclear ribonucleoprotein Q,O60506,1-623,peptide-Asp468+Tyr-peptide,468,P,,Asp,Tyr,Tyr,Asp,Tyr,Tyr,Gly,Tyr,"Thiede et al., 2001",,DYYDYYGY
+heterogeneous nuclear ribonucleoprotein Q,O60506,1-623,peptide-Asp465+Tyr-peptide,465,P,,Gly,Tyr,Glu,Asp,Tyr,Tyr,Asp,Tyr,"Thiede et al., 2001",,GYEDYYDY
+heterogeneous nuclear ribonucleoprotein Q,O60506,1-623,peptide-Asp459+Tyr-peptide,459,P,,Tyr,Pro,Pro,Asp,Tyr,Tyr,Gly,Tyr,"Thiede et al., 2001",,YPPDYYGY
+heterogeneous nuclear ribonucleoprotein R,O43390,1-633,peptide-Asp66+Ala-peptide,66,P,,Arg,Ala,Ile,Asp,Ala,Leu,Arg,Glu,"Thiede et al., 2001",,RAIDALRE
+heterogeneous nuclear ribonucleoprotein R,O43390,1-633,peptide-Asp472+Asp-peptide,472,P,,Asp,Tyr,Tyr,Asp,Asp,Tyr,Tyr,Gly,"Thiede et al., 2001",,DYYDDYYG
+heterogeneous nuclear ribonucleoprotein R,O43390,1-633,peptide-Asp87+Leu-peptide,87,P,,Lys,Glu,Ser,Asp,Leu,Ser,His,Val,"Thiede et al., 2001",,KESDLSHV
+heterogeneous nuclear ribonucleoprotein R,O43390,1-633,peptide-Asp481+Tyr-peptide,481,P,,Asp,Tyr,His,Asp,Tyr,Arg,Gly,Gly,"Thiede et al., 2001",,DYHDYRGG
+heterogeneous nuclear ribonucleoprotein U,Q00839,2-825,peptide-Asp100+Gly-peptide,100,P,,Ser,Ala,Leu,Asp,Gly,Asp,Gln,Met,"Kipp et al., 2000",3846,SALDGDQM
+Heterogeneous nuclear ribonucleoprotein U,Q8VEK3,2-800,peptide-Asp208+Gly-peptide,208,P,MS,Ala,Gly,Gly,Asp,Gly,Lys,Thr,Glu,"Demon et al., 2009",,AGGDGKTE
+heterogeneous nuclear ribonucleoproteins A2/B1,P22626,1-353,peptide-Asp49+Cys-peptide,49,P,,Lys,Leu,Thr,Asp,Cys,Val,Val,Met,"Thiede et al., 2001",,KLTDCVVM
+heterogeneous nuclear ribonucleoproteins A2/B1,P22626,1-353,peptide-Asp55+Pro-peptide,55,P,,Val,Met,Arg,Asp,Pro,Ala,Ser,Lys,"Thiede et al., 2001",,VMRDPASK
+heterogeneous nuclear ribonucleoproteins A2/B1,P22626,1-353,peptide-Asp76+Ala-peptide,76,P,,Ala,Glu,Val,Asp,Ala,Ala,Met,Ala,"Thiede et al., 2001",,AEVDAAMA
+heterogeneous nuclear ribonucleoproteins A2/B1,P22626,62-89,peptide-Asp64+Ala-peptide,64,N,MS,Ala,Glu,Val,Asp,Ala,Ala,Met,Ala,"Schilling & Overall, 2008",,AEVDAAMA
+heterogeneous nuclear ribonucleoproteins C1/C2,P07910,2-306,peptide-Asp298+Ser-peptide,298,P,,Asp,Asp,Arg,Asp,Ser,Ala,Asn,Gly,"Thiede et al., 2001",,DDRDSANG
+heterogeneous nuclear ribonucleoproteins C1/C2,P07910,2-306,peptide-Asp296+Arg-peptide,296,P,,Gly,Glu,Asp,Asp,Arg,Asp,Ser,Ala,"Thiede et al., 2001",,GEDDRDSA
+heterogeneous nuclear ribonucleoproteins C1/C2,P07910,2-306,peptide-Asp295+Asp-peptide,295,P,,Glu,Gly,Glu,Asp,Asp,Arg,Asp,Ser,"Thiede et al., 2001",,EGEDDRDS
+heterogeneous nuclear ribonucleoproteins C1/C2,P07910,2-306,peptide-Asp10+Pro-peptide,10,P,,Asn,Lys,Thr,Asp,Pro,Arg,Ser,Met,"Thiede et al., 2001",,NKTDPRSM
+Heterogenous nuclear ribonucleoprotein U,O88568,1-798,Peptide-Asp206+Gly-Peptide,206,N,MS,Ala,Gly,Gly,Asp,Gly,Lys,Thr,Glu,"Demon et al., 2009",,AGGDGKTE
+Histone deacetylase 4,P56524,1-1084,Peptide-Asp289+Ser-Peptide,289,P,MU,Asp,Val,Thr,Asp,Ser,Ala,Cys,Ser,"Paroni et al., 2004",,DVTDSACS
+histone H4,P62805,24-36,D+NIQGITKPAIR,#VALUE!,N,MS,-,-,-,Asp,Asn,Ile,Gln,Gly,"Schilling & Overall, 2008",,XXXDNIQG
+huntingtin,P42858,Jan-42,peptide-Asp552+Gly-peptide,552,P,,Asp,Leu,Asn,Asp,Gly,Thr,Gln,Ala,"Wellington et al., 2000",3800,DLNDGTQA
+huntingtin,P42858,Jan-42,peptide-Asp513+Leu-peptide,513,P,,Asp,Ser,Val,Asp,Leu,Ala,Ser,Cys,"Wellington et al., 2000",3864,DSVDLASC
+huntingtin,P42858,Jan-42,peptide-Asp530+Ile-peptide,530,P,,Asp,Glu,Glu,Asp,Ile,Leu,Ser,His,"Wellington et al., 2000",16233,DEEDILSH
+huntingtin,P42858,Jan-42,peptide-Asp586+Gly-peptide,586,P,,Ile,Val,Leu,Asp,Gly,Thr,Asp,Asn,"Wellington et al., 2000",,IVLDGTDN
+Hypoxia up-regulated protein 1,Q9Y4L1,33-999,peptide-Asp338+Phe-peptide,338,P,MS,Asp,Asp,Val,Asp,Phe,Lys,Ala,Lys,"Impens et al., 2010",,DDVDFKAK
+induced myeloid leukemia cell differentiation protein Mcl-1,Q07820,1-350,peptide-Asp127+Gly-peptide,127,P,,Glu,Glu,Leu,Asp,Gly,Tyr,Glu,Pro,"Weng et al., 2005",18961,EELDGYEP
+induced myeloid leukemia cell differentiation protein Mcl-1,Q07820,1-350,peptide-Asp157+Gly-peptide,157,P,,Thr,Ser,Thr,Asp,Gly,Ser,Leu,Pro,"Weng et al., 2005",19228,TSTDGSLP
+induced myeloid leukemia cell differentiation protein Mcl-1,Q07820,1-350,peptide-Asp117+Ala-peptide,117,P,MU,Pro,Ala,Ala,Asp,Ala,Ile,Met,Ser,"Han et al., 2005",,PAADAIMS
+"inositol 1,4,5-trisphosphate receptor type 1",P11881,Jan-49,peptide-Asp1891+Arg-peptide,1891,P,,Asp,Glu,Val,Asp,Arg,Asp,Ala,Pro,"Lagace et al., 2002",19984,DEVDRDAP
+Integrin beta-4,P16144,28-1822,peptide-Asp1109+Arg-peptide,1109,P,MU,Asp,Glu,Leu,Asp,Arg,Ser,Phe,Thr,"Werner et al., 2007",,DELDRSFT
+interferon-induced helicase C domain-containing protein 1,Q8R5F7,1-1025,peptide-Asp208+Leu-peptide,208,P,,Asp,Asn,Thr,Asp,Leu,Ala,Asn,Ser,"Kovacsovics et al., 2002",19866,DNTDLANS
+interferon-induced helicase C domain-containing protein 1,Q8R5F7,1-1025,peptide-Asp251+Ser-peptide,251,P,,Ser,Cys,Thr,Asp,Ser,Ser,Val,Thr,"Kovacsovics et al., 2002",,SCTDSSVT
+"interferon-induced, double-stranded RNA-activated protein kinase",P19525,1-551,peptide-Asp251+Met-peptide,251,P,,Asp,Leu,Pro,Asp,Met,Lys,Glu,Thr,"Saelens et al., 2001",3765,DLPDMKET
+Interleukin enhancer-binding factor 3 isoform 4,Q12906-4,1-698,peptide-Asp439+Gly-peptide,439,N,MS,Val,Glu,Val,Asp,Gly,Asn,Ser,Phe,"Schilling & Overall, 2008",22674,VEVDGNSF
+Interleukin enhancer-binding factor 3 isoform 4,Q12906-4,1-698,FVMEVEVD+GQKFQGAGSNK,#VALUE!,N,MS,Val,Glu,Val,Asp,Gly,Gln,Lys,Phe,"Schilling & Overall, 2008",,VEVDGQKF
+"interleukin-16 precursor, Isoform 3",Q14005-3,1-631,peptide-Asp510+Ser-peptide,510,P,,Ser,Ser,Thr,Asp,Ser,Ala,Ala,Ser,"Zhang et al., 1998",18830,SSTDSAAS
+interleukin-18,Q14116,37-193,peptide-Asp71+Ser-peptide,71,P,,Asp,Met,Thr,Asp,Ser,Asp,Cys,Arg,"Akita et al., 1997",3815,DMTDSDCR
+interleukin-18,Q14116,37-193,peptide-Asp76+Asn-peptide,76,P,,Asp,Cys,Arg,Asp,Asn,Ala,Pro,Arg,"Akita et al., 1997",3816,DCRDNAPR
+isocitrate lyase,P0A9G6,1-434,peptide-Asp236+Ala-peptide,236,N,MS,Thr,Asp,Ala,Asp,Ala,Ala,Asp,Leu,"Timmer et al., 2009",,TDADAADL
+Kanadaptin,Q9BWU0,1-796,peptide-Asp537+Ala-peptide,537,P,MS,Asp,Ser,Leu,Asp,Ala,Phe,Met,Ser,"Impens et al., 2010",,DSLDAFMS
+"karatin, type I cytoskeletal 15",P19012,1-456,peptide-Asp445+Gly-peptide,445,P,,Glu,Ser,Val,Asp,Gly,Gln,Val,Val,"Badock et al., 2001",20716,ESVDGQVV
+"karatin, type I cytoskeletal 18",P05783,2-430,peptide-Ala238+Pro-peptide,238,P,,Val,Glu,Val,Asp,Ala,Pro,Lys,Ser,"Ku et al., 1997",19422,VEVDAPKS
+"keratin, type I cytoskeletal 18",P05783,1-430,peptide-Asp397+Ser-peptide,397,P,,Asp,Ala,Leu,Asp,Ser,Ser,Asn,Ser,"MacFarlane et al., 2000",19423,DALDSSNS
+Kinesin-associated protein 3,P70188,1-793,Peptide-Asp249+Glu-Peptide,249,N,MS,Lys,Ala,Val,Asp,Glu,Asp,Leu,Glu,"Demon et al., 2009",,KAVDEDLE
+La-related protein 1,Q6ZQ58,2-1072,Peptide-Asp472+Phe-Peptide,472,N,MS,Ser,Gln,Thr,Asp,Phe,Ser,Gln,Leu,"Demon et al., 2009",,SQTDFSQL
+Lamin-B1,P20700,2-583,peptide-Asp231+Ser-peptide,231,P,CS,Val,Glu,Val,Asp,Ser,Gly,Arg,Gln,"Ju et al., 2007",,VEVDSGRQ
+"lamina-associated polypeptide 2, isoform alpha",P42166,1-694,peptide-Asp413+Gln-peptide,413,P,,Lys,Arg,Ile,Asp,Gln,Ser,Lys,Phe,"Buendia et al., 1999",20922,KRIDQSKF
+"lamina-associated polypeptide 2, isoform alpha",P42166,2-694,peptide-Asp441+Ser-peptide,441,N,CS,Glu,Glu,Arg,Asp,Ser,Gly,Ser,Phe,"Gotzmann et al., 2000",,EERDSGSF
+Large proline-rich protein BAG6,P46379,1-1132,peptide-Asp1001+Gly-peptide,1001,P,,Asp,Glu,Gln,Asp,Gly,Ala,Ser,Ala,"Wu et al., 2004",19859,DEQDGASA
+Lipopolysaccharide-responsive and beige-like anchor protein,P50851,Feb-63,peptide-Asp1756+Ser-peptide,1756,P,MS,Ser,Ser,Val,Asp,Ser,Ala,Gln,Ala,"Impens et al., 2010",,SSVDSAQA
+Liprin-alpha-1,Q13136,1-1202,peptide-Asp836+Asn-peptide,836,P,MS,Ser,Glu,Thr,Asp,Asn,Ser,Ser,Gln,"Impens et al., 2010",,SETDNSSQ
+Lupus La protein,P05455,1-408,peptide-Asp371+Glu-peptide,371,P,CS,Asp,Glu,His,Asp,Glu,His,Asp,Glu,"Ju et al., 2007",,DEHDEHDE
+Lupus La protein,P05455,1-408,peptide-Asp374+Glu-peptide,374,P,CS,Asp,Glu,His,Asp,Glu,Asn,Gly,Ala,"Ju et al., 2007",,DEHDENGA
+Lysosomal protective protein,P16675,24-474,Peptide-Asp31+Cys-Peptide,31,N,MS,Asp,Glu,Ile,Asp,Cys,Leu,Pro,Gly,"Demon et al., 2009",,DEIDCLPG
+Lysyl-tRNA synthetase,Q15046,2-597,peptide-Asp12+Gly-peptide,12,P,MS,Val,Lys,Val,Asp,Gly,Ser,Glu,Pro,"Impens et al., 2010",,VKVDGSEP
+matrin-3,P43243,636-739,peptide-Asp680+Leu-peptide,680,N,CS,Asp,Glu,Thr,Asp,Leu,Ala,Asn,Leu,"Valencia et al., 2007",20140,DETDLANL
+Melanoma-associated antigen D1,Q9Y5V3,1-778,peptide-Asp222+Gly-peptide,222,P,MS,Ser,Glu,Pro,Asp,Gly,Ala,Thr,Ala,"Impens et al., 2010",,SEPDGATA
+Melanoma-associated antigen D1,Q9Y5V3,1-778,peptide-Asp678+Ala-peptide,678,P,MS,Asp,Ala,Leu,Asp,Ala,Ala,Ala,Ala,"Impens et al., 2010",,DALDAAAA
+"membrane-associated guanylate kinase, WW and PDZ domain-containing protein 1",Q96QZ7,1-1491,peptide-Asp563+Asp-peptide,563,P,,Phe,Asp,Pro,Asp,Asp,Pro,Asn,Thr,"Gregorc et al., 2007",19860,FDPDDPNT
+"membrane-associated guanylate kinase, WW and PDZ domain-containing protein 1",Q96QZ7,1-1491,peptide-Asp782+Ser-peptide,782,P,,Asp,Gln,Thr,Asp,Ser,Ser,Gly,Gln,"Gregorc et al., 2007",19861,DQTDSSGQ
+methylenetetrahydrofolate dehydrogenase,Q7Z650,17-40,peptide-Asp25+Gly-peptide,25,N,MS,Asp,Asn,Val,Asp,Gly,Leu,Leu,Val,"Schilling & Overall, 2008",,DNVDGLLV
+microphthalmia-associated transcription factor,O75030,1-526,peptide-Asp345+Met-peptide,345,P,,Asn,Asp,Pro,Asp,Met,Arg,Trp,Asn,"Larribere et al., 2005",,NDPDMRWN
+"microtubule-actin cross-linking factor 1, isoform 4",Q9UPN3-5,2221-2242,peptide-Asp2228+Gly-peptide,2228,N,MS,Asp,Thr,Thr,Asp,Gly,Tyr,Met,Gly,"Schilling & Overall, 2008",,DTTDGYMG
+microtubule-associated protein 1B,P46821,1191-1220,peptide-Asp1196+Gly-peptide,1196,N,MS,Asp,Ala,Thr,Asp,Gly,Lys,Asp,Tyr,"Schilling & Overall, 2008",,DATDGKDY
+microtubule-associated protein tau,P10636,2-758,peptide-Asp421+Pro-peptide,421,P,,Gly,Ser,Ser,Asp,Pro,Leu,Ile,Gln,"Gamblin et al., 2003",,GSSDPLIQ
+microtubule-associated protein tau,P10636,2-758,peptide-Asp738+Ser-peptide,738,P,,Asp,Met,Val,Asp,Ser,Pro,Gln,Leu,"Fasulo et al., 2000",3775,DMVDSPQL
+Mitochondrial antiviral-signaling protein,Q7Z434,1-540,Peptide-Asp429+Ser-Pro-Phe,429,P,MU,Ser,Gln,Val,Asp,Ser,Pro,Phe,-,"Yu et al., 2010",,SQVDSPFX
+mitogen-activated protein kinase kinase kinase 1,P53349,1-1493,peptide-Asp874+Gly-peptide,874,P,,Asp,Thr,Val,Asp,Gly,His,Gln,Asp,"Widmann et al., 1998",20751,DTVDGHQD
+mitogen-activated protein kinase kinase kinase 1,Q13233,1-1512,peptide-Asp875+Thr-peptide,875,P,,Gly,Val,Glu,Asp,Thr,Leu,Asp,Gly,"Cardone et al., 1997",20001,GVEDTLDG
+mitogen-activated protein kinase kinase kinase 1,Q13233,1-1512,peptide-Asp878+Gly-peptide,878,P,,Asp,Thr,Leu,Asp,Gly,Gln,Gln,Asp,"Cardone et al., 1997",,DTLDGQQD
+mitogen-activated protein kinase kinase kinase kinase 1,Q92918,1-833,peptide-Asp385+Ile-peptide,385,P,,Asp,Asp,Val,Asp,Ile,Pro,Thr,Pro,"Chen et al., 1999",3809,DDVDIPTP
+Monocarboxylate transporter 3,O95907,213-230,AGDA+PGEAEADGAGLQLR,#VALUE!,N,MS,Ala,Gly,Asp,Ala,Pro,Gly,Glu,Ala,"Schilling & Overall, 2008",,AGDAPGEA
+Mps one binder kinase activator-like 3,Q9Y3A3,1-225,peptide-Asp34+Ser-peptide,34,P,MS,Asp,Glu,Met,Asp,Ser,Thr,Leu,Ala,"Impens et al., 2010",,DEMDSTLA
+Mps one binder kinase activator-like 3,Q6PEB6,1-225,Peptide-Asp34+Ser-Peptide,34,N,MS,Asp,Glu,Met,Asp,Ser,Thr,Leu,Ala,"Demon et al., 2009",,DEMDSTLA
+Multifunctional protein ADE2,P22234,2-425,peptide-Asp26+Ser-peptide,26,P,MS,Glu,Leu,Leu,Asp,Ser,Pro,Gly,Lys,"Impens et al., 2010",,ELLDSPGK
+multisynthetase complex auxiliary component p43,P31230,1-310,peptide-Asp144+Ser-peptide,144,P,,Ala,Ser,Thr,Asp,Ser,Lys,Pro,Ile,"Knies et al., 1998",,ASTDSKPI
+myocyte-specific enhancer factor 2A,Q02078,1-507,peptide-Asp176+Ser-peptide,176,P,,Thr,Leu,Thr,Asp,Ser,Ser,Met,Leu,"Okamoto et al., 2002",3745,TLTDSSML
+myocyte-specific enhancer factor 2A,Q02078,1-507,peptide-Asp213+Leu-peptide,213,P,,Ser,Thr,Thr,Asp,Leu,Thr,Val,Pro,"Okamoto et al., 2002",,STTDLTVP
+myocyte-specific enhancer factor 2A,Q02078,1-507,peptide-Asp466+Gly-peptide,466,P,,Ser,Ser,Tyr,Asp,Gly,Ser,Asp,Arg,"Okamoto et al., 2002",,SSYDGSDR
+myocyte-specific enhancer factor 2C,Q06413,1-473,peptide-Asp432+Gly-peptide,432,P,,Ser,Ser,Tyr,Asp,Gly,Ser,Asp,Arg,"Okamoto et al., 2002",,SSYDGSDR
+myosin light chain 3,P08590,2-195,peptide-Glu135+Gly-peptide,135,P,,Asp,Phe,Val,Glu,Gly,Leu,Arg,Val,"Moretti et al., 2002",3748,DFVEGLRV
+Myosin-10,P35580,Feb-76,peptide-Asp1160+Thr-peptide,1160,P,MS,Asp,Thr,Leu,Asp,Thr,Thr,Ala,Ala,"Impens et al., 2010",,DTLDTTAA
+myosin-9,P35579,1937-1960,peptide-Asp1948+Gly-peptide,1948,N,MS,Glu,Glu,Val,Asp,Gly,Lys,Ala,Asp,"Schilling & Overall, 2008",,EEVDGKAD
+Myosin-9,P35579,Feb-60,peptide-Asp1153+Ser-peptide,1153,P,MS,Asp,Thr,Leu,Asp,Ser,Thr,Ala,Ala,"Impens et al., 2010",,DTLDSTAA
+Myosin-9,Q8VDD5,Feb-60,Peptide-Asp1153+Ser-Peptide,1153,N,MS,Asp,Thr,Leu,Asp,Ser,Thr,Ala,Ala,"Demon et al., 2009",,DTLDSTAA
+NCL protein,Q9BQ02,399-420,peptide-Asp408+Gly-peptide,408,N,MS,Gly,Glu,Ile,Asp,Gly,Asn,Lys,Val,"Schilling & Overall, 2008",,GEIDGNKV
+netrin receptor DCC precursor,P43146,26-1447,peptide-Asp1290+Arg-peptide,1290,P,,Leu,Ser,Val,Asp,Arg,Gly,Phe,Gly,"Mehlen et al., 1998",,LSVDRGFG
+netrin receptor UNC5B,O08722,27-945,peptide-Asp412+Ser-peptide,412,N,,Asp,Ile,Thr,Asp,Ser,Ser,Ala,Ala,,16234,DITDSSAA
+netrin receptor UNC5B precursor,Q8IZJ1,27-945,peptide-Asp412+Ser-peptide,412,N,,Asp,Ile,Thr,Asp,Ser,Ser,Ala,Ala,,,DITDSSAA
+neurogenic locus notch homolog protein 1,P46531,19-2555,peptide-Asp1839+His-peptide,1839,P,,Asp,Gln,Thr,Asp,His,Arg,Gln,Trp,"Cohen et al., 2005",20743,DQTDHRQW
+NF-kappaB inhibitor alpha,Q91974,1-318,peptide-Asp35+Ser-peptide,35,P,,Asp,Arg,His,Asp,Ser,Gly,Leu,Asp,"Barkett et al., 1997",,DRHDSGLD
+NFE2L2,Q16236,1-589,peptide-Asp224+Asn-peptide,224,P,,Thr,Glu,Val,Asp,Asn,Tyr,His,Phe,"Ohtsubo et al., 2000",19537,TEVDNYHF
+NFE2L2,Q16236,1-589,peptide-Asp382+Ser-peptide,382,P,,Glu,Glu,Leu,Asp,Ser,Ala,Pro,Gly,"Ohtsubo et al., 2000",19538,EELDSAPG
+non-POU domain-containing octamer-binding protein,Q15233,1-471,peptide-Asp422+Gly-peptide,422,P,,Met,Met,Pro,Asp,Gly,Thr,Leu,Gly,"Thiede et al., 2001",,MMPDGTLG
+non-syndromic hearing impairment protein 5,O60443,1-496,peptide-Asp270+Ala-peptide,270,P,NT,Asp,Met,Pro,Asp,Ala,Ala,His,Gly,"Wang et al., 2017",,DMPDAAHG
+Nuclear autoantigenic sperm protein,P49321,2-788,peptide-Asp523+Leu-peptide,523,P,MS,Asp,Met,Leu,Asp,Leu,Ala,Lys,Ile,"Impens et al., 2010",,DMLDLAKI
+nuclear envelope pore membrane protein POM 121,P52591,1-1199,peptide-Asp531+Asp-peptide,531,N,,Asp,Lys,Thr,Asp,Asp,Ala,Ser,Thr,,16236,DKTDDAST
+"nuclear factor of activated T-cells, cytoplasmic 2",Q13469,1-925,peptide-Asp29+Phe-peptide,29,P,,Asp,Glu,Leu,Asp,Phe,Ser,Ile,Leu,"Wu et al., 2006",19693,DELDFSIL
+"nuclear factor of activated T-cells, cytoplasmic 2",Q13469,1-925,peptide-Asp66+Tyr-peptide,66,P,,Asp,Val,Leu,Asp,Tyr,Gly,Leu,Lys,"Wu et al., 2006",19694,DVLDYGLK
+"Nuclear factor of activated T-cells, cytoplasmic 3",Q12968,2-1075,peptide-Asp193+Ser-peptide,193,P,MS,Asp,Asp,Val,Asp,Ser,Glu,Leu,Asn,"Impens et al., 2010",,DDVDSELN
+nuclear pore complex protein Nup153,P49790,1-1475,peptide-Asp349+Phe-peptide,349,P,,Asp,Ile,Thr,Asp,Phe,Gln,Ala,Lys,"Buendia et al., 1999",,DITDFQAK
+Nuclear ubiquitous casein and cyclin-dependent kinases substrate,Q80XU3,1-234,Peptide-Asp29+Ser-Peptide,29,N,MS,Tyr,Gly,Arg,Asp,Ser,Gly,Pro,Pro,"Demon et al., 2009",,YGRDSGPP
+nucleolin,P19338,2-710,peptide-Asp454+Gly-peptide,454,P,,Thr,Glu,Ile,Asp,Gly,Arg,Ser,Ile,"Thiede et al., 2001",,TEIDGRSI
+nucleolin,P19338,2-710,peptide-Asp628+Gly-peptide,628,P,,Ala,Met,Glu,Asp,Gly,Glu,Ile,Asp,"Thiede et al., 2001",,AMEDGEID
+nucleolin,P19338,2-710,peptide-Asp632+Gly-peptide,632,P,,Gly,Glu,Ile,Asp,Gly,Asn,Lys,Val,"Thiede et al., 2001",,GEIDGNKV
+nucleoprotein,P04134,1-382,peptide-Asp359+Ala-peptide,359,N,,Val,Val,Pro,Asp,Ala,Leu,Ile,Glu,"Eleouet et al., 2000",20928,VVPDALIE
+occludin,Q16625,1-522,peptide-Asp320+Ser-peptide,320,P,,Glu,Arg,Val,Asp,Ser,Pro,Met,Ala,"Bojarski et al., 2004",19762,ERVDSPMA
+osmotically-inducible protein Y,P0AFH8,29-201,peptide-Asp163+Gly-peptide,163,N,MS,Glu,Thr,Thr,Asp,Gly,Val,Val,Gln,"Timmer et al., 2009",,ETTDGVVQ
+osteopontin,P10451,17-314,peptide-Asp157+Gly-peptide,157,P,MU,Asp,Thr,Tyr,Asp,Gly,Arg,Gly,Asp,"Kim et al., 2009",,DTYDGRGD
+parkin,O60260,1-465,peptide-Asp126+Ser-peptide,126,P,,Leu,His,Thr,Asp,Ser,Arg,Lys,Asp,"Cryns et al., 1997",,LHTDSRKD
+Partner of Y14 and mago,Q9BRP8,1-204,peptide-Asp143+Ser-peptide,143,P,MS,Asp,Gln,Pro,Asp,Ser,Ala,Ala,Thr,"Impens et al., 2010",,DQPDSAAT
+paxillin,P49023,1-591,peptide-Asp102+Ser-peptide,102,P,,Asn,Pro,Gln,Asp,Ser,Val,Gly,Ser,"Chay et al., 2002",3829,NPQDSVGS
+paxillin,P49023,1-591,peptide-Asp335+peptide,335,P,,Ser,Gln,Leu,Asp,Ser,Met,Leu,Gly,"Chay et al., 2002",,SQLDSMLG
+paxillin,P49023,1-591,peptide-Asp5+Ala-peptide,5,P,,Asp,Asp,Leu,Asp,Ala,Leu,Leu,Ala,"Chay et al., 2002",21990,DDLDALLA
+paxillin,P49023,1-591,peptide-Asp146+Leu-peptide,146,P,,Ser,Glu,Leu,Asp,Arg,Leu,Leu,Leu,"Chay et al., 2002",3834,SELDRLLL
+paxillin,P49023,1-591,peptide-Asp165+Glu-peptide,165,P,,Phe,Pro,Ala,Asp,Glu,Ala,Asn,Ser,"Chay et al., 2002",3836,FPADEANS
+paxillin,P49023,1-591,peptide-Asp222+Glu-peptide,222,P,,Ser,Leu,Leu,Asp,Glu,Leu,Glu,Ser,"Chay et al., 2002",3837,SLLDELES
+PC4 and SFRS1-interacting protein,O75475,1-530,peptide-Asp486+Gly-peptide,486,P,,Asp,Ala,Gln,Asp,Gly,Asn,Gln,Pro,"Wu et al., 2002",3788,DAQDGNQP
+PC4 and SFRS1-interacting protein,O75475,1-530,peptide-Asp85+Asn-peptide,85,P,,Trp,Glu,Ile,Asp,Asn,Asn,Pro,Lys,"Wu et al., 2002",3787,WEIDNNPK
+PC4 and SFRS1-interacting protein,O75475,1-530,peptide-Asp30+Gly-peptide,30,P,,Glu,Val,Pro,Asp,Gly,Ala,Val,Lys,"Wu et al., 2002",3786,EVPDGAVK
+PDE6A,P16499,2-860,peptide-Asp167+Ile-peptide,167,P,,Asp,Phe,Val,Asp,Ile,Leu,Thr,Glu,"Frame et al., 2001",18974,DFVDILTE
+peptidyl-prolyl cis-trans isomerase-like 4,Q8WUA2,91-138,peptide-Asp120+Gly-peptide,120,N,MS,Asp,Tyr,Leu,Asp,Gly,Val,His,Thr,"Schilling & Overall, 2008",,DYLDGVHT
+phosphate acetyltransferase,P0A9M8,2-714,peptide-Asp622+Gly-peptide,622,N,MS,Leu,Met,Ile,Asp,Gly,Pro,Leu,Gln,"Timmer et al., 2009",,LMIDGPLQ
+phosphatidylinositol-4-phosphate 5-kinase type I alpha,Q99755,1-562,peptide-Asp292+Gly-peptide,292,P,,Asp,Ile,Pro,Asp,Gly,Leu,Phe,Leu,"Mejillano et al., 2001",3806,DIPDGLFL
+phosphoenolpyruvate-protein phosphotransferase,P08839,1-575,peptide-Asp265+Gly-peptide,265,N,MS,Ile,Thr,Leu,Asp,Gly,His,Gln,Val,"Timmer et al., 2009",,ITLDGHQV
+Phosphoribosyl pyrophosphate synthase-associated protein 2,Q8R574,1-369,Peptide-Asp276+Ser-Peptide,276,N,MS,Asp,Asp,Val,Asp,Ser,Phe,Leu,Ala,"Demon et al., 2009",,DDVDSFLA
+phosphoribosyl pyrophosphate synthetase-associated protein 1,Q14558,1-356,peptide-Asp237+Met-peptide,237,P,,Thr,Glu,Leu,Asp,Met,Asp,Asp,Gly,"Dix et al., 2008",22738,TELDMDDG
+PITSLRE serine/threonine-protein kinase CDC2L1,P21127,1-795,peptide-Asp409+Ser-peptide,409,P,,Tyr,Val,Pro,Asp,Ser,Pro,Ala,Leu,"Beyaert et al., 1997",18924,YVPDSPAL
+plasma membrane calcium-transporting ATPase 2,Q01814,1-1243,peptide-Asp1117+His-peptide,1117,P,,Glu,Glu,Ile,Asp,His,Ala,Glu,Arg,"Schwab et al., 2002",,EEIDHAER
+plasma membrane calcium-transporting ATPase 4,P23634,1-1241,peptide-Asp1080+His-peptide,1080,P,,Asp,Glu,Ile,Asp,His,Ala,Glu,Met,"P?szty et al., 2002",,DEIDHAEM
+poly [ADP-ribose] polymerase 1,P09874,2-1014,peptide-Asp214+Gly-peptide,214,P,,Asp,Glu,Val,Asp,Gly,Val,Asp,Glu,"Teraoka et al., 1996",17857,DEVDGVDE
+poly(ADP-ribose) glycohydrolase,Q86W56,1-976,peptide-Asp256+Val-peptide,256,P,,Asp,Glu,Ile,Asp,Val,Val,Pro,Glu,"Affar et al., 2001",19397,DEIDVVPE
+poly(ADP-ribose) glycohydrolase,Q86W56,1-976,peptide-Asp307+Asn-peptide,307,P,,Met,Asp,Val,Asp,Asn,Ser,Lys,Asn,"Affar et al., 2001",19398,MDVDNSKN
+polypyrimidine tract-binding protein 1,P26599,1-531,peptide-Asp139+Ser-peptide,139,P,,Leu,Lys,Thr,Asp,Ser,Ser,Pro,Asn,"Back et al., 2002",3811,LKTDSSPN
+polypyrimidine tract-binding protein 1,P26599,1-531,peptide-Asp172+Ala-peptide,172,P,,Ala,Ala,Val,Asp,Ala,Gly,Met,Ala,"Back et al., 2002",19897,AAVDAGMA
+polypyrimidine tract-binding protein 1,P26599,1-531,peptide-Asp7+Ile-peptide,7,P,,Ile,Val,Pro,Asp,Ile,Ala,Val,Gly,"Back et al., 2002",3810,IVPDIAVG
+Polypyrimidine tract-binding protein 1,P17225,1-527,Met-Asp2+Gly-Peptide,2,N,MS,-,-,Met,Asp,Gly,Ile,Val,Pro,"Demon et al., 2009",,XXMDGIVP
+Polypyrimidine tract-binding protein 1,P17225,1-527,Peptide-Asp171+Ala-Peptide,171,N,MS,Ala,Ala,Val,Asp,Ala,Gly,Met,Ala,"Demon et al., 2009",3812,AAVDAGMA
+POTE ankyrin domain family member E,Q6S8J3,1-1075,peptide-Asp711+Asn-peptide,711,P,MS,Leu,Val,Ile,Asp,Asn,Gly,Ser,Gly,"Demon et al., 2009",,LVIDNGSG
+POTE ankyrin domain family member E,Q6S8J3,1-1075,peptide-Asp944+Gly-peptide,944,P,MS,Glu,Leu,Pro,Asp,Gly,Gln,Val,Ile,"Demon et al., 2009",,ELPDGQVI
+POTE ankyrin domain family member F,A5A3E0,1-1075,peptide-Asp711+Asn-peptide,711,P,MS,Leu,Val,Ile,Asp,Asn,Gly,Ser,Gly,"Demon et al., 2009",,LVIDNGSG
+POTE ankyrin domain family member F,A5A3E0,1-1075,peptide-Asp944+Gly-peptide,944,P,MS,Glu,Leu,Pro,Asp,Gly,Gln,Val,Ile,"Demon et al., 2009",,ELPDGQVI
+POTE ankyrin domain family member I,P0CG38,1-1075,peptide-Asp711+Asn-peptide,711,P,MS,Leu,Val,Ile,Asp,Asn,Gly,Ser,Gly,"Demon et al., 2009",,LVIDNGSG
+POTE ankyrin domain family member J,P0CG39,1-1038,peptide-Asp674+Asn-peptide,674,P,MS,Leu,Val,Ile,Asp,Asn,Gly,Ser,Gly,"Demon et al., 2009",,LVIDNGSG
+Pre-mRNA cleavage complex 2 protein Pcf11,O94913,1-1555,peptide-Asp413+Gly-peptide,413,P,MS,Asp,Lys,Thr,Asp,Gly,Lys,Asp,Asp,"Impens et al., 2010",,DKTDGKDD
+presenilin 1,P49768,1-467,peptide-Asp345+Ser-peptide,345,P,,Ala,Gln,Arg,Asp,Ser,His,Leu,Gly,"van de Craen et al., 1999",3804,AQRDSHLG
+presenilin 2,P49810,1-448,peptide-Asp326+Ser-peptide,326,P,,Asp,Ser,Tyr,Asp,Ser,Phe,Gly,Glu,"van de Craen et al., 1999",3813,DSYDSFGE
+PRKC apoptosis WT1 regulator protein,Q96IZ0,1-340,peptide-Asp131+Gly-peptide,131,P,MS,Glu,Glu,Pro,Asp,Gly,Val,Pro,Glu,"Impens et al., 2010",,EEPDGVPE
+PRKCQ,Q04759,1-706,peptide-Asp354+Lys-peptide,354,P,,Asp,Glu,Val,Asp,Lys,Met,Cys,His,"Datta et al., 1997",3754,DEVDKMCH
+PRKR-interacting protein 1,Q9H875,1-184,peptide-Asp97+Ala-peptide,97,P,MS,Asp,Tyr,Met,Asp,Ala,Met,Ala,Glu,"Impens et al., 2010",,DYMDAMAE
+Probable methyltransferase BCDIN3D,Q7Z5W3,1-292,peptide-Asp8+Gly-peptide,8,P,MS,Thr,Glu,Leu,Asp,Gly,Gly,Ser,Val,"Impens et al., 2010",,TELDGGSV
+probable transcription factor PML,P29590,1-882,peptide-Asp523+Gly-peptide,523,P,,Pro,His,Leu,Asp,Gly,Pro,Pro,Ser,"Nervi et al., 1998",20017,PHLDGPPS
+procaspase 7,P55210,1-303,peptide-Asp23+Ala-peptide,23,P,,Asp,Ser,Val,Asp,Ala,Lys,Pro,Asp,"Yang etal, 1998",18052,DSVDAKPD
+proteasome activator complex subunit 3,P61289,1-254,peptide-Asp80+Gly-peptide,80,P,,Asp,Gly,Leu,Asp,Gly,Pro,Thr,Tyr,"Araya et al., 2002",3741,DGLDGPTY
+Protein ALO17,Q9HCF4,1-1550,peptide-Asp273+Ala-peptide,273,P,MS,Met,Ala,Val,Asp,Ala,Val,Ala,Glu,"Impens et al., 2010",,MAVDAVAE
+Protein FAM136A,Q9CR98,2-138,Peptide-Asp14+Ala-Peptide,14,N,MS,Glu,Ala,Val,Asp,Ala,Met,Val,Lys,"Demon et al., 2009",,EAVDAMVK
+protein farnesyltransferase/geranylgeranyltransferase type-1 subunit alpha,P49354,1-379,peptide-Asp59+Ser-peptide,59,P,,Val,Ser,Leu,Asp,Ser,Pro,Ser,Tyr,"Kim et al., 2001",20032,VSLDSPSY
+protein kinase C delta type,Q05655,1-676,peptide-Asp329+Asn-peptide,329,P,,Asp,Met,Gln,Asp,Asn,Ser,Gly,Thr,"Ghayur et al., 1997",20567,DMQDNSGT
+protein kinase C delta type,P09215,1-673,peptide-Asp327+Asn-peptide,327,P,NT,Asp,Ile,Pro,Asp,Asn,Asn,Gly,Thr,"Kanthasamy et al., 2006",,DIPDNNGT
+Protein kinase C epsilon type,Q02156,1-737,Peptide-Asp451+Cys-Peptide,451,P,MU,Asp,Asp,Val,Asp,Cys,Thr,Met,Thr,"Basu et al., 2002",,DDVDCTMT
+Protein kinase C epsilon type,Q02156,1-737,Peptide-Asp383+Gly-Peptide,383,P,MU,Ser,Ser,Pro,Asp,Gly,Gln,Leu,Met,"Basu et al., 2002",,SSPDGQLM
+protein kinase C zeta type,Q05513,1-592,peptide-Asp210+Gly-peptide,210,P,,Glu,Glu,Thr,Asp,Gly,Ile,Ala,Tyr,"Smith et al., 2000",19388,EETDGIAY
+protein kinase C zeta type,Q05513,1-592,peptide-Asp239+Gly-peptide,239,P,,Asp,Gly,Met,Asp,Gly,Ile,Lys,Ile,"Smith et al., 2000",19392,DGMDGIKI
+protein kinase N2,Q16513,1-984,peptide-Asp700+Ser-peptide,700,P,,Asp,Glu,Val,Asp,Ser,Leu,Met,Cys,"Koh et al., 2000",3841,DEVDSLMC
+protein kinase N2,Q16513,1-984,peptide-Asp117+Cys-peptide,117,P,,Asp,Ile,Thr,Asp,Cys,Pro,Arg,Thr,"Koh et al., 2000",3840,DITDCPRT
+Protein KRI1 homolog,Q8N9T8,1-709,peptide-Asp312+Ser-peptide,312,P,MS,Glu,Glu,Pro,Asp,Ser,Ala,Ser,Val,"Impens et al., 2010",,EEPDSASV
+Protein Mdm4,O15151,1-490,peptide-Asp361+Cys-peptide,361,P,,Asp,Val,Pro,Asp,Cys,Arg,Arg,Thr,"Gentiletti et al., 2002",3845,DVPDCRRT
+protein phosphatase 1 regulatory subunit 11,O60927,1-126,peptide-Asp49+Asn-peptide,49,P,,Asp,Thr,Val,Asp,Asn,Glu,His,Met,"Huang & Lee, 2008",20707,DTVDNEHM
+protein recA,P0A7G6,2-353,peptide-Asp121+Thr-peptide,121,N,MS,Ser,Gln,Pro,Asp,Thr,Gly,Glu,Gln,"Timmer et al., 2009",,SQPDTGEQ
+protein translocase subunit secA,P10408,1-901,peptide-Asp212+Ser-peptide,212,N,MS,Asp,Glu,Val,Asp,Ser,Ile,Leu,Ile,"Timmer et al., 2009",,DEVDSILI
+prothymosin alpha,P06454,2-111,peptide-Asp97+Asp-peptide,97,P,,Asp,Asp,Glu,Asp,Asp,Asp,Val,Asp,"Enkemann et al., 2000",,DDEDDDVD
+prothymosin alpha,P06454,2-111,peptide-Asp98+Asp-peptide,98,P,,Asp,Glu,Asp,Asp,Asp,Val,Asp,Thr,"Enkemann et al., 2000",,DEDDDVDT
+prothymosin alpha,P06454,2-111,peptide-Asp100+Thr-peptide,100,P,,Asp,Asp,Val,Asp,Thr,Lys,Lys,Gln,"Enkemann et al., 2000",3791,DDVDTKKQ
+Prothymosin alpha,P06454,2-111,peptide-Asp7+Thr-peptide,7,P,MS,Ala,Ala,Val,Asp,Thr,Ser,Ser,Glu,"Impens et al., 2010",,AAVDTSSE
+proto-oncogene tyrosine-protein kinase Fyn,P06241,2-537,peptide-Asp19+Gly-peptide,19,P,,Glu,Glu,Arg,Asp,Gly,Ser,Leu,Asn,"Ricci et al., 1999",3760,EERDGSLN
+proto-oncogene tyrosine-protein kinase receptor ret precursor,P07949,29-1114,peptide-Asp707+Ala-peptide,707,P,,Val,Ser,Val,Asp,Ala,Phe,Lys,Ile,"Bordeaux et al., 2000",,VSVDAFKI
+proto-oncogene tyrosine-protein kinase receptor ret precursor,P07949,29-1114,peptide-Asp1017+Leu-peptide,1017,P,,Asp,Tyr,Leu,Asp,Leu,Ala,Ala,Ser,"Bordeaux et al., 2000",,DYLDLAAS
+PTEN,P60484,1-403,peptide-Asp301+Ser-peptide,301,P,,Gln,Glu,Ile,Asp,Ser,Ile,Cys,Ser,"Torres et al., 2003",18977,QEIDSICS
+PTEN,P60484,1-403,peptide-Asp371+Asn-peptide,371,P,,Asp,Val,Ser,Asp,Asn,Glu,Pro,Asp,"Torres et al., 2003",18978,DVSDNEPD
+PTEN,P60484,1-403,peptide-Asp375+His-peptide,375,P,,Asn,Glu,Pro,Asp,His,Tyr,Arg,Tyr,"Torres et al., 2003",18979,NEPDHYRY
+PTEN,P60484,1-403,peptide-Asp384+Ser-peptide,384,P,,Asp,Thr,Thr,Asp,Ser,Asp,Pro,Glu,"Torres et al., 2003",18980,DTTDSDPE
+Putative beta-actin-like protein 3,Q9BYX7,1-375,peptide-Asp244+Gly-peptide,244,P,MS,Glu,Leu,Pro,Asp,Gly,Gln,Val,Ile,"Demon et al., 2009",,ELPDGQVI
+Putative E3 ubiquitin-protein ligase UBR7,Q8N806,2-425,peptide-Asp336+Thr-peptide,336,P,MS,Asp,Glu,Tyr,Asp,Thr,Val,Leu,Ala,"Impens et al., 2010",,DEYDTVLA
+putative uncharacterized protein,Q6PG47,28-44,VTD+AQIKNELLESEMK,#VALUE!,N,MS,-,Val,Thr,Asp,Ala,Gln,Ile,Lys,"Schilling & Overall, 2008",,XVTDAQIK
+putative uncharacterized protein DKFZp686L22104,Q68E03,19-81,peptide-Asp68+Leu-peptide,68,N,MS,Asp,Glu,Thr,Asp,Leu,Ala,Asn,Leu,"Schilling & Overall, 2008",,DETDLANL
+Pyruvate kinase isozymes M1/M2,P52480,2-531,Peptide-Asp354+Gly-Peptide,354,N,MS,Ala,Val,Leu,Asp,Gly,Ala,Asp,Cys,"Demon et al., 2009",,AVLDGADC
+rab GTPase-binding effector protein 1,Q15276,1-862,peptide-Asp438+Phe-peptide,438,P,,Asp,Glu,Ser,Asp,Phe,Gly,Pro,Leu,"Cosulich et al., 1997",3793,DESDFGPL
+rab GTPase-binding effector protein 1,Q15276,1-862,peptide-Asp379+Ala-peptide,379,P,,His,Ser,Leu,Asp,Ala,Gly,Leu,Leu,"Swanton et al., 2000",3792,HSLDAGLL
+RAC-alpha serine/threonine-protein kinase,P31749,1-480,peptide-Asp108+Gly-peptide,108,P,,Thr,Val,Ala,Asp,Gly,Leu,Lys,Lys,"Xu et al., 2002",,TVADGLKK
+RAC-alpha serine/threonine-protein kinase,P31749,1-480,peptide-Asp119+Phe-peptide,119,P,,Glu,Glu,Met,Asp,Phe,Arg,Ser,Gly,"Xu et al., 2002",,EEMDFRSG
+RAC-alpha serine/threonine-protein kinase,P31749,1-480,peptide-Asp462+Ser-peptide,462,P,,Glu,Cys,Val,Asp,Ser,Glu,Arg,Arg,"Xu et al., 2002",3758,ECVDSERR
+ras GTPase-activating protein 1,P20936,1-1047,peptide-Asp157+Ser-peptide,157,P,,Asp,Glu,Gly,Asp,Ser,Leu,Asp,Gly,"Wen et al., 1999",21101,DEGDSLDG
+ras GTPase-activating protein 1,P20936,1-1047,peptide-Asp455+Gly-peptide,455,P,,Asp,Thr,Val,Asp,Gly,Lys,Glu,Ile,"Wen et al., 1999",20988,DTVDGKEI
+ras GTPase-activating-like protein IQGAP1,P46940,25-Jan,peptide-Asp8+Gly-peptide,8,N,MS,Asp,Glu,Val,Asp,Gly,Leu,Gly,Val,"Schilling & Overall, 2008",,DEVDGLGV
+ras-related C3 botulinum toxin substrate 1,P63000,1-189,peptide-Asp121+Asp-peptide,121,P,,Asp,Leu,Arg,Asp,Asp,Lys,Asp,Thr,"Tu and Cerione, 2001",,DLRDDKDT
+receptor tyrosine-protein kinase erbB-2,P04626,23-1255,peptide-Asp1016+Leu-peptide,1016,P,,Asp,Met,Gly,Asp,Leu,Val,Asp,Ala,"Strohecker et al., 2008",20668,DMGDLVDA
+receptor tyrosine-protein kinase erbB-2,P04626,23-1255,peptide-Asp1019+Ala-peptide,1019,P,,Asp,Leu,Val,Asp,Ala,Glu,Glu,Tyr,"Strohecker et al., 2008",20669,DLVDAEEY
+receptor tyrosine-protein kinase erbB-2,P04626,23-1255,peptide-Asp1125+Gly-peptide,1125,P,,Ser,Glu,Thr,Asp,Gly,Tyr,Val,Ala,"Strohecker et al., 2008",20670,SETDGYVA
+receptor tyrosine-protein kinase erbB-2,P04626,23-1255,peptide-Asp1087+Gly-peptide,1087,P,,Asp,Val,Phe,Asp,Gly,Asp,Leu,Gly,"Strohecker et al., 2008",20671,DVFDGDLG
+retinoblastoma-associated protein,P06400,1-928,peptide-Asp349+Ser-peptide,349,P,,Asp,Ser,Ile,Asp,Ser,Phe,Glu,Thr,"Fattman et al., 2001",3789,DSIDSFET
+retinoblastoma-associated protein,P33568,1-920,peptide-Asp857+Gly-peptide,857,P,CS,Asp,Glu,Ala,Asp,Gly,Ser,Lys,His,"Lemaire et al., 2005",,DEADGSKH
+retinoblastoma-associated protein,P06400,1-928,peptide-Asp886+Gly-peptide,886,P,CS,Asp,Glu,Ala,Asp,Gly,Ser,Lys,His,"Lemaire et al., 2005",,DEADGSKH
+rho GDP-dissociation inhibitor 2,P52566,2-201,peptide-Asp19+Ser-peptide,19,P,,Asp,Glu,Leu,Asp,Ser,Lys,Leu,Asn,"Danley et al., 1996",19279,DELDSKLN
+rho-associated protein kinase 1,Q13464,1-1354,peptide-Asp1113+Gly-peptide,1113,P,,Asp,Glu,Thr,Asp,Gly,Asn,Leu,Pro,"Sebbagh et al., 2001",19414,DETDGNLP
+rho-related GTP-binding protein RhoC precursor,P08134,70-104,peptide-Asp90+Ser-peptide,90,N,MS,Asp,Ser,Pro,Asp,Ser,Leu,Glu,Asn,"Schilling & Overall, 2008",,DSPDSLEN
+Ribonucleases P/MRP protein subunit POP1,Q99575,1-1024,peptide-Asp774+Ala-peptide,774,P,MS,Glu,Val,Met,Asp,Ala,Gly,Cys,Gln,"Impens et al., 2010",,EVMDAGCQ
+RING finger protein 219,Q5W0B1,1-726,peptide-Asp433+Ser-peptide,433,P,MS,Asp,Phe,Cys,Asp,Ser,Ser,Asn,Val,"Impens et al., 2010",,DFCDSSNV
+scaffold attachment factor B1,Q15424,253-285,peptide-Asp262+Ser-peptide,262,N,MS,Asp,Leu,Phe,Asp,Ser,Ala,His,Pro,"Schilling & Overall, 2008",,DLFDSAHP
+scaffold attachment factor B2,Q14151,110-163,peptide-Asp153+Gly-peptide,153,N,MS,Asp,Gly,Thr,Asp,Gly,Leu,Leu,Asp,"Schilling & Overall, 2008",,DGTDGLLD
+scaffold attachment factor B2,Q14151,252-284,peptide-Asp261+Ser-peptide,261,N,MS,Asp,Leu,Phe,Asp,Ser,Ala,His,Pro,"Schilling & Overall, 2008",,DLFDSAHP
+Schlafen family member 5,Q08AF3,1-891,peptide-Asp17+Ala-peptide,17,P,MS,Cys,Val,Val,Asp,Ala,Gly,Lys,Val,"Impens et al., 2010",,CVVDAGKV
+Secretogranin-3 precursor,Q8WXD2,1-468,peptide-Asp136+Gly-peptide,136,P,,Asp,Asp,Pro,Asp,Gly,Leu,His,Gln,"Ju et al., 2007",23569,DDPDGLHQ
+serine-protein kinase ATM,Q13315,Jan-56,peptide-Asp863+Ser-peptide,863,P,,Asp,Tyr,Pro,Asp,Ser,Ser,Val,Ser,"Smith et al., 1999",19245,DYPDSSVS
+serine-protein kinase ATM,Q13315,Jan-56,peptide-Asp2916+Gly-peptide,2916,P,,Asp,Ile,Val,Asp,Gly,Met,Gly,Ile,"Smith et al., 1999",19246,DIVDGMGI
+Serine/arginine repetitive matrix protein 2,Q9UQ35,Jan-52,peptide-Asp1560+Ser-peptide,1560,P,MS,Ser,Glu,Ser,Asp,Ser,Ser,Pro,Asp,"Impens et al., 2010",,SESDSSPD
+Serine/arginine repetitive matrix protein 2,Q8BTI8,3-Jan,Peptide-Asp1516+Ser-Peptide,1516,N,MS,Ser,Glu,Ser,Asp,Ser,Ser,Pro,Asp,"Demon et al., 2009",,SESDSSPD
+Serine/arginine repetitive matrix protein 2,Q8BTI8,3-Jan,Peptide-Asp1502+Gly-Peptide,1502,N,MS,Gln,Glu,Leu,Asp,Gly,Lys,Pro,Ser,"Demon et al., 2009",,QELDGKPS
+Serine/arginine-rich splicing factor 1,Q07955,2-248,peptide-Asp175+Asn-peptide,175,P,,Arg,Lys,Leu,Asp,Asn,Thr,Lys,Phe,"Thiede et al., 2001",,RKLDNTKF
+Serine/arginine-rich splicing factor 1,Q07955,2-248,peptide-Asp139+His-peptide,139,P,,Asp,Leu,Lys,Asp,His,Met,Arg,Glu,"Thiede et al., 2001",,DLKDHMRE
+Serine/arginine-rich splicing factor 1,Q07955,2-248,peptide-Asp154+Gly-peptide,154,P,,Val,Tyr,Arg,Asp,Gly,Thr,Gly,Val,"Thiede et al., 2001",,VYRDGTGV
+Serine/arginine-rich splicing factor 1,Q07955,2-248,peptide-Asp150+Val-peptide,150,P,,Cys,Tyr,Ala,Asp,Val,Tyr,Arg,Asp,"Thiede et al., 2001",,CYADVYRD
+serine/threonine-protein kinase 24,Q9Y6E0,1-443,peptide-Asp325+Gly-peptide,325,P,,Ala,Glu,Thr,Asp,Gly,Gln,Ala,Ser,"Johnston et al., 2000",,AETDGQAS
+serine/threonine-protein kinase 3,Q13188,1-491,peptide-Asp322+Ser-peptide,322,P,,Asp,Glu,Leu,Asp,Ser,His,Thr,Met,"Lee et al., 1998",3858,DELDSHTM
+serine/threonine-protein kinase 4,Q13043,1-487,peptide-Asp326+Ser-peptide,326,P,,Asp,Glu,Met,Asp,Ser,Gly,Thr,Met,"Johnston et al., 2000",3851,DEMDSGTM
+serine/threonine-protein kinase 4,Q13043,1-487,peptide-Asp349+Gly-peptide,349,P,,Thr,Met,Thr,Asp,Gly,Ala,Asn,Thr,"Johnston et al., 2000",3856,TMTDGANT
+serine/threonine-protein kinase D1,Q62101,1-918,peptide-Asp397+Ser-peptide,397,P,,Asp,Gln,Glu,Asp,Ser,Asn,Arg,Thr,"Vantus et al., 2004",,DQEDSNRT
+serine/threonine-protein kinase D1,Q62101,1-918,peptide-Asp355+Ser-peptide,355,P,,Asp,Asp,Asn,Asp,Ser,Glu,Arg,Asn,"Vantus et al., 2004",,DDNDSERN
+serine/threonine-protein kinase DCAMKL1,Q9JLM8,1-756,peptide-Asp369+Gly-peptide,369,P,,Asp,Glu,Asn,Asp,Gly,Pro,Gly,Glu,"Kruidering et al., 2001",18911,DENDGPGE
+serine/threonine-protein kinase DCLK1,O15075,1-740,peptide-Asp369+Gly-peptide,369,P,,Asp,Glu,Asn,Asp,Gly,Pro,Gly,Glu,"Kruidering et al., 2001",,DENDGPGE
+serine/threonine-protein kinase MST4,Q9P289,1-416,peptide-Asp305+Ser-peptide,305,P,,Asp,Glu,Ser,Asp,Ser,Glu,Gly,Ser,"Johnston et al., 2000",19440,DESDSEGS
+serine/threonine-protein kinase N1,Q16512,1-942,peptide-Asp454+Asn-peptide,454,P,,Asp,Phe,Leu,Asp,Asn,Glu,Arg,His,"Takahashi et al., 1998",3818,DFLDNERH
+serine/threonine-protein kinase N1,Q16512,1-942,peptide-Asp558+Ser-peptide,558,P,,Leu,Gly,Thr,Asp,Ser,Asp,Ser,Ser,"Takahashi et al., 1998",3819,LGTDSDSS
+serine/threonine-protein kinase N1,Q16512,1-942,peptide-Asp560+Ser-peptide,560,P,,Thr,Asp,Ser,Asp,Ser,Ser,Pro,Gln,"Takahashi et al., 1998",3820,TDSDSSPQ
+serine/threonine-protein kinase N1,Q16512,1-942,peptide-Asp108+Gly-peptide,108,P,,Ala,Thr,His,Asp,Gly,Pro,Gln,Ser,"Takahashi et al., 1998",3817,ATHDGPQS
+serine/threonine-protein kinase PAK 2,Q13177,1-524,peptide-Asp212+Gly-peptide,212,P,,Ser,His,Val,Asp,Gly,Ala,Ala,Lys,"Walter et al., 1998",3766,SHVDGAAK
+serine/threonine-protein phosphatase 2A 65 kDa regulatory subunit A alpha isoform,P30153,2-589,peptide-Asp218+Ser-peptide,218,P,,Asp,Glu,Gln,Asp,Ser,Val,Arg,Leu,"Santoro et al., 1998",20924,DEQDSVRL
+serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,Q08209,1-521,peptide-Asp385+Gly-peptide,385,P,,Asp,Gly,Phe,Asp,Gly,Ala,Thr,Ala,"Mukerjee et al., 2000",,DGFDGATA
+serpin A3-1,Q9TTE1,25-411,peptide-Asp395+Thr-peptide,395,P,MU,Val,Leu,Lys,Asp,Thr,Gln,Ser,Ile,"Herrera-Mendez et al., 2009",,VLKDTQSI
+serum response factor,P11831,1-508,peptide-Asp254+Ser-peptide,254,P,,Ser,Glu,Ser,Asp,Ser,Ser,Gly,Glu,"Drewett et al., 2001",3756,SESDSSGE
+serum response factor,P11831,1-508,peptide-Asp245+Leu-peptide,245,P,MU,Glu,Glu,Thr,Asp,Leu,Thr,Tyr,Gln,"Chang et al., 2003",22597,EETDLTYQ
+seryl-tRNA synthetase,P0A8L1,1-430,peptide-Asp228+Thr-peptide,228,N,MS,Glu,Glu,Ala,Asp,Thr,Ser,Asn,Tyr,"Timmer et al., 2009",,EEADTSNY
+"seryl-tRNA synthetase, cytoplasmic",P49591,2-514,peptide-Asp513+Ala-peptide,513,P,,Glu,Val,Thr,Asp,Ala,Gly,Gly,Gly,"Casas et al., 2001",19419,EVTDAGGG
+Signal recognition particle 54 kDa protein,P61011,1-504,peptide-Asp391+Gly-peptide,391,P,MS,Asp,Ser,Thr,Asp,Gly,Ala,Lys,Val,"Impens et al., 2010",,DSTDGAKV
+signal recognition particle 72 kDa protein,O76094,2-671,peptide-Asp614+Ala-peptide,614,P,,Ser,Glu,Leu,Asp,Ala,Ser,Lys,Thr,"Utz et al., 1998",19380,SELDASKT
+signal transducer and activator of transcription 1-alpha/beta,P42224,1-750,peptide-Asp694+Gly-peptide,694,P,,Met,Glu,Leu,Asp,Gly,Pro,Lys,Gly,"King & Goodbourn, 1998",20021,MELDGPKG
+similar to RIKEN cDNA 4732495G21 gene,Q562R1,242-255,LPD+GQVITIGNER,#VALUE!,N,MS,-,Leu,Pro,Asp,Gly,Gln,Val,Ile,"Schilling & Overall, 2008",,XLPDGQVI
+"similar to Ubiquinol-cytochrome C reductase iron-sulfur subunit, mitochondrial",A4D1R5,26-45,GLDVD+SLVIEHIQVNKAPK,#VALUE!,N,MS,Leu,Asp,Val,Asp,Ser,Leu,Val,Ile,"Schilling & Overall, 2008",,LDVDSLVI
+Sjoegren syndrome/scleroderma autoantigen 1,O60232,2-199,peptide-Asp55+Cys-peptide,55,P,MS,Thr,Cys,Ala,Asp,Cys,Gly,Thr,Ile,"Impens et al., 2010",,TCADCGTI
+SLC4A1,P02730,1-911,peptide-Asp45+Tyr-peptide,45,P,,Thr,Ala,Thr,Asp,Tyr,His,Thr,Thr,"Mandal et al., 2003",18846,TATDYHTT
+SLC4A1,P02730,1-911,peptide-Asp205+Gly-peptide,205,P,,Glu,Gln,Gly,Asp,Gly,Gly,Thr,Glu,"Mandal et al., 2003",18847,EQGDGGTE
+small nuclear ribonucleoprotein F,P62306,30-65,peptide-Asp52+Gly-peptide,52,N,MS,Glu,Tyr,Ile,Asp,Gly,Ala,Leu,Ser,"Schilling & Overall, 2008",,EYIDGALS
+SP1,P08047,1-785,peptide-Asp590+Ala-peptide,590,P,,Asn,Ser,Pro,Asp,Ala,Gln,Pro,Gln,"Rickers et al., 1999",3794,NSPDAQPQ
+"spectrin alpha chain, brain",Q13813,Jan-72,peptide-Asp1185+Ser-peptide,1185,P,,Asp,Glu,Thr,Asp,Ser,Lys,Thr,Ala,"Nath et al., 1996",18325,DETDSKTA
+"spectrin alpha chain, brain",Q13813,Jan-72,peptide-Asp1478+Ser-peptide,1478,P,,Asp,Ser,Leu,Asp,Ser,Val,Glu,Ala,"Wang et al., 1998",22652,DSLDSVEA
+"spectrin beta chain, brain 1",Q01082,Jan-64,peptide-Asp1457+Ser-peptide,1457,P,,Asp,Glu,Val,Asp,Ser,Lys,Arg,Leu,"Wang et al., 1998",19873,DEVDSKRL
+"spectrin beta chain, brain 1",Q01082,Jan-64,peptide-Asp2146+Thr-peptide,2146,P,,Glu,Thr,Val,Asp,Thr,Ser,Glu,Met,"Wang et al., 1998",19874,ETVDTSEM
+Splicing factor U2AF 65 kDa subunit,P26369,2-475,Peptide-Asp128+Gly-Peptide,128,N,MS,Met,Thr,Pro,Asp,Gly,Leu,Ala,Val,"Demon et al., 2009",,MTPDGLAV
+"splicing factor, arginine/serine-rich 9",Q13242,1-221,peptide-Asp6+Glu-peptide,6,P,,Gly,Trp,Ala,Asp,Glu,Arg,Gly,Gly,"Thiede et al., 2001",,GWADERGG
+Stathmin,P54227,2-149,Peptide-Asp34+Phe-Peptide,34,N,MS,Ser,Val,Pro,Asp,Phe,Pro,Leu,Ser,"Demon et al., 2009",,SVPDFPLS
+STE20/SPS1-related proline-alanine-rich protein kinase,Q9UEW8,1-545,peptide-Asp390+Glu-peptide,390,P,,Asp,Glu,Met,Asp,Glu,Lys,Ser,Glu,"Johnston et al., 2000",,DEMDEKSE
+sterol regulatory element binding protein-2,Q12772,1-1141,peptide-Asp468+Ser-peptide,468,N,,Asp,Glu,Pro,Asp,Ser,Pro,Pro,Val,"Wang et al., 1995",16239,DEPDSPPV
+"succinate dehydrogenase [ubiquinone] flavoprotein subunit, mitochondrial precursor",P31040,600-615,IDEYD+YSKPIQGQQK,#VALUE!,N,MS,Asp,Glu,Tyr,Asp,Tyr,Ser,Lys,Pro,"Schilling & Overall, 2008",,DEYDYSKP
+sulfite reductase [NADPH] hemoprotein beta-component,P17846,2-570,peptide-Asp38+Gly-peptide,38,N,MS,Asp,Leu,Asn,Asp,Gly,Leu,Thr,Gly,"Timmer et al., 2009",,DLNDGLTG
+synphilin-1,Q9Y6H5,1-919,peptide-Asp454+Gln-peptide,454,P,MU,Asp,Glu,Val,Asp,Gln,Asp,Gly,Asn,"Giaime et al., 2006",20020,DEVDQDGN
+syntaxin-5,Q08851,1-355,peptide-Asp209+Ser-peptide,209,P,MU,Asp,Glu,Gln,Asp,Ser,Tyr,Ile,Gln,"Lowe et al., 2004",20733,DEQDSYIQ
+T-cell acute lymphocytic leukemia 1,P17542,1-331,peptide-Asp180+Gly-peptide,180,P,,Glu,Ile,Thr,Asp,Gly,Pro,His,Thr,"Zeuner et al., 2003",20381,EITDGPHT
+T-cell acute lymphocytic leukemia 1,P17542,1-331,peptide-Asp296+Gly-peptide,296,P,,Ser,Ser,Leu,Asp,Gly,Ala,Ala,Ser,"Zeuner et al., 2003",20382,SSLDGAAS
+T-cell surface glycoprotein CD3 zeta chain precursor,P20963,22-164,peptide-Asp28+Pro-peptide,28,P,,Gly,Leu,Leu,Asp,Pro,Lys,Leu,Cys,"Gastman et al., 1999",,GLLDPKLC
+T-cell surface glycoprotein CD3 zeta chain precursor,P20963,22-164,peptide-Asp36+Gly-peptide,36,P,,Tyr,Leu,Leu,Asp,Gly,Ile,Leu,Phe,"Gastman et al., 1999",,YLLDGILF
+T-cell surface glycoprotein CD3 zeta chain precursor,P20963,22-164,peptide-Asp154+Ala-peptide,154,P,,Asp,Thr,Tyr,Asp,Ala,Leu,His,Met,"Gastman et al., 1999",,DTYDALHM
+T-complex protein 1 subunit delta,P50991,2-539,peptide-Asp261+Asn-peptide,261,P,MS,Thr,Asp,Met,Asp,Asn,Gln,Ile,Val,"Impens et al., 2010",,TDMDNQIV
+T-lymphoma invasion and metastasis-inducing protein 1,Q13009,2-1591,peptide-Asp993+His-peptide,993,P,,Asp,Glu,Thr,Asp,His,Ser,Ser,Lys,"Qi et al., 2001",20358,DETDHSSK
+TAR DNA-binding protein 43,Q13148,1-414,peptide-Asp89+Ala-peptide,89,P,MS,Asp,Glu,Thr,Asp,Ala,Ser,Ser,Ala,"Impens et al., 2010",,DETDASSA
+TAR DNA-binding protein 43,Q13148,1-414,Peptide-Asp169+Gly-Peptide,169,P,MU,His,Met,Ile,Asp,Gly,Arg,Trp,Cys,"Suzuki et al., 2011",,HMIDGRWC
+TAR DNA-binding protein 43,Q921F2,1-414,Peptide-Asp89+Ala-Peptide,89,N,MS,Asp,Glu,Thr,Asp,Ala,Ser,Ser,Ala,"Demon et al., 2009",,DETDASSA
+TATA-binding protein-associated factor 2N,Q92804,1-592,peptide-Asp109+Tyr-peptide,109,P,MU,Asp,Gln,Pro,Asp,Tyr,Gly,Gln,Gln,"Alves et al., 2009",,DQPDYGQQ
+tensin,Q04205,1-1744,peptide-Asp1237+Gly-peptide,1237,P,,Asp,Tyr,Pro,Asp,Gly,Arg,Gly,Gly,"Kook et al., 2004",,DYPDGRGG
+tensin-4 precursor,Q8IZW8,19-715,peptide-Asp570+Ser-peptide,570,P,,Asp,Ser,Thr,Asp,Ser,Pro,Ala,Ser,"Lo & Lo, 2005",17864,DSTDSPAS
+Thimet oligopeptidase,P52888,2-689,peptide-Asp13+Ala-peptide,13,P,MS,Asp,Met,Ala,Asp,Ala,Ala,Ser,Pro,"Impens et al., 2010",,DMADAASP
+TNF receptor-associated factor 1,Q13077,1-416,peptide-Asp163+Cys-peptide,163,P,,Leu,Glu,Val,Asp,Cys,Tyr,Arg,Ala,"Irmler et al., 2000",3866,LEVDCYRA
+TNF receptor-associated factor 3,Q13114,1-568,peptide-Asp348+Ser-peptide,348,P,,Glu,Glu,Ala,Asp,Ser,Met,Lys,Ser,"Lee et al., 2001",18967,EEADSMKS
+TNF receptor-associated factor 3,Q13114,1-568,peptide-Asp368+Lys-peptide,368,P,,Glu,Ser,Val,Asp,Lys,Ser,Ala,Gly,"Lee et al., 2001",18968,ESVDKSAG
+transcription factor AP-2 alpha,P05549,1-437,peptide-Asp19+Gly-peptide,19,P,,Asp,Arg,His,Asp,Gly,Thr,Ser,Asn,"Nyormoi et al., 2001",3865,DRHDGTSN
+transcription factor BTF3,P20290,1-206,peptide-Asp175+Gly-peptide,175,P,,Gln,Ser,Val,Asp,Gly,Lys,Ala,Pro,"Thiede et al., 2001",,QSVDGKAP
+transcription factor p65,Q04206,1-551,peptide-Asp97+Gly-peptide,97,P,,Asp,Cys,Arg,Asp,Gly,Phe,Tyr,Glu,"Kang et al., 2001",19477,DCRDGFYE
+Transcription intermediary factor 1-beta,Q13263,2-835,peptide-Asp688+Ser-peptide,688,P,MS,Asp,Gly,Ala,Asp,Ser,Thr,Gly,Val,"Impens et al., 2010",,DGADSTGV
+transforming protein RhoA,P61586,70-104,peptide-Asp90+Ser-peptide,90,N,MS,Asp,Ser,Pro,Asp,Ser,Leu,Glu,Asn,"Schilling & Overall, 2008",,DSPDSLEN
+transitional endoplasmic reticulum ATPase,P55072,2-806,peptide-Asp307+Ala-peptide,307,P,,Asp,Glu,Leu,Asp,Ala,Ile,Ala,Pro,"Jang et al., 2008",,DELDAIAP
+transitional endoplasmic reticulum ATPase,P55072,2-806,peptide-Asp580+Ser-peptide,580,P,,Asp,Glu,Leu,Asp,Ser,Ile,Ala,Lys,"Jang et al., 2008",,DELDSIAK
+Treacle protein,Q13428,1-1488,peptide-Asp1242+Gly-peptide,1242,P,MS,Asp,Asp,Pro,Asp,Gly,Lys,Gln,Glu,"Impens et al., 2010",,DDPDGKQE
+"troponin T, cardiac muscle",P45379,2-298,peptide-Asp98+Asp-peptide,98,P,,Val,Asp,Phe,Asp,Asp,Ile,His,Arg,"Communal et al., 2002",19273,VDFDDIHR
+tubulin beta chain,P07437,103-122,GHYTEGAELVD+SVLDVVRK,#VALUE!,N,MS,Glu,Leu,Val,Asp,Ser,Val,Leu,Asp,"Schilling & Overall, 2008",,ELVDSVLD
+tubulin beta-2A chain,Q13885,103-122,GHYTEGAELVD+SVLDVVRK,#VALUE!,N,MS,Glu,Leu,Val,Asp,Ser,Val,Leu,Asp,"Schilling & Overall, 2008",,ELVDSVLD
+tubulin beta-2B chain,Q9BVA1,103-122,GHYTEGAELVD+SVLDVVRK,#VALUE!,N,MS,Glu,Leu,Val,Asp,Ser,Val,Leu,Asp,"Schilling & Overall, 2008",,ELVDSVLD
+tubulin beta-2C chain,P68371,103-122,GHYTEGAELVD+SVLDVVRK,#VALUE!,N,MS,Glu,Leu,Val,Asp,Ser,Val,Leu,Asp,"Schilling & Overall, 2008",,ELVDSVLD
+tubulin beta-3 chain,Q13509,103-122,GHYTEGAELVD+SVLDVVRK,#VALUE!,N,MS,Glu,Leu,Val,Asp,Ser,Val,Leu,Asp,"Schilling & Overall, 2008",,ELVDSVLD
+Tubulin beta-4A chain,P04350,104-122,GHYTEGAELVD+AVLDVVRK,#VALUE!,N,MS,Glu,Leu,Val,Asp,Ala,Val,Leu,Asp,"Schilling & Overall, 2008",,ELVDAVLD
+"tubulin, beta, 4 variant",Q53G92,103-122,GHYTEGAELVD+SVLDVVRK,#VALUE!,N,MS,Glu,Leu,Val,Asp,Ser,Val,Leu,Asp,"Schilling & Overall, 2008",,ELVDSVLD
+type I restriction enzyme EcoKI M protein,P08957,1-529,peptide-Asp200+Gly-peptide,200,N,MS,Asp,Asp,Leu,Asp,Gly,Asp,Thr,Gln,"Timmer et al., 2009",,DDLDGDTQ
+tyrosine-protein kinase ABL1,P00519,1-1130,peptide-Asp546+Val-peptide,546,P,,Asp,Thr,Thr,Asp,Val,Pro,Glu,Met,"Machuy et al., 2004",20918,DTTDVPEM
+tyrosine-protein kinase Lyn,P07948,2-512,peptide-Asp18+Leu-peptide,18,P,,Asp,Gly,Val,Asp,Leu,Lys,Thr,Gln,"Luciano et al., 2001",3827,DGVDLKTQ
+tyrosine-protein phosphatase non-receptor type 12,P35831,1-775,peptide-Asp552+Gly-peptide,552,P,MU,Asp,Ser,Pro,Asp,Gly,Lys,Ser,Pro,"Halle et al., 2007",,DSPDGKSP
+U1 small nuclear ribonucleoprotein 70 kDa,P08621,1-437,peptide-Asp341+peptide,341,P,,Asp,Gly,Pro,Asp,Gly,Pro,Glu,Glu,"Teraoka et al., 1996",16240,DGPDGPEE
+U6 snRNA-associated Sm-like protein LSm3,P62310,2-102,peptide-Asp6+Gln-peptide,6,P,MS,Asp,Asp,Val,Asp,Gln,Gln,Gln,Thr,"Impens et al., 2010",,DDVDQQQT
+Ubiquitin carboxyl-terminal hydrolase 1,O94782,1-785,peptide-Asp41+Ser-peptide,41,P,MS,Asp,Phe,Thr,Asp,Ser,Gln,Glu,Asn,"Impens et al., 2010",,DFTDSQEN
+Ubiquitin carboxyl-terminal hydrolase 5,P56399,2-858,Peptide-Asp767+Ala-Peptide,767,N,MS,Asp,Asp,Leu,Asp,Ala,Glu,Ala,Ala,"Demon et al., 2009",,DDLDAEAA
+ubiquitin conjugation factor E4 B,O95155,1-1302,peptide-Asp109+Gly-peptide,109,N,,Met,Asp,Ile,Asp,Gly,Val,Ser,Cys,"Mahoney et al., 2002",16241,MDIDGVSC
+ubiquitin-protein ligase E3 Mdm2,Q00987,1-491,peptide-Asp361+Cys-peptide,361,P,,Asp,Val,Pro,Asp,Cys,Lys,Lys,Thr,"Erhardt et al., 1997",19954,DVPDCKKT
+Uncharacterized protein C17orf56,Q96N21,1-525,peptide-Asp192+Ser-peptide,192,P,MS,Asp,Glu,Leu,Asp,Ser,Gly,Pro,Ser,"Impens et al., 2010",,DELDSGPS
+uncharacterized protein yeiA,P25889,1-411,peptide-Asp356+Gly-peptide,356,N,MS,Ser,Cys,Tyr,Asp,Gly,Gly,His,Gln,"Timmer et al., 2009",,SCYDGGHQ
+uncharacterized protein yfeX,P76536,1-299,peptide-Asp165+Ala-peptide,165,N,MS,Asp,Gly,Val,Asp,Ala,Gly,Gly,Ser,"Timmer et al., 2009",,DGVDAGGS
+uncharacterized protein yfeX,P76536,1-299,peptide-Asp206+Gly-peptide,206,N,MS,Glu,Glu,Ile,Asp,Gly,Asp,Glu,Arg,"Timmer et al., 2009",,EEIDGDER
+uncharacterized protein yffQ,P76548,1-125,peptide-Asp19+Val-peptide,19,N,MS,Cys,Phe,Ala,Asp,Val,Gly,Asp,Tyr,"Timmer et al., 2009",,CFADVGDY
+UPF0325 protein yaeH,P62768,1-128,peptide-Asp60+Gly-peptide,60,N,MS,Val,Val,Ala,Asp,Gly,Val,Gly,Gln,"Timmer et al., 2009",,VVADGVGQ
+UPF0381 protein yfcZ,P0AD33,Jan-94,peptide-Asp16+Val-peptide,16,N,MS,Cys,Cys,Met,Asp,Val,Gly,Thr,Ile,"Timmer et al., 2009",,CCMDVGTI
+UPF0568 protein C14orf166,Q9Y224,185-205,HILGFDTGD+AVLNEAAQILR,#VALUE!,N,MS,Asp,Thr,Gly,Asp,Ala,Val,Leu,Asn,"Schilling & Overall, 2008",,DTGDAVLN
+V-type proton ATPase catalytic subunit A,P50516,1-617,Peptide-Asp299+Gly-Peptide,299,N,MS,Met,Glu,Val,Asp,Gly,Lys,Val,Glu,"Demon et al., 2009",,MEVDGKVE
+V-type proton ATPase subunit E 1,P50518,2-226,Peptide-Asp31+Ala-Peptide,31,N,MS,Glu,Glu,Ile,Asp,Ala,Lys,Ala,Glu,"Demon et al., 2009",,EEIDAKAE
+V-type proton ATPase subunit E 2,Q9D593,1-226,peptide-Asp31+Ala-peptide,31,P,MS,Glu,Glu,Ile,Asp,Ala,Lys,Ala,Glu,"Demon et al., 2009",,EEIDAKAE
+V-type proton ATPase subunit H,Q8BVE3,1-483,Peptide-Asp11+Ala-Peptide,11,N,MS,Gly,Ala,Val,Asp,Ala,Ala,Val,Pro,"Demon et al., 2009",,GAVDAAVP
+vav proto-oncogene,P15498,1-845,peptide-Asp161+Cys-peptide,161,P,,Asp,Leu,Tyr,Asp,Cys,Val,Glu,Asn,"Hofmann et al., 2000",18966,DLYDCVEN
+vav proto-oncogene,P15498,1-845,peptide-Asp150+Asp-peptide,150,P,,Asp,Gln,Ile,Asp,Asp,Thr,Val,Glu,"Hofmann et al., 2000",18965,DQIDDTVE
+vimentin,P08670,2-466,peptide-Asp84+Phe-peptide,84,P,,Asp,Ser,Val,Asp,Phe,Ser,Leu,Ala,"Byun et al., 2001",3785,DSVDFSLA
+vimentin,P08670,321-342,peptide-Asp331+Ala-peptide,331,N,MS,Cys,Glu,Val,Asp,Ala,Leu,Lys,Gly,"Schilling & Overall, 2008",,CEVDALKG
+vimentin,P08670,424-439,ETNLD+SLPLVDTHSK,#VALUE!,N,MS,Thr,Asn,Leu,Asp,Ser,Leu,Pro,Leu,"Schilling & Overall, 2008",,TNLDSLPL
+Vimentin,P20152,2-466,Peptide-Asp85+Phe-Peptide,85,N,MS,Asp,Ser,Val,Asp,Phe,Ser,Leu,Ala,"Demon et al., 2009",,DSVDFSLA
+WASH complex subunit FAM21,Q6PGL7,1-1334,Peptide-Asp668+Leu-Peptide,668,N,MS,Asp,Glu,Val,Asp,Leu,Phe,Ala,Ile,"Demon et al., 2009",,DEVDLFAI
+WW domain-binding protein 11,Q923D5,1-641,Peptide-Asp297+Asn-Peptide,297,N,MS,Ser,Glu,Arg,Asp,Asn,Thr,Glu,Glu,"Demon et al., 2009",,SERDNTEE
+Z-Asp-Glu-Val-Asp-aminoluciferin,,,Z-Asp-Glu-Val-Asp+aminoluciferin,#NAME?,S,,Asp,Glu,Val,Asp,Luc,-,-,-,,,DEVDXXXX
+Zinc finger C3H1 domain-containing protein,O60293,Jan-89,peptide-Asp335+Ser-peptide,335,P,MS,Asp,Thr,Thr,Asp,Ser,Ser,Gln,Gly,,,DTTDSSQG
