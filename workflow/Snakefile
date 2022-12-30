@@ -1,14 +1,17 @@
 
+set_names = [ 'In Vitro HYTANE', 'In Vitro LATE', 'Merops', 'In vivo LATE', 'In vivo HYTANE' ]
+
 rule all:
     input:
         "output/jitter.svg",
         "output/dotplot.svg",
-        "analysis/uniprot_go/gene2GO.txt",
-        "analysis/uniprot_go/go.tsv"
+        "output/rrvgo.pdf",
+        "output/rrvgo.csv",
+        expand("output/logo/{set}.pdf", set = set_names)
 
 rule plot:
     input:
-        "input/Test1_cleavages.xlsx"
+        "input/Test2_cleavages.xlsx"
     output:
         jit = "output/jitter.svg",
         dot = "output/dotplot.svg"
@@ -20,11 +23,11 @@ rule uniprot:
         "analysis/uniprot_go/uniprot.tsv"
     params:
         fields = "accession,reviewed,id,protein_name,gene_names,go_id",
-        proteome = "UP000005640"
+        organism = 9606
     conda:
         "envs/tools.yaml"
     shell:
-        "wget -O {output} 'https://rest.uniprot.org/uniprotkb/stream?compressed=false&download=true&fields={params.fields}&format=tsv&query=(proteome:{params.proteome})'"
+        "wget -O {output} 'https://rest.uniprot.org/uniprotkb/stream?compressed=false&download=true&fields={params.fields}&format=tsv&query=(organism_id:{params.organism})'"
 
 rule dload_obo:
     output:
@@ -54,26 +57,93 @@ rule goterms:
     shell:
         "csvcut -tc 'Entry,Gene Ontology IDs' {input} | csvformat -TK1 | tr ';' ',' > {output}"
 
-rule plot:
+rule human_crap:
     input:
-        data    = "input/Go Enrichment.xlsx",
+        "input/HUMAN_CRAP.fasta"
+    output:
+        "analysis/uniprot_go/HUMAN_CRAP.txt"
+    conda:
+        "envs/tools.yaml"
+    shell:
+        "seqkit fx2tab -n -o {output} {input}"
+
+rule degrabase_caspase:
+    input:
+        "input/degrabase.csv"
+    output:
+        "analysis/degrabase/caspase.csv"
+    conda:
+        "envs/tools.yaml"
+    shell:
+        "csvgrep -c 'Sample Table::Perturbagen' -im None {input} | csvgrep -c P1 -m D > {output}"
+
+rule enrichment_calc:
+    input:
+        data    = "input/Unreproted putative substrates Casp3.xlsx", # Casapse_Rawad_LATE.xlsx
         casbah  = "input/casbah.csv",
-        degrabase = "input/degrabase.csv",
+        degrab  = "analysis/degrabase/caspase.csv",
         merops  = "input/utf merops.csv",
         topfind = "input/topfind_caspase_3.csv",
         gene2GO = "analysis/uniprot_go/gene2GO.txt",
         aliases = "input/aliases.txt",
         uniprot = "analysis/uniprot_go/uniprot.tsv",
-        all_proteins = "input/ProteinIDs"
+        all_proteins = "analysis/uniprot_go/HUMAN_CRAP.txt",
+        idd_proteins = "input/ProteinIDs"
     output:
-        venn = "output/venn.pdf"
+        venn = "output/venn.pdf",
+        rds = "analysis/uniprot_go/data.rds"
+    params:
+        q_val = 0.01,
+        genome = "org.Hs.eg.db",
+        sets = [ "Unreported", "Unreported+high ratio" ]
     conda:
-        "evs/r.yaml"
+        "envs/r.yaml"
     script:
         "scripts/enrichment.R"
 
-rule dload_revigo:
+rule enrichment_plot:
+    input:
+        "analysis/uniprot_go/data.rds"
     output:
-        ""
+        fig = "output/rrvgo.pdf",
+        csv = "output/rrvgo.csv"
+    conda:
+        "envs/r.yaml"
+    script:
+        "scripts/enrichment_plot.R"
+
+rule logo_format:
+    input:
+        xlsx = "input/Sequence Logo for Andrey 20220901.xlsx",
+        proteome = "input/HUMAN_CRAP.fasta"
+    output:
+        "analysis/logo/{set}.rds"
     params:
-        url = "https://doc-0c-b0-docs.googleusercontent.com/docs/securesc/v8avg1urtviimhg7ldss94v6s17bdssl/45jd44pskm2c5m9bps8qh5489avj06ev/1660228650000/03966767972772022974/08377576515903177948/0B5DatCOXMaWveHNYRHo5VHZOQWM?e=download&ax=AI9vYm5gHF6HHpmAu3TLDxlZolAPIffFo2f0_iOfogKMXJYpJ5PiVUR7pAUxt6UbrkPN_VuaNjzyc4CHSHt7zEvz-oTqIZ9KLKSaKrP0FPXgpDYla__Twi1nPrciPip1VWC91emGVHwQTpeL08xq5_BuvXIFMcUeFcNwCdh357agZ6KsvVwte8SU0BZUnIClXQyd1ETmlbw8SN3j_8IaA6JO0WTisQf-lw53vaZtiX53zISkW-9JUUUXylr-9hXgc0wFL8JwIA8warjlanC_EY6I9t0ETdhDHEMvMBDeRkI44F_M3ICytEW6HfkZ2yoT5vr5sHmJK0KFrpO3qQ6S--HzE_hZ0i8-Ge-1dpGkurWIoVI9ppc8SE3b2DiYHamIk9zGT959ZUjurzA3xxT37Nfo0FP39u3W90Gv388yLlFZg_gckjFruz5FIP_y5jLkvl3LCq9mD23Cl4A_x6i0cgsp_L0pORbCR3YTASsc97AvEcmzHYYLqloLHq_haVpJ_WcCB7XfUv13k_6MaNVvlSkW1Imb3FSAzsc0_pb-Hc1jlEfwRlAta4jbO9JYtaqMm3UAKjnR7VE0uJglQzZWmRpyqtCaUhuNH45R-WJ7SoMWqCd8OqmvAmkMtiOQ_WyEHh7M9KhpJ2DBquy5nwDDtulwAngANl_LU4cYgOcUjntW5BjrD_3sDEvRZQw4bHro1eQQFBU7tZCUUeh_SDPZ-R8cTkWcnHJ770YHHUCxVgvC2oBBAw&uuid=2bdddcd1-6371-4fc6-9538-64e47c0fd9b1&authuser=0&nonce=dr2isug7gna9i&user=08377576515903177948&hash=1ps46lsi1g25prmhuvr81nnnqkslaghr"
+        residues = 4
+    conda:
+        "envs/r.yaml"
+    script:
+        "scripts/logo_format.R"
+
+rule logo_plot:
+    input:
+        rds = "analysis/logo/{set}.rds",
+        proteome = "input/HUMAN_CRAP.fasta"
+    output:
+        "output/logo/{set}.pdf"
+    conda:
+        "envs/r.yaml"
+    script:
+        "scripts/logo_plot.R"
+
+rule logo_compose:
+    input:
+        expand("analysis/logo/{set}.svg", set = set_names)
+    output:
+        "output/logo.svg"
+    params:
+        labels = set_names
+    conda:
+        "envs/svgutils.yaml"
+    script:
+        "scripts/logo_compose.py"

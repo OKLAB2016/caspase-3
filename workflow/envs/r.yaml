@@ -14,3 +14,7 @@ dependencies:
  - bioconductor-rrvgo=1.6.0
  - bioconductor-org.hs.eg.db=3.14.0
  - bioconductor-viseago=1.8.0
+ - bioconductor-daglogo=1.32.0
+ - bioconductor-uniprot.ws=2.34.0
+ - r-ggseqlogo=0.1
+ - r-grimport2=0.2_0

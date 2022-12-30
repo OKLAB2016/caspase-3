@@ -10,13 +10,18 @@ with(snakemake@output, {
     dot_file <<- dot
 })
 
-trend_factor <- function(Trends, pos) {
-    factor(substr(Trends, pos, pos), levels = c("L", "M", "H"))
+trend_factor <- function(Num.vals) {
+    factor(case_when(
+        is.na(Num.vals) ~ NA_character_,
+        Num.vals < -1 ~ "L",
+        Num.vals >  1 ~ "H",
+        T ~ "M"
+    ), levels = c("L", "M", "H"))
 }
 data <- read_excel(data_file, .name_repair = "universal") %>%
     mutate(In.Vitro = as.numeric(ifelse(In.Vitro == "NA", NA, In.Vitro))) %>%
-    mutate(Trends = ifelse(Trends == "NA", NA, Trends)) %>%
-    mutate(In.Vitro.Trend = trend_factor(Trends, 1), In.Vivo.Trend = trend_factor(Trends, 2))
+    mutate(In.Vivo  = as.numeric(ifelse(In.Vivo  == "NA", NA, In.Vivo))) %>%
+    mutate(In.Vitro.Trend = trend_factor(In.Vitro), In.Vivo.Trend = trend_factor(In.Vivo))
 
 p <- ggplot(data, aes(In.Vitro, In.Vivo, color = In.Vitro > 1 & In.Vivo > 1 | In.Vitro < -1 & In.Vivo < -1)) +
     geom_hline(yintercept = 1, linetype = "dotted") + geom_hline(yintercept = -1, linetype = "dotted") +
@@ -28,7 +33,7 @@ p <- ggplot(data, aes(In.Vitro, In.Vivo, color = In.Vitro > 1 & In.Vivo > 1 | In
     theme(legend.position = "none")
 ggsave(dot_file, p, w = 4, h = 4)
 
-p <- ggplot(data, aes(In.Vitro.Trend, In.Vivo.Trend)) +
+p <- ggplot(filter(data, !is.na(In.Vitro.Trend), !is.na(In.Vivo.Trend)), aes(In.Vitro.Trend, In.Vivo.Trend)) +
     geom_jitter() +
     xlab("In Vitro") +
     ylab("In Vivo") +

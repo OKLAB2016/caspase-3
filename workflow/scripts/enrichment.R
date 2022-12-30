@@ -6,16 +6,15 @@ library(tidyr)
 library(rrvgo)
 library(ViSEAGO)
 library(tibble)
-library(ggplot2)
-library(ggrepel)
 library(GOSemSim)
 library(venn)
-library(ggpolypath)
+library(ggplot2)
 
 with(snakemake@input, {
     data_file <<- data
     gene2GO_file <<- gene2GO
     all_proteins_file <<- all_proteins
+    idd_proteins_file <<- idd_proteins
     uniprot_file <<- uniprot
     merops_file  <<- merops
     casbah_file  <<- casbah
@@ -25,16 +24,17 @@ with(snakemake@input, {
 })
 
 with(snakemake@output, {
-    rrvgo_file <<- rrvgo
-    venn_file  <<- venn
+    rds_file  <<- rds
+    venn_file <<- venn
 })
 
 with(snakemake@params, {
     q_val <<- q_val # 0.01
     genome <<- genome # org.Hs.eg.db
+    set_names <<- sets
 })
 
-read.data <- function(fname, col, aliases, entry_names, genes) {
+read.data <- function(fname, col, aliases, entry_names, genes, my_filter = function(.)T) {
     read.table(fname, header = T, sep = ",", fill = T, quote = '"', comment.char = "") %>%
         rename(Entry.Name = col) %>%
         separate_rows(Entry.Name, sep = "[, ]+") %>%
@@ -43,6 +43,7 @@ read.data <- function(fname, col, aliases, entry_names, genes) {
         mutate(Entry2 = recode(Entry.Name, !!!aliases)) %>%
         mutate(Entry = ifelse(is.na(Entry), Entry2, Entry)) %>%
         filter(Entry %in% genes) %>%
+        filter(my_filter(.)) %>%
         distinct(Entry) %>% pull
 }
 
@@ -57,74 +58,73 @@ genes <- uniprot$Entry
 merops  <- read.data(merops_file,  "Uniprot", aliases, entry_names, uniprot$Entry)
 topfind <- read.data(topfind_file, "ac",      aliases, entry_names, uniprot$Entry)
 casbah  <- read.data(casbah_file,  "UniProt", aliases, entry_names, uniprot$Entry)
-degrab  <- read.data(degrab_file,  "Acc..",   aliases, entry_names, uniprot$Entry)
+degrab  <- read.data(degrab_file,  "Acc..",   aliases, entry_names, uniprot$Entry, my_filter = function(.) .$P1 %in% c("D","E") )
 rawad   <- read_excel(data_file) %>%
     gather(set, gene) %>%
     filter(!is.na(gene)) %>%
-    filter(set == "All D/E  n>1 Ratio<-1") %>%
-    pull(gene)
-all_datasets <- list(merops = merops, topfind = topfind, casbah = casbah, degrab = degrab, rawad = rawad)
-
-p <- venn(all_datasets, ggplot = T, zcolor = "style")
-ggsave(venn_file, p)
-
-ontologies <- c("MF", "BP", "CC")
-semdata <- lapply(ontologies, function(ont) godata(genome, ont = ont)) %>%
-    setNames(ontologies)
+    mutate(gene = recode(gene, !!!aliases)) %>%
+    filter(set %in% set_names) %>%
+    split(f = as.factor(.$set)) %>%
+    lapply(pull, "gene")
 
 gene2GO <- readMappings(gene2GO_file)
 gene2GO_df <- read.table(gene2GO_file, col.names = c("gene", "GO"), sep = "\t") %>%
     separate_rows(GO, sep = ", ")
-all_proteins <- pull(read.table(all_proteins_file))
+all_proteins <- read.table(all_proteins_file, sep = "|", quote = "", fill = T) %>%
+    filter(grepl("OS=Homo sapiens", V3)) %>%
+    mutate(id = recode(V2, !!!aliases)) %>%
+    pull(V2)
+idd_proteins <- readLines(idd_proteins_file) %>%
+    recode(!!!aliases)
 
-topgo_test <- function(genes) {
-    lapply(ontologies, function(ontology) {
-        de_genes <- all_proteins %in% genes %>%
-            as.numeric %>%
-            as.factor %>%
-            setNames(all_proteins)
-
-        test <- new("topGOdata", ontology = ontology, allGenes = de_genes, annot = annFUN.gene2GO, gene2GO = gene2GO, nodeSize = 10) %>%
-            runTest(algorithm = "classic", statistic = "fisher") %>%
-            `@`("score") %>%
-            data.frame(pvalue = ., ID = names(.)) %>%
-            mutate(qvalue = p.adjust(pvalue, "fdr"), score = -log10(qvalue)) %>%
-            filter(qvalue <= q_val)
-    }) %>% setNames(ontologies) %>%
-        bind_rows(.id = "ontology")
-}
-rrvgo_coords <- function(best_tests) {
-    lapply(ontologies, function(ont) {
-        test <- filter(best_tests, ontology == ont)
-        simMatrix <- filter(test, ontology == ont) %>%
-            with(calculateSimMatrix(ID, orgdb = genome, ont = ont, method = "Rel", semdata = semdata[[ont]]))
-        scores <- with(test, setNames(score, ID))
-        reducedTerms <- reduceSimMatrix(simMatrix, scores, threshold = 0.7, orgdb = genome)
-        scatterPlot(simMatrix, reducedTerms, size = "size")$data
-    }) %>% setNames(ontologies) %>%
-        bind_rows(.id = "ontology")
-}
-
-tests <- lapply(all_datasets, topgo_test)
-best_tests <- bind_rows(tests, .id = "set") %>%
-    arrange(qvalue) %>%
-    distinct(ID, .keep_all = T)
-coords <- rrvgo_coords(best_tests) %>%
-    rownames_to_column("GO")
-plot_data <- lapply(all_datasets, data.frame) %>%
+# all_datasets <- list(merops = merops, topfind = topfind, casbah = casbah, degrab = degrab) %>%
+#     c(rawad)
+all_datasets <- list(topfind = topfind) %>%
+    c(rawad)
+all_datasets_df <- lapply(all_datasets, data.frame) %>%
     lapply(setNames, "gene") %>%
     bind_rows(.id = "set") %>%
     left_join(gene2GO_df, by = "gene") %>%
     group_by(GO, set) %>%
     summarize(n_genes = n(), .groups = "drop") %>%
-    left_join(coords, by = "GO") %>%
-    filter(!is.na(V1))
-p <- ggplot(plot_data, aes(x = V1, y = V2, color = parentTerm)) +
-    geom_point(aes(size = n_genes), alpha = 0.5) +
-    geom_text_repel(data = distinct(enrichment, set, ontology, parentTerm, .keep_all = T), aes(label = parentTerm)) +
-    xlab("Semantic axis 1") + ylab("Semantic axis 2") +
-    scale_size(trans = "log10") +
-    scale_color_discrete(guide = "none") +
-    theme_bw() +
-    facet_grid(ontology ~ set)
-ggsave(rrvgo_file, p, width = 20, height = 12)
+    filter(GO != "")
+
+p <- venn(all_datasets, ggplot = T, zcolor = "style")
+ggsave(venn_file, p)
+
+gene_sets <- lapply(all_datasets, function(x) as.numeric(all_proteins %in% x)) %>%
+    lapply(as.factor) %>% 
+    lapply(setNames, all_proteins)
+
+ontologies <- c("MF", "BP", "CC")
+# ontologies <- c("CC")
+
+go_data <- lapply(ontologies, function(ont) {
+    topgo_objects <- lapply(gene_sets, function(x) new("topGOdata", allGenes = x, ontology = ont, annot = annFUN.gene2GO, gene2GO = gene2GO, nodeSize = 10))
+    topgo_results <- lapply(topgo_objects, runTest, algorithm = "classic", statistic = "fisher")
+    topgo_df      <- lapply(topgo_results, slot, "score") %>%
+        lapply(as.data.frame) %>%
+        lapply(rownames_to_column, "GO") %>%
+        bind_rows(.id = "set") %>%
+        rename(pvalue = "X[[i]]") %>%
+        group_by(set) %>%
+        mutate(qvalue = p.adjust(pvalue, "fdr"), score = -log10(qvalue)) %>%
+        filter(qvalue <= q_val)
+    best_tests <- arrange(topgo_df, qvalue) %>%
+        distinct(GO, .keep_all = T) %>%
+        with(setNames(score, GO))
+    simMatrix <- calculateSimMatrix(names(best_tests), orgdb = genome, ont = ont, method = "Rel", semdata = godata(genome, ont = ont))
+    reducedTerms <- reduceSimMatrix(simMatrix, best_tests, threshold = 0.7, orgdb = genome)
+    rrvgo_coords <- scatterPlot(simMatrix, reducedTerms, size = "size") %>%
+        `$`("data") %>%
+        rownames_to_column("GO")
+
+    # vesiago_objs  <- mapply(function(obj, res) merge_enrich_terms(list("obj", "res")), obj = topgo_objects, res = topgo_results)
+
+    plot_data <- left_join(all_datasets_df, rrvgo_coords, by = "GO") %>%
+        left_join(topgo_df, by = c("GO", "set")) %>%
+        filter(!is.na(V1))
+    list(plot_data = plot_data)
+}) %>% setNames(ontologies)
+
+saveRDS(go_data, file = rds_file)
